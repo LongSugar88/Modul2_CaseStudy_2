@@ -8,8 +8,13 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class WriteProductInfomation {
-    public void splitPrice(String price){
-        if()
+    public String splitPrice(String price){
+        if(price.length() > 11){
+            price = price.substring(8, 19);
+            return price;
+        }
+        else
+            return price;
     }
 
     public void getProductInformation(String linkContent, String linkFileText){
@@ -42,9 +47,11 @@ public class WriteProductInfomation {
             while (link.find() && NameAndPrice.find()){
                 count++;
                 System.out.println(count + "," + NameAndPrice.group(1)+ "," + NameAndPrice.group(4)+ "," + link.group(1));
-                String productInformation = NameAndPrice.group(1)+ "," + NameAndPrice.group(4)+ "," + link.group(1);
-                fileOutputStream.write();
+                String productInformation = NameAndPrice.group(1)+ "," + splitPrice(NameAndPrice.group(4))+ "," + link.group(1);
+                fileOutputStream.write(productInformation.getBytes());
+                fileOutputStream.write("\n".getBytes());
             }
+            fileOutputStream.close();
         } catch (MalformedURLException e) {
             e.printStackTrace();
         } catch (FileNotFoundException e){
