@@ -10,7 +10,7 @@ import java.util.regex.Pattern;
 public class WriteProductInfomation {
     public String splitPrice(String price){
         if(price.length() > 11){
-            price = price.substring(8, 19);
+            price = price.substring(8, 18);
             return price;
         }
         else
@@ -18,17 +18,6 @@ public class WriteProductInfomation {
     }
 
     public void getProductInformation(String linkContent, String linkFileText){
-//        try {
-//            URL url = new URL(linkContent);
-//            File file = new File(linkFileText);
-//            if(!file.exists()) throw new FileNotFoundException();
-//            FileWriter fileWriter = new FileWriter(file);
-//            BufferedWriter bufferedWriter = new BufferedWriter(fileWriter);
-//            Scanner scan = new Scanner(url.openStream());
-//
-//        } catch (IOException e) {
-//            e.printStackTrace();
-//        }
         try{
             URL url = new URL(linkContent);
             File file = new File(linkFileText);
@@ -60,4 +49,8 @@ public class WriteProductInfomation {
             e.printStackTrace();
         }
     }
+
+//    public static void main(String[] args) {
+//        getProductInformation("https://pico.vn/may-giat-nhom-72.html", "D:\\CodeGYM Course\\Modul_2\\Week4\\CaseStudy_2\\src\\SourceProductInformation\\Pico\\Washing_Machine.txt");
+//    }
 }
