@@ -1,6 +1,10 @@
 package Product;
 
 public enum ProductType {
-    MOBILEPHONE;
-
+    MOBILEPHONE,
+    WASHINGMACHINE,
+    LAPTOP,
+    TELEVISION,
+    FRIDGE,
+    AIRCONDITION
 }

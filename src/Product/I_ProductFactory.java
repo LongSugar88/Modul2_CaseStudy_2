@@ -1,5 +1,5 @@
 package Product;
 
 public interface I_ProductFactory {
-    Product creatProduct(ProductType type);
+    public Product creatProduct(String productType);
 }

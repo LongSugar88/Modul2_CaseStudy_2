@@ -1,16 +1,16 @@
 package Product;
 
-public class MobilePhone extends Product {
+public class Laptop extends Product {
     private String color;
-    private String type;
+    private double size;
 
-    public MobilePhone(){
+    public Laptop(){
 
     }
-    public MobilePhone(String id, String name,String brand, int price, String color, String type){
+    Laptop(String id, String name,String brand, int price, String color, double size){
         super(id, name, brand, price);
         this.color = color;
-        this.type = type;
+        this.size = size;
     }
 
     public String getColor() {
@@ -21,12 +21,12 @@ public class MobilePhone extends Product {
         this.color = color;
     }
 
-    public String getType() {
-        return type;
+    public double getSize() {
+        return size;
     }
 
-    public void setType(String type) {
-        this.type = type;
+    public void setSize(double size) {
+        this.size = size;
     }
     @Override
     public String toString() {

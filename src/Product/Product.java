@@ -16,21 +16,37 @@ public abstract class Product {
         this.price = price;
     }
 
-    public abstract String getId();
+    public String getId() {
+        return id;
+    }
 
-    public abstract void setId(String id);
+    public void setId(String id) {
+        this.id = id;
+    }
 
-    public abstract String getName();
+    public String getName() {
+        return name;
+    }
 
-    public abstract void setName(String name);
+    public void setName(String name) {
+        this.name = name;
+    }
 
-    public abstract int getPrice();
+    public int getPrice() {
+        return price;
+    }
 
-    public abstract void setPrice(int price);
+    public void setPrice(int price) {
+        this.price = price;
+    }
 
-    public abstract String getBrand();
+    public String getBrand() {
+        return brand;
+    }
 
-    public abstract void setBrand(String brand);
+    public void setBrand(String brand) {
+        this.brand = brand;
+    }
 
     public abstract String toString();
 }
