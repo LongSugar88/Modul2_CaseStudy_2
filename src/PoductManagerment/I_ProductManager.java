@@ -3,8 +3,7 @@ package PoductManagerment;
 import Product.Product;
 
 public interface I_ProductManager {
-    boolean add();
-    boolean edit();
-    Product remove();
-    int size();
+    void add(Product product);
+    boolean edit(int index);
+    Product remove(int index);
 }
