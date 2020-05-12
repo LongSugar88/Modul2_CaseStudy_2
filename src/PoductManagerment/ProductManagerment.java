@@ -37,7 +37,11 @@ public class ProductManagerment implements I_ProductManager, I_FindProduct, I_Ed
         else if(findByBrand(findKey)){
             findByBrand(findKey);
         }
-        int key = 0;
+        else {
+            int price = Integer.parseInt(findKey);
+            findByPrice(price - 1000000, price + 1000000);
+        }
+        int key = -1;
         while (key != 0){
             ProductType productType = null;
             System.out.println("Choose a number to use these function below: ");
@@ -61,7 +65,6 @@ public class ProductManagerment implements I_ProductManager, I_FindProduct, I_Ed
                 System.out.println("6. Edit type's product");
             }
             int num = scan.nextInt();
-            scan.nextLine();
             scan.nextLine();
             switch (num){
                 case 0:
@@ -127,6 +130,12 @@ public class ProductManagerment implements I_ProductManager, I_FindProduct, I_Ed
         myProduct.remove(index);
         return token;
     }
+
+    @Override
+    public Product get(int index) {
+        return myProduct.get(index);
+    }
+
     @Override
     public boolean findByName(String name) {
         boolean isContains = false;
@@ -273,5 +282,8 @@ public class ProductManagerment implements I_ProductManager, I_FindProduct, I_Ed
                 throw new NotImplementedException();
         }
         return true;
+    }
+
+    public ProductManagerment() {
     }
 }

@@ -1,13 +1,17 @@
 package Product;
 
+import java.io.*;
+import java.util.ArrayList;
+
 public class WashingMachine extends Product {
+    ArrayList<Product> arrayList = new ArrayList();
     private String type;
 
     WashingMachine(){
 
     }
-    WashingMachine(String id, String name,String brand, int price,String type){
-        super(id, name, brand, price);
+    public WashingMachine(String id, String name, String brand, int price, String link, String type){
+        super(id, name, brand, price, link);
         this.type = type;
     }
 
@@ -23,4 +27,5 @@ public class WashingMachine extends Product {
     public String toString() {
         return null;
     }
+
 }

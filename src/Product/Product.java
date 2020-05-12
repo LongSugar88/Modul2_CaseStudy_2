@@ -5,15 +5,26 @@ public abstract class Product {
     private String name;
     private int price;
     private String brand;
+    private String link;
 
     public Product(){
 
     }
-    public Product(String id, String name,String brand, int price){
+
+    public String getLink() {
+        return link;
+    }
+
+    public void setLink(String link) {
+        this.link = link;
+    }
+
+    public Product(String id, String name, String brand, int price, String link){
         this.id = id;
         this.name = name;
         this.brand = brand;
         this.price = price;
+        this.link = link;
     }
 
     public String getId() {

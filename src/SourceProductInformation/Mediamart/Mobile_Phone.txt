@@ -1,1 +1,5 @@
-﻿
+0000,Máy Giặt Panasonic 8kg NAF80VS9GRV,Samsung,10000,https://pico.vn/33710/may-giat-panasonic-naf80vs9grv--80kg.html
+0001,Máy giặt Panasonic NAF85A4GRV - 8.5kg,Samsung,10000,https://pico.vn/36337/may-giat-panasonic-naf85a4grv--85kg.html
+0000,Máy Giặt Panasonic 8kg NAF80VS9GRV,Samsung,10000,https://pico.vn/33710/may-giat-panasonic-naf80vs9grv--80kg.html
+0001,Máy giặt Panasonic NAF85A4GRV - 8.5kg,Samsung,10000,https://pico.vn/36337/may-giat-panasonic-naf85a4grv--85kg.html
+0000,Máy Giặt Panasonic 8kg NAF80VS9GRV,Samsung,10000,https://pico.vn/33710/may-giat-panasonic-naf80vs9grv--80kg.html

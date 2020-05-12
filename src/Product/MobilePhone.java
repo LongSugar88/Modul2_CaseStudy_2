@@ -7,8 +7,8 @@ public class MobilePhone extends Product {
     public MobilePhone(){
 
     }
-    public MobilePhone(String id, String name,String brand, int price, String color, String type){
-        super(id, name, brand, price);
+    public MobilePhone(String id, String name,String brand, int price,String link, String color, String type){
+        super(id, name, brand, price, link);
         this.color = color;
         this.type = type;
     }

@@ -7,8 +7,8 @@ public class Laptop extends Product {
     public Laptop(){
 
     }
-    Laptop(String id, String name,String brand, int price, String color, double size){
-        super(id, name, brand, price);
+    Laptop(String id, String name,String brand, int price,String link, String color, double size){
+        super(id, name, brand, price, link);
         this.color = color;
         this.size = size;
     }
