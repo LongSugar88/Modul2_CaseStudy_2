@@ -58,3 +58,63 @@ PicoW0057|WashingMachine|Máy Giặt Toshiba DC1000CVWB 9 Kg Xám Bạc|Toshiba|
 PicoW0058|WashingMachine|Máy giặt Toshiba B1100GV|Toshiba|6590000|https://pico.vn/21227/may-giat-toshiba-b1100gv-10kg-mau-xam-dong.html|normal
 PicoW0059|WashingMachine|Máy Giặt Toshiba B1000GV 9Kg|Toshiba|6390000|https://pico.vn/21225/may-giat-toshiba-b1000gv-9kg-mau-xanh-duong.html|normal
 PicoW0060|WashingMachine|Máy Giặt Toshiba A800SVWB 7.0 kg|Toshiba|4190000|https://pico.vn/13991/may-giat-toshiba-a800svwb-70kg--nhap-khau.html|normal
+PicoW001|MobilePhone|Samsung Galaxy Note 8 Đen|Samsung|14990000|https://pico.vn/36140/dien-thoai-di-dong-samsung-n950-den--galaxy-note-8.html|normal
+PicoW002|MobilePhone|Samsung Galaxy Note 8 Gold|Samsung|14990000|https://pico.vn/36142/dien-thoai-di-dong-samsung-n950-vang--galaxy-note-8.html|normal
+PicoW003|MobilePhone|Điện thoại di động Samsung Galaxy S8 Plus|Samsung|14990000|https://pico.vn/35111/dien-thoai-di-dong-samsung-g955-den--galaxy-s8-plus.html|normal
+PicoW004|MobilePhone|Galaxy S8 Plus Vàng||14990000|https://pico.vn/35351/dien-thoai-di-dong-samsung-g955-vang--galaxy-s8-plus.html|normal
+PicoW005|MobilePhone|Điện thoại di động Samsung Galaxy S8 - Màu Đen|Samsung|13990000|https://pico.vn/35110/dien-thoai-di-dong-samsung-g950-den--galaxy-s8.html|normal
+PicoW006|MobilePhone|iPhone 6 32GB Gold MQ3E2VNA||6990000|https://pico.vn/35249/dien-thoai-apple-iphone-6-gold-32gb-mq3e2vna.html|normal
+PicoW007|MobilePhone|Galaxy J7 Prime Đen||4599000|https://pico.vn/33373/dien-thoai-di-dong-samsung-g610-mau-den--galaxy-j7-prime.html|normal
+PicoW008|MobilePhone|Điện Thoại Nokia 5 Đen ||2290000|https://pico.vn/35887/dien-thoai-di-dong-nokia-5-black--ta1053.html|normal
+PicoW009|MobilePhone|Điện Thoại Nokia 5 - Màu Xanh NK1053BL||2290000|https://pico.vn/35977/dien-thoai-di-dong-nokia-5-blue--ta1053.html|normal
+PicoW0010|MobilePhone|Điện Thoại Nokia 5 NK1053C - Màu Đồng||2290000|https://pico.vn/36022/dien-thoai-di-dong-nokia-5-copper--dong---ta1053.html|normal
+PicoW0011|MobilePhone|Điện Thoại Nokia 5 Bạc||2290000|https://pico.vn/35882/dien-thoai-di-dong-nokia-5-silver--ta1053.html|normal
+PicoW0012|MobilePhone|Điện Thoại Samsung Galaxy J2 Prime - Màu Vàng|Samsung|1890000|https://pico.vn/34591/dien-thoai-di-dong-samsung-g532-mau-vang--galaxy-j2-prime.html|normal
+PicoW0013|MobilePhone|Điện Thoại Nokia 3310 Blue||999000|https://pico.vn/35525/dien-thoai-di-dong-nokia-3310-mau-blue.html|normal
+PicoW0014|MobilePhone|Điện Thoại Nokia 3310 Grey||999000|https://pico.vn/35526/dien-thoai-di-dong-nokia-3310-mau-grey.html|normal
+PicoW0015|MobilePhone|Điện thoại di động Nokia 225 Bright Green||999000|https://pico.vn/25405/dien-thoai-di-dong-nokia-225-bright-green.html|normal
+PicoW0016|MobilePhone|Điện Thoại Di Động Nokia N108 Đen||748000</|https://pico.vn/22679/dien-thoai-di-dong-nokia-n108-den.html|normal
+PicoW0017|MobilePhone|Điện Thoại Di Động Samsung Galaxy A7 2017|Samsung|6990000|https://pico.vn/34778/dien-thoai-di-dong-samsung-a720-mau-vang--galaxy-a7-2017.html|normal
+PicoW0018|MobilePhone|Điện thoại Samsung Galaxy A5 2017|Samsung|5590000|https://pico.vn/34685/dien-thoai-di-dong-samsung-a520--galaxy-a5-2017.html|normal
+PicoW0019|MobilePhone|Điện Thoại Nokia NK150B ( RM-1190 )||719000</|https://pico.vn/35277/dien-thoai-di-dong-nokia-rm1190-150-ds-black.html|normal
+PicoW0020|MobilePhone|Điện Thoại Samsung Galaxy J2 Core Đen|Samsung|1990000|https://pico.vn/39043/dien-thoai-di-dong-samsung-j260g-mau-den--galaxy-j2-core.html|normal
+PicoW0021|MobilePhone|Điện Thoại Oppo A7 64GB Vàng||3690000|https://pico.vn/38842/dien-thoai-di-dong-oppo-a7-64gb--cph1905-vang.html|normal
+PicoW0022|MobilePhone|Iphone XR 64GB White||19990000|https://pico.vn/38745/dien-thoai-di-dong-iphone-xr-64gb-white-mry52vna.html|normal
+PicoW0023|MobilePhone|Iphone XS Max 256GB Gold||29990000|https://pico.vn/38737/dien-thoai-di-dong-iphone-xs-max-256gb-gold--mt552vna.html|normal
+PicoW0024|MobilePhone|Iphone XS Max 64GB Space Grey ||29990000|https://pico.vn/38732/dien-thoai-di-dong-iphone-xs-max-64gb-space-grey--mt502vna.html|normal
+PicoW0025|MobilePhone|Iphone XS 256GB Gold||29990000|https://pico.vn/38728/dien-thoai-di-dong-iphone-xs-256gb-gold--mt9k2vna.html|normal
+PicoW0026|MobilePhone|Điện Thoại Di Động Oppo F9 Xanh||4990000|https://pico.vn/38544/dien-thoai-di-dong-oppo-f9---cph1825-xanh.html|normal
+PicoW0027|MobilePhone|Điện Thoại Di Động Nokia 2.1 Blue||1690000|https://pico.vn/38490/dien-thoai-di-dong-nokia-21-ta1080-ds-vn-bluecopper11e2mx21b06.html|normal
+PicoW0028|MobilePhone|Điện Thoại Di Động Nokia 6.1 Plus Blue||3590000|https://pico.vn/38473/dien-thoai-di-dong-nokia-61-plus-ta1116-ds-vn-blue11drgl21a08.html|normal
+PicoW0029|MobilePhone|Điện Thoại Di Động Nokia 6.1 Plus Black||3590000|https://pico.vn/38472/dien-thoai-di-dong-nokia-61-plus-ta1116-ds-vn-black11drgb21a09.html|normal
+PicoW0030|MobilePhone|Điện Thoại Di Động Nokia 3.1 2018 Blue||2390000|https://pico.vn/38135/dien-thoai-di-dong-nokia-31-2018--ta1063-ds-216-vn-blue.html|normal
+PicoW0031|MobilePhone|Điện Thoại Di Động Nokia 3.1 2018 Black||2390000|https://pico.vn/38134/dien-thoai-di-dong-nokia-31-2018-ta1063-ds-216-vn-black.html|normal
+PicoW0032|MobilePhone|Oppo F7 64G Đen||3690000|https://pico.vn/38127/dien-thoai-di-dong-oppo-f7-den--cph1819-black.html|normal
+PicoW0033|MobilePhone|Điện Thoại Huawei Y7 Pro 2018 Đen||1790000|https://pico.vn/38093/dien-thoai-di-dong-huawei-y7-pro-2018-denldnlx2b.html|normal
+PicoW0034|MobilePhone|Điện Thoại Di Động Huawei Y7 Pro 2018 Vàng||1790000|https://pico.vn/37992/dien-thoai-di-dong-huawei-y7-pro-2018-vangldnlx2g.html|normal
+PicoW0035|MobilePhone|Điện Thoại Huawei Y7 Pro 2018 Xanh||1790000|https://pico.vn/37883/dien-thoai-di-dong-huawei-y7-pro-2018-xanhldnlx2blue.html|normal
+PicoW0036|MobilePhone|Điện Thoại Huawei Y6 Prime 2018 Vàng||1790000|https://pico.vn/37873/dien-thoai-di-dong-huawei-y6-prime-2018-vangatul42g.html|normal
+PicoW0037|MobilePhone|Điện Thoại Huawei Y6 Prime 2018 Xanh||1790000|https://pico.vn/37872/dien-thoai-di-dong-huawei-y6-prime-2018-xanhatul42blue.html|normal
+PicoW0038|MobilePhone|Điện Thoại Huawei Nova 3e Hồng||2490000|https://pico.vn/37871/dien-thoai-di-dong-huawei-nova-3e-honganelx2p.html|normal
+PicoW0039|MobilePhone|Điện Thoại Huawei Nova 3e Đen||2490000|https://pico.vn/37869/dien-thoai-di-dong-huawei-nova-3e-denanelx2b.html|normal
+PicoW0040|MobilePhone|Oppo F7 128G Đen ||4490000|https://pico.vn/37705/dien-thoai-di-dong-oppo-f7-128g-den--cph1821-black.html|normal
+PicoW0041|MobilePhone|Điện Thoại Nokia 8110 4G Đen||1290000|https://pico.vn/37694/dien-thoai-di-dong-nokia-8110-4g--black.html|normal
+PicoW0042|MobilePhone|Nokia 7 Plus NK1046 Trắng||4490000|https://pico.vn/37693/dien-thoai-di-dong-nokia-7-plus-ta1046-ds-464-vn-white-mau-trang.html|normal
+PicoW0043|MobilePhone|Oppo F7 - CPH1819 Silver||3690000|https://pico.vn/37545/dien-thoai-di-dong-oppo-f7-bac--cph1819-silver.html|normal
+PicoW0044|MobilePhone|Oppo F7 - CPH1819 Red||3690000|https://pico.vn/37544/dien-thoai-di-dong-oppo-f7-do--cph1819-red.html|normal
+PicoW0045|MobilePhone|Nokia 6 2018 Đen||2990000|https://pico.vn/37525/dien-thoai-di-dong-nokia-61-ta1043-ds-332-vn-black11pl2b21a06.html|normal
+PicoW0046|MobilePhone|Nokia 7 Plus NK1046 Đen||4490000|https://pico.vn/37489/dien-thoai-di-dong-nokia-7-plus-ta1046-ds-464-vn-black-copper-mau-den.html|normal
+PicoW0047|MobilePhone| Samsung Galaxy S9 Tím |Samsung|17990000|https://pico.vn/37178/dien-thoai-di-dong-samsung-g965-tim--purple---galaxy-s9.html|normal
+PicoW0048|MobilePhone|Samsung Galaxy S9+ Purple|Samsung|19900000|https://pico.vn/37172/dien-thoai-di-dong-samsung-g965-tim--purple---galaxy-s9.html|normal
+PicoW0049|MobilePhone|Samsung Galaxy S9 Plus Đen|Samsung|19900000|https://pico.vn/37060/dien-thoai-di-dong-samsung-g965-den--galaxy-s9.html|normal
+PicoW0050|MobilePhone|Samsung Galaxy A8 Plus 2018 Tím Khói|Samsung|5490000|https://pico.vn/37015/dien-thoai-di-dong-samsung-a730-mau-tim-khoi--galaxy-a8-plus-2018.html|normal
+PicoW0051|MobilePhone|Samsung Galaxy Note 8 Tím Khói|Samsung|14990000|https://pico.vn/37012/dien-thoai-di-dong-samsung-n950-orchid-gray-tim-khoi--galaxy-note-8.html|normal
+PicoW0052|MobilePhone|Samsung Galaxy A8 2018 Tím Khói|Samsung|6990000|https://pico.vn/37011/dien-thoai-di-dong-samsung-a530-mau-tim-khoi--galaxy-a8-2018.html|normal
+PicoW0053|MobilePhone|OPPO CPH1729 A83 Đen||2490000|https://pico.vn/36959/dien-thoai-di-dong-oppo-cph1729--a83-den.html|normal
+PicoW0054|MobilePhone|Samsung Galaxy A8 Plus Đen|Samsung|5490000|https://pico.vn/36890/dien-thoai-di-dong-samsung-a730-mau-den--galaxy-a8-plus-2018.html|normal
+PicoW0055|MobilePhone|Samsung Galaxy A8 Plus Vàng|Samsung|5490000|https://pico.vn/36889/dien-thoai-di-dong-samsung-a730-mau-vang--galaxy-a8-plus-2018.html|normal
+PicoW0056|MobilePhone|Samsung Galaxy A8 2018 Vàng|Samsung|6990000|https://pico.vn/36888/dien-thoai-di-dong-samsung-a530-mau-vang--galaxy-a8-2018.html|normal
+PicoW0057|MobilePhone|Iphone X 64GB Silver||20990000|https://pico.vn/36837/dien-thoai-di-dong-iphone-x-64gb-silver-a1865mqa62zpa.html|normal
+PicoW0058|MobilePhone|Điện Thoại Di Động Nokia 130 Màu Đen||519000</|https://pico.vn/36449/dien-thoai-di-dong-nokia-130-mau-den--new-model-2017.html|normal
+PicoW0059|MobilePhone|Oppo A71 Đen Ram 3Gb/16Gb||2190000|https://pico.vn/36351/dien-thoai-di-dong-oppo-a71--cph1717-mau-den.html|normal
+PicoW0060|MobilePhone|OPPO A71 Vàng Ram 3Gb/16Gb||2190000|https://pico.vn/36350/dien-thoai-di-dong-oppo-a71--cph1717-mau-vang.html|normal

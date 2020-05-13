@@ -6,6 +6,10 @@ public class ProductFactory implements I_ProductFactory{
         switch (productType){
             case MOBILEPHONE:
                 return new MobilePhone();
+            case LAPTOP:
+                return new Laptop();
+            case WASHINGMACHINE:
+                return new WashingMachine();
             default:
                 throw new NotImplementedException();
         }

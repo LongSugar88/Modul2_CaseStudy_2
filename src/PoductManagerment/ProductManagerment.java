@@ -9,7 +9,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class ProductManagerment implements I_ProductManager, I_FindProduct, I_EditProduct, I_EditType, I_EditColor, I_EditSize {
-    ArrayList<Product> myProduct = new ArrayList<>();
+    private ArrayList<Product> myProduct = new ArrayList<>();;
     final int MYLIST_SIZE = myProduct.size();
 
     @Override
@@ -58,7 +58,6 @@ public class ProductManagerment implements I_ProductManager, I_FindProduct, I_Ed
             else if(myProduct.get(index) instanceof MobilePhone){
                 productType = ProductType.MOBILEPHONE;
                 System.out.println("5. Edit color's product");
-                System.out.println("6. Edit type's product");
             }
             else if(myProduct.get(index) instanceof WashingMachine){
                 productType = ProductType.WASHINGMACHINE;
@@ -240,9 +239,6 @@ public class ProductManagerment implements I_ProductManager, I_FindProduct, I_Ed
         if(index < 0)
             return false;
         switch (productType){
-            case MOBILEPHONE:
-                ((MobilePhone) myProduct.get(index)).setType(newType);
-                break;
             case WASHINGMACHINE:
                 ((WashingMachine) myProduct.get(index)).setType(newType);
                 break;

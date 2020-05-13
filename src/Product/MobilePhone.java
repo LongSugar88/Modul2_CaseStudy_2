@@ -7,10 +7,9 @@ public class MobilePhone extends Product {
     public MobilePhone(){
 
     }
-    public MobilePhone(String id, String name,String brand, int price,String link, String color, String type){
+    public MobilePhone(String id, String name,String brand, int price,String link, String color){
         super(id, name, brand, price, link);
         this.color = color;
-        this.type = type;
     }
 
     public String getColor() {
@@ -21,13 +20,6 @@ public class MobilePhone extends Product {
         this.color = color;
     }
 
-    public String getType() {
-        return type;
-    }
-
-    public void setType(String type) {
-        this.type = type;
-    }
     @Override
     public String toString() {
         return null;
