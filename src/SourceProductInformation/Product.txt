@@ -1,60 +1,503 @@
-PicoW001|WashingMachine|Máy Giặt Panasonic 8kg NAF80VS9GRV|Panasonic|5190000|https://pico.vn/33710/may-giat-panasonic-naf80vs9grv--80kg.html|normal
-PicoW002|WashingMachine|Máy giặt Panasonic NAF85A4GRV - 8.5kg|Panasonic|6190000|https://pico.vn/36337/may-giat-panasonic-naf85a4grv--85kg.html|normal
-PicoW003|WashingMachine|Máy giặt Panasonic NA-F90A4GRV 9.0 kg|Panasonic|6890000|https://pico.vn/35990/may-giat-panasonic-naf90a4grv--90-kg-mau-xam.html|normal
-PicoW004|WashingMachine|Máy Giặt Sấy Aqua AQD-D1000HTN Inverter - Giặt 10kg, sấy 5kg|Aqua|17990000|https://pico.vn/35971/may-giat-aqua--aqdd1000htn--10-kg5kg-say.html|normal
-PicoW005|WashingMachine|Máy Giặt Sấy Lồng Ngang LG FC1409D4E Giặt 9Kg Sấy 5Kg|LG|15990000|https://pico.vn/35832/may-giat--long-ngang-lg-fc1409d4e-giat-9-say-5kg.html|normal
-PicoW006|WashingMachine|Máy Giặt Lồng Ngang LG FC1409S2E 9 Kg|LG|13490000|https://pico.vn/35830/may-giat--long-ngang-lg-fc1409s2e-giat-9-kg.html|normal
-PicoW007|WashingMachine|Máy Giặt Sấy LG FC1408D4W - Giặt 8KG Sấy 5Kg|LG|12990000|https://pico.vn/35829/may-giat--long-ngang-lg-fc1408d4w-giat-8kg-say-5kg.html|normal
-PicoW008|WashingMachine|Máy Giặt Lồng Ngang LG 8 Kg FC1408S3E Inverter|LG|10990000|https://pico.vn/35828/may-giat--long-ngang-lg-fc1408s3e-giat-8-kg.html|normal
-PicoW009|WashingMachine|Máy Giặt Cửa Trên Panasonic 10 Kg NAF100V5LRV - Màu Bạc|Panasonic|9590000|https://pico.vn/35703/may-giat-panasonic-naf100v5lrv--10-kg-mau-bac.html|normal
-PicoW0010|WashingMachine|Máy Giặt Panasonic NA-F90X5LRV - 9 Kg|Panasonic|7690000|https://pico.vn/35697/may-giat-panasonic-naf90x5lrv--9-kg-mau-bac.html|normal
-PicoW0011|WashingMachine|Máy Giặt Lồng Ngang LG FC1409S2W 9 Kg |LG|12490000|https://pico.vn/35577/may-giat--long-ngang-lg-fc1409s2w-giat-9-kg.html|normal
-PicoW0012|WashingMachine|Máy Giặt Lồng Ngang LG 8Kg FC1408S4W2|LG|9990000|https://pico.vn/35556/may-giat--long-ngang-lg-fc1408s4w2-giat-8-kg.html|normal
-PicoW0013|WashingMachine|Máy Giặt Lồng Đứng LG T2312DSAV 12 Kg |LG|9990000|https://pico.vn/35211/may-giat-long-dung-lg-t2312dsav-asspevn--12-kg.html|normal
-PicoW0014|WashingMachine|Máy Giặt Lồng Đứng LG T2311DSAL 11 kg|LG|9390000|https://pico.vn/35206/may-giat-long-dung-lg-t2311dsal-afspevn--11-kg.html|normal
-PicoW0015|WashingMachine|Máy Giặt Samsung WA90M5120SG/SV 9.0 Kg  Xám|Samsung|5690000|https://pico.vn/35045/may-giat-sam-sung-90-kg-wa90m5120sgsv-mau-xam.html|normal
-PicoW0016|WashingMachine|Máy Giặt Samsung 8.5 Kg WA85M5120SW/SV Trắng|Samsung|5290000|https://pico.vn/35043/may-giat-sam-sung-85-kg-wa85m5120swsv-mau-trang.html|normal
-PicoW0017|WashingMachine|Máy Giặt Samsung WA85M5120SG/SV  8.5 Kg Xám|Samsung|5390000|https://pico.vn/35042/may-giat-sam-sung-85kg-wa85m5120sgsv-mau-xam.html|normal
-PicoW0018|WashingMachine|Máy Giặt LG Twin Wash F2721HTTV Loại 21 Kg |LG|39900000|https://pico.vn/34913/may-giat-say-lg-f2721httv--17kg-giat9kg-say.html|normal
-PicoW0019|WashingMachine| Máy Giặt LG TWINWash T2735NWLV Loại 3.5 Kg|LG|14900000|https://pico.vn/34911/may-giat-lg-t2735nwlv---35kg.html|normal
-PicoW0020|WashingMachine|Máy Giặt Sấy Samsung WD17J7825KP/SV Inverter |Samsung|21990000|https://pico.vn/34126/may-giat--samsung--wd17j7825kp--17kg9kg-say.html|normal
-PicoW0021|WashingMachine|Máy Giặt Sấy Samsung WD85K5410OX/SV Giặt 8kg/ sấy 6kg|Samsung|15990000|https://pico.vn/33942/may-giat--samsung--wd85k5410ox---8kg6kg-say.html|normal
-PicoW0022|WashingMachine|Máy Giặt Sấy Samsung WD10K6410OS/SV 10.5kg/6kg sấy|Samsung|19990000|https://pico.vn/33941/may-giat--samsung--wd10k6410os---105kg6kg-say.html|normal
-PicoW0023|WashingMachine|Máy Giặt Electrolux EWF12853S 8kg|Electrolux|13990000|https://pico.vn/33856/may-giat--electrolux-ewf12853s--8kg-long--ngang-inverter-mau-xam-bac.html|normal
-PicoW0024|WashingMachine|Máy Giặt Bosch WAN28260BY  8.0kg ||22990000|https://pico.vn/38056/may-giat-bosch-wan28260by-80kg--made-in-poland.html|normal
-PicoW0025|WashingMachine|Máy Giặt Bosch WAW24460EU - 9.0 kg ||29990000|https://pico.vn/38054/may-giat-bosch-waw24460eu--90-kg-made-in-germany.html|normal
-PicoW0026|WashingMachine|Máy Giặt Panasonic NA-120VG6WV2 -10 kg |Panasonic|17900000|https://pico.vn/38003/may-giat-panasonic-na120vg6wv2--100-kg--inverter--khang-khuan--mau-trang.html|normal
-PicoW0027|WashingMachine|Máy Giặt Toshiba AWDUH1200GV 11 kg|Toshiba|10890000|https://pico.vn/37239/may-giat-toshiba-awduh1200gv-11-kg.html|normal
-PicoW0028|WashingMachine|Máy Giặt Samsung WW85K54E0UW/SV - 8.5kg|Samsung|11490000|https://pico.vn/37186/may-giat-samsung-ww85k54e0uwsv--85kg--mau-trang--inverter.html|normal
-PicoW0029|WashingMachine|Máy Giặt Samsung WW85K54E0UX/SV - 8.5kg |Samsung|11790000|https://pico.vn/37185/may-giat-samsung-ww85k54e0uxsv--85kg--inox-den--inverter.html|normal
-PicoW0030|WashingMachine|Máy Giặt Samsung WW80J54E0BX/SV 8kg Inox Đen|Samsung|10990000|https://pico.vn/37183/may-giat-samsung-ww80j54e0bxsv--8kg--inox-den--inverter.html|normal
-PicoW0031|WashingMachine|Máy Giặt Samsung WW90J54E0BW/SV Inverter 9kg Trắng |Samsung|11490000|https://pico.vn/37182/may-giat-samsung-ww90j54e0bwsv--9kg--mau-trang--inverter.html|normal
-PicoW0032|WashingMachine|Máy Giặt Samsung WW90K54E0UW/SV - 9kg|Samsung|12990000|https://pico.vn/37181/may-giat-samsung-ww90k54e0uwsv--9kg--mau-trang--inverter.html|normal
-PicoW0033|WashingMachine|Máy Giặt Samsung WW90K54E0UX/SV - 9kg|Samsung|15090000|https://pico.vn/37180/may-giat-samsung-ww90k54e0uxsv--9kg--inox-den--inverter.html|normal
-PicoW0034|WashingMachine|Máy Giặt Lồng Đứng LG T2395VS2W |LG|6790000|https://pico.vn/37109/may-giat-long-dung-lg-t2395vs2w--inverter--mau-trang--95-kg.html|normal
-PicoW0035|WashingMachine|Máy Giặt Toshiba AW-DUH1100GV 10 kg|Toshiba|10190000|https://pico.vn/37026/may-giat-toshiba-awduh1100gv-10-kg.html|normal
-PicoW0036|WashingMachine|Máy Giặt Aqua AQDDD850AN Inverter Vàng Kim|Aqua|8990000|https://pico.vn/37024/may-giat-aqua-aqddd850an--85-kg-dd-inverter-mau-vang-kim.html|normal
-PicoW0037|WashingMachine|Máy Giặt Lồng Ngang LG F2719SVBVB|LG|28900000|https://pico.vn/36984/may-giat-long-ngang-lg-f2719svbvb--19kg-giat.html|normal
-PicoW0038|WashingMachine|Máy Giặt Lồng Đứng LG T2395VS2M 9.5 Kg Bạc|LG|6990000|https://pico.vn/36937/may-giat-long-dung-lg-t2395vs2m--inverter--mau-bac--95-kg.html|normal
-PicoW0039|WashingMachine|Máy Giặt Lồng Đứng LG T2385VS2M Bạc|LG|5490000|https://pico.vn/36935/may-giat-long-dung-lg-t2385vs2m--inverter--mau-bac--85-kg.html|normal
-PicoW0040|WashingMachine|Máy Giặt LG TWINWash FG1405H3W Loại 10.5kg Giặt - 7kg Sấy|LG|22490000|https://pico.vn/36772/may-giat-lg-fg1405h3w--105-kg-giat--7kg-say--inverter.html|normal
-PicoW0041|WashingMachine|Máy Giặt LG TWINWash TG2402NTWW Loại 2kg|LG|13990000|https://pico.vn/36761/may-giat-lg-tg2402ntww---20kg.html|normal
-PicoW0042|WashingMachine|Máy Giặt Aqua AQWDW90ATN  Inverter - 9.0kg - Màu Bạc|Aqua|6990000|https://pico.vn/36460/may-giat-aqua-aqwdw90atn--90kg--mau-bac.html|normal
-PicoW0043|WashingMachine|Máy Giặt Samsung WR24M9960KV/SV 21kg / sấy12kg|Samsung|47990000|https://pico.vn/36453/may-giat-samsung-wr24m9960kvsv---21-kg-say-12kg.html|normal
-PicoW0044|WashingMachine|Máy Giặt Lồng Ngang LG 9 Kg FC1409S3W.ABWPEVN Inverter|LG|11990000|https://pico.vn/36417/may-giat--long-ngang-lg-fc1409s3w--giat-9-kg.html|normal
-PicoW0045|WashingMachine|Máy giặt Lồng Đứng LG T2351VSAM - 11.5 Kg|Samsung|7290000|https://pico.vn/36081/may-giat-long-dung-lg-t2351vsam--115-kg.html|normal
-PicoW0046|WashingMachine|Máy giặt lồng đứng LG T2350VSAW - 10.5 Kg|LG|6890000|https://pico.vn/36080/may-giat-long-dung-lg-t2350vsaw--105-kg.html|normal
-PicoW0047|WashingMachine|Máy Giặt Cửa Trên Panasonic 10 Kg NA-F100A4GRV|Panasonic|7490000|https://pico.vn/35996/may-giat-panasonic-naf100a4grv--100-kg-mau-xam.html|normal
-PicoW0048|WashingMachine|Máy Giặt Sấy LG F2514DTGW Trắng|LG|25900000|https://pico.vn/33046/may-giat-say-lg-f2514dtgw--140kg80say-dd-mau-trang.html|normal
-PicoW0049|WashingMachine|Máy Giặt Samsung WA85J5712SG/SV 8.5Kg|Samsung|5890000|https://pico.vn/32268/may-giat-samsung-wa85j5712sgsv-85-kg-chong-xoan-roi.html|normal
-PicoW0050|WashingMachine|Máy Giặt Bosch WAT24480SG 8 Kg||20990000|https://pico.vn/31573/may-giat-bosch-wat24480sg--80kg-long-ngang.html|normal
-PicoW0051|WashingMachine|Máy Giặt Lồng Ngang Bosch WAW28480SG 9 Kg||27990000|https://pico.vn/31186/may-giat-bosch-waw28480sg--90kg-long-ngang.html|normal
-PicoW0052|WashingMachine|Máy Giặt Samsung WA90J5710SG/SV  - 9 kg|Samsung|6790000|https://pico.vn/27731/may-giat-samsung-wa90j5710sgsv---9-kg-mau-xam.html|normal
-PicoW0053|WashingMachine|Máy Giặt Samsung WA14J6750SP/SV|Samsung|12990000|https://pico.vn/27730/may-giat-samsung-wa14j6750spsv--14-kg-mau-inox.html|normal
-PicoW0054|WashingMachine|Máy Giặt Samsung WA12J5750SP/SV - 12 kg |Samsung|10990000|https://pico.vn/27729/may-giat-samsung-wa12j5750spsv--12-kg-mau-inox.html|normal
-PicoW0055|WashingMachine|Máy Giặt Samsung WA10J5710SG/SV - 10kg Xám|Samsung|7390000|https://pico.vn/27728/may-giat-samsung-wa10j5710sgsv--10-kg-mau-xam.html|normal
-PicoW0056|WashingMachine|Máy Giặt Toshiba AW-E920LVW  8.2 Kg Xanh|Toshiba|5190000|https://pico.vn/26232/may-giat-toshiba-awe920lvwb-82kg--mau-xanh.html|normal
-PicoW0057|WashingMachine|Máy Giặt Toshiba DC1000CVWB 9 Kg Xám Bạc|Toshiba|8400000|https://pico.vn/22492/may-giat-toshiba-dc1000cvwb--90kg--dd-mau-xam-bac.html|normal
-PicoW0058|WashingMachine|Máy giặt Toshiba B1100GV|Toshiba|6590000|https://pico.vn/21227/may-giat-toshiba-b1100gv-10kg-mau-xam-dong.html|normal
-PicoW0059|WashingMachine|Máy Giặt Toshiba B1000GV 9Kg|Toshiba|6390000|https://pico.vn/21225/may-giat-toshiba-b1000gv-9kg-mau-xanh-duong.html|normal
-PicoW0060|WashingMachine|Máy Giặt Toshiba A800SVWB 7.0 kg|Toshiba|4190000|https://pico.vn/13991/may-giat-toshiba-a800svwb-70kg--nhap-khau.html|normal
+Pico001|upper door|WashingMachine|Máy Giặt Panasonic 8kg NAF80VS9GRV|Panasonic|5190000|https://pico.vn/33710/may-giat-panasonic-naf80vs9grv--80kg.html
+Pico002|upper door|WashingMachine|Máy giặt Panasonic NAF85A4GRV - 8.5kg|Panasonic|6190000|https://pico.vn/36337/may-giat-panasonic-naf85a4grv--85kg.html
+Pico003|upper door|WashingMachine|Máy giặt Panasonic NA-F90A4GRV 9.0 kg|Panasonic|6890000|https://pico.vn/35990/may-giat-panasonic-naf90a4grv--90-kg-mau-xam.html
+Pico004|front door|WashingMachine|Máy Giặt Sấy Aqua AQD-D1000HTN Inverter - Giặt 10kg, sấy 5kg|Aqua|17990000|https://pico.vn/35971/may-giat-aqua--aqdd1000htn--10-kg5kg-say.html
+Pico005|front door|WashingMachine|Máy Giặt Sấy Lồng Ngang LG FC1409D4E Giặt 9Kg Sấy 5Kg|LG|15990000|https://pico.vn/35832/may-giat--long-ngang-lg-fc1409d4e-giat-9-say-5kg.html
+Pico006|front door|WashingMachine|Máy Giặt Lồng Ngang LG FC1409S2E 9 Kg|LG|13490000|https://pico.vn/35830/may-giat--long-ngang-lg-fc1409s2e-giat-9-kg.html
+Pico007|front door|WashingMachine|Máy Giặt Sấy LG FC1408D4W - Giặt 8KG Sấy 5Kg|LG|12990000|https://pico.vn/35829/may-giat--long-ngang-lg-fc1408d4w-giat-8kg-say-5kg.html
+Pico008|front door|WashingMachine|Máy Giặt Lồng Ngang LG 8 Kg FC1408S3E Inverter|LG|10990000|https://pico.vn/35828/may-giat--long-ngang-lg-fc1408s3e-giat-8-kg.html
+Pico009|front door|WashingMachine|Máy Giặt Cửa Trên Panasonic 10 Kg NAF100V5LRV - Màu Bạc|Panasonic|9590000|https://pico.vn/35703/may-giat-panasonic-naf100v5lrv--10-kg-mau-bac.html
+Pico0010|front door|WashingMachine|Máy Giặt Panasonic NA-F90X5LRV - 9 Kg|Panasonic|7690000|https://pico.vn/35697/may-giat-panasonic-naf90x5lrv--9-kg-mau-bac.html
+Pico0011|front door|WashingMachine|Máy Giặt Lồng Ngang LG FC1409S2W 9 Kg |LG|12490000|https://pico.vn/35577/may-giat--long-ngang-lg-fc1409s2w-giat-9-kg.html
+Pico0012|front door|WashingMachine|Máy Giặt Lồng Ngang LG 8Kg FC1408S4W2|LG|9990000|https://pico.vn/35556/may-giat--long-ngang-lg-fc1408s4w2-giat-8-kg.html
+Pico0013|upper door|WashingMachine|Máy Giặt Lồng Đứng LG T2312DSAV 12 Kg |LG|9990000|https://pico.vn/35211/may-giat-long-dung-lg-t2312dsav-asspevn--12-kg.html
+Pico0014|upper door|WashingMachine|Máy Giặt Lồng Đứng LG T2311DSAL 11 kg|LG|9390000|https://pico.vn/35206/may-giat-long-dung-lg-t2311dsal-afspevn--11-kg.html
+Pico0015|upper door|WashingMachine|Máy Giặt Samsung WA90M5120SG/SV 9.0 Kg  Xám|Samsung|5690000|https://pico.vn/35045/may-giat-sam-sung-90-kg-wa90m5120sgsv-mau-xam.html
+Pico0016|upper door|WashingMachine|Máy Giặt Samsung 8.5 Kg WA85M5120SW/SV Trắng|Samsung|5290000|https://pico.vn/35043/may-giat-sam-sung-85-kg-wa85m5120swsv-mau-trang.html
+Pico0017|upper door|WashingMachine|Máy Giặt Samsung WA85M5120SG/SV  8.5 Kg Xám|Samsung|5390000|https://pico.vn/35042/may-giat-sam-sung-85kg-wa85m5120sgsv-mau-xam.html
+Pico0018|front door|WashingMachine|Máy Giặt LG Twin Wash F2721HTTV Loại 21 Kg |LG|39900000|https://pico.vn/34913/may-giat-say-lg-f2721httv--17kg-giat9kg-say.html
+Pico0019|front door|WashingMachine| Máy Giặt LG TWINWash T2735NWLV Loại 3.5 Kg|LG|14900000|https://pico.vn/34911/may-giat-lg-t2735nwlv---35kg.html
+Pico0020|front door|WashingMachine|Máy Giặt Sấy Samsung WD17J7825KP/SV Inverter |Samsung|21990000|https://pico.vn/34126/may-giat--samsung--wd17j7825kp--17kg9kg-say.html
+Pico0021|front door|WashingMachine|Máy Giặt Sấy Samsung WD85K5410OX/SV Giặt 8kg/ sấy 6kg|Samsung|15990000|https://pico.vn/33942/may-giat--samsung--wd85k5410ox---8kg6kg-say.html
+Pico0022|front door|WashingMachine|Máy Giặt Sấy Samsung WD10K6410OS/SV 10.5kg/6kg sấy|Samsung|19990000|https://pico.vn/33941/may-giat--samsung--wd10k6410os---105kg6kg-say.html
+Pico0023|front door|WashingMachine|Máy Giặt Electrolux EWF12853S 8kg|Electrolux|13990000|https://pico.vn/33856/may-giat--electrolux-ewf12853s--8kg-long--ngang-inverter-mau-xam-bac.html
+Pico0024|front door|WashingMachine|Máy Giặt Bosch WAN28260BY  8.0kg |No brand|22990000|https://pico.vn/38056/may-giat-bosch-wan28260by-80kg--made-in-poland.html
+Pico0025|front door|WashingMachine|Máy Giặt Bosch WAW24460EU - 9.0 kg |No brand|29990000|https://pico.vn/38054/may-giat-bosch-waw24460eu--90-kg-made-in-germany.html
+Pico0026|front door|WashingMachine|Máy Giặt Panasonic NA-120VG6WV2 -10 kg |Panasonic|17900000|https://pico.vn/38003/may-giat-panasonic-na120vg6wv2--100-kg--inverter--khang-khuan--mau-trang.html
+Pico0027|front door|WashingMachine|Máy Giặt Toshiba AWDUH1200GV 11 kg|Toshiba|10890000|https://pico.vn/37239/may-giat-toshiba-awduh1200gv-11-kg.html
+Pico0028|front door|WashingMachine|Máy Giặt Samsung WW85K54E0UW/SV - 8.5kg|Samsung|11490000|https://pico.vn/37186/may-giat-samsung-ww85k54e0uwsv--85kg--mau-trang--inverter.html
+Pico0029|front door|WashingMachine|Máy Giặt Samsung WW85K54E0UX/SV - 8.5kg |Samsung|11790000|https://pico.vn/37185/may-giat-samsung-ww85k54e0uxsv--85kg--inox-den--inverter.html
+Pico0030|front door|WashingMachine|Máy Giặt Samsung WW80J54E0BX/SV 8kg Inox Đen|Samsung|10990000|https://pico.vn/37183/may-giat-samsung-ww80j54e0bxsv--8kg--inox-den--inverter.html
+Pico0031|front door|WashingMachine|Máy Giặt Samsung WW90J54E0BW/SV Inverter 9kg Trắng |Samsung|11490000|https://pico.vn/37182/may-giat-samsung-ww90j54e0bwsv--9kg--mau-trang--inverter.html
+Pico0032|front door|WashingMachine|Máy Giặt Samsung WW90K54E0UW/SV - 9kg|Samsung|12990000|https://pico.vn/37181/may-giat-samsung-ww90k54e0uwsv--9kg--mau-trang--inverter.html
+Pico0033|front door|WashingMachine|Máy Giặt Samsung WW90K54E0UX/SV - 9kg|Samsung|15090000|https://pico.vn/37180/may-giat-samsung-ww90k54e0uxsv--9kg--inox-den--inverter.html
+Pico0034|upper door|WashingMachine|Máy Giặt Lồng Đứng LG T2395VS2W |LG|6790000|https://pico.vn/37109/may-giat-long-dung-lg-t2395vs2w--inverter--mau-trang--95-kg.html
+Pico0035|front door|WashingMachine|Máy Giặt Toshiba AW-DUH1100GV 10 kg|Toshiba|10190000|https://pico.vn/37026/may-giat-toshiba-awduh1100gv-10-kg.html
+Pico0036|front door|WashingMachine|Máy Giặt Aqua AQDDD850AN Inverter Vàng Kim|Aqua|8990000|https://pico.vn/37024/may-giat-aqua-aqddd850an--85-kg-dd-inverter-mau-vang-kim.html
+Pico0037|front door|WashingMachine|Máy Giặt Lồng Ngang LG F2719SVBVB|LG|28900000|https://pico.vn/36984/may-giat-long-ngang-lg-f2719svbvb--19kg-giat.html
+Pico0038|upper door|WashingMachine|Máy Giặt Lồng Đứng LG T2395VS2M 9.5 Kg Bạc|LG|6990000|https://pico.vn/36937/may-giat-long-dung-lg-t2395vs2m--inverter--mau-bac--95-kg.html
+Pico0039|upper door|WashingMachine|Máy Giặt Lồng Đứng LG T2385VS2M Bạc|LG|5490000|https://pico.vn/36935/may-giat-long-dung-lg-t2385vs2m--inverter--mau-bac--85-kg.html
+Pico0040|front door|WashingMachine|Máy Giặt LG TWINWash FG1405H3W Loại 10.5kg Giặt - 7kg Sấy|LG|22490000|https://pico.vn/36772/may-giat-lg-fg1405h3w--105-kg-giat--7kg-say--inverter.html
+Pico0041|front door|WashingMachine|Máy Giặt LG TWINWash TG2402NTWW Loại 2kg|LG|13990000|https://pico.vn/36761/may-giat-lg-tg2402ntww---20kg.html
+Pico0042|upper door|WashingMachine|Máy Giặt Aqua AQWDW90ATN  Inverter - 9.0kg - Màu Bạc|Aqua|6990000|https://pico.vn/36460/may-giat-aqua-aqwdw90atn--90kg--mau-bac.html
+Pico0043|front door|WashingMachine|Máy Giặt Samsung WR24M9960KV/SV 21kg / sấy12kg|Samsung|47990000|https://pico.vn/36453/may-giat-samsung-wr24m9960kvsv---21-kg-say-12kg.html
+Pico0044|front door|WashingMachine|Máy Giặt Lồng Ngang LG 9 Kg FC1409S3W.ABWPEVN Inverter|LG|11990000|https://pico.vn/36417/may-giat--long-ngang-lg-fc1409s3w--giat-9-kg.html
+Pico0045|upper door|WashingMachine|Máy giặt Lồng Đứng LG T2351VSAM - 11.5 Kg|Samsung|7290000|https://pico.vn/36081/may-giat-long-dung-lg-t2351vsam--115-kg.html
+Pico0046|upper door|WashingMachine|Máy giặt lồng đứng LG T2350VSAW - 10.5 Kg|LG|6890000|https://pico.vn/36080/may-giat-long-dung-lg-t2350vsaw--105-kg.html
+Pico0047|front door|WashingMachine|Máy Giặt Cửa Trên Panasonic 10 Kg NA-F100A4GRV|Panasonic|7490000|https://pico.vn/35996/may-giat-panasonic-naf100a4grv--100-kg-mau-xam.html
+Pico0048|front door|WashingMachine|Máy Giặt Sấy LG F2514DTGW Trắng|LG|25900000|https://pico.vn/33046/may-giat-say-lg-f2514dtgw--140kg80say-dd-mau-trang.html
+Pico0049|upper door|WashingMachine|Máy Giặt Samsung WA85J5712SG/SV 8.5Kg|Samsung|5890000|https://pico.vn/32268/may-giat-samsung-wa85j5712sgsv-85-kg-chong-xoan-roi.html
+Pico0050|front door|WashingMachine|Máy Giặt Bosch WAT24480SG 8 Kg|No brand|20990000|https://pico.vn/31573/may-giat-bosch-wat24480sg--80kg-long-ngang.html
+Pico0051|front door|WashingMachine|Máy Giặt Lồng Ngang Bosch WAW28480SG 9 Kg|No brand|27990000|https://pico.vn/31186/may-giat-bosch-waw28480sg--90kg-long-ngang.html
+Pico0052|upper door|WashingMachine|Máy Giặt Samsung WA90J5710SG/SV  - 9 kg|Samsung|6790000|https://pico.vn/27731/may-giat-samsung-wa90j5710sgsv---9-kg-mau-xam.html
+Pico0053|front door|WashingMachine|Máy Giặt Samsung WA14J6750SP/SV|Samsung|12990000|https://pico.vn/27730/may-giat-samsung-wa14j6750spsv--14-kg-mau-inox.html
+Pico0054|front door|WashingMachine|Máy Giặt Samsung WA12J5750SP/SV - 12 kg |Samsung|10990000|https://pico.vn/27729/may-giat-samsung-wa12j5750spsv--12-kg-mau-inox.html
+Pico0055|front door|WashingMachine|Máy Giặt Samsung WA10J5710SG/SV - 10kg Xám|Samsung|7390000|https://pico.vn/27728/may-giat-samsung-wa10j5710sgsv--10-kg-mau-xam.html
+Pico0056|upper door|WashingMachine|Máy Giặt Toshiba AW-E920LVW  8.2 Kg Xanh|Toshiba|5190000|https://pico.vn/26232/may-giat-toshiba-awe920lvwb-82kg--mau-xanh.html
+Pico0057|front door|WashingMachine|Máy Giặt Toshiba DC1000CVWB 9 Kg Xám Bạc|Toshiba|8400000|https://pico.vn/22492/may-giat-toshiba-dc1000cvwb--90kg--dd-mau-xam-bac.html
+Pico0058|upper door|WashingMachine|Máy giặt Toshiba B1100GV|Toshiba|6590000|https://pico.vn/21227/may-giat-toshiba-b1100gv-10kg-mau-xam-dong.html
+Pico0059|upper door|WashingMachine|Máy Giặt Toshiba B1000GV 9Kg|Toshiba|6390000|https://pico.vn/21225/may-giat-toshiba-b1000gv-9kg-mau-xanh-duong.html
+Pico0060|upper door|WashingMachine|Máy Giặt Toshiba A800SVWB 7.0 kg|Toshiba|4190000|https://pico.vn/13991/may-giat-toshiba-a800svwb-70kg--nhap-khau.html
+Pico0061|Yellow|14'|Laptop|Laptop Asus X407MA-BV043T Intel Celeron N4000 Vàng|Asus|6249000|https://pico.vn/39784/mtxt--asus-x407mabv043t--n40004gb1tb-uma14hdwin-10vangfp2yrs.html
+Pico0062|Grey|14'|Laptop|Laptop Asus X409FA-EK098T Core i3-8145U Grey|Asus|11199000|https://pico.vn/39783/mtxt--asus-x409faek098t--i38145u4gb1tbuma14fhdwin-10greyfp2yrs.html
+Pico0063|Gold|14'|Laptop|Laptop HP Pavilion 14-ce2041TU 6ZT94PA Core i5-8265U|HP|14499000|https://pico.vn/39778/mtxt-hp-pavilion-14ce2041tu--i58265u4gb1tb14-fhdwin-10goldpart-6zt94pa.html
+Pico0064|no color|14'|Laptop|Laptop Asus X509FA-EJ101T Core i5-8265U|Asus|13499000|https://pico.vn/39776/mtxt--asus-x509faej101t--i58265u4gb1tbuma156fhdwin-10bacfp2yrs.html
+Pico0065|no color|14'|Laptop|Laptop Asus A512FA-EJ571T Core i3-8145U|Asus|12799000|https://pico.vn/39775/mtxt-asus-a512faej571t--i38145u4gb256gbssd-uma156fhdwin10bacfp2yrs.html
+Pico0066|no color|14'|Laptop|Laptop Asus A512FA-EJ117T Core i3-8145U|Asus|11399000|https://pico.vn/39774/mtxt-asus-a512faej117t--i38145u4gb1tb-uma156fhdwin-10bacfp2yrs.html
+Pico0067|Blue|14'|Laptop|Laptop Asus A412FA-EK156T Core i3-8145U|Asus|11399000|https://pico.vn/39773/laptop-asus-a412faek156t-i38145u4gb1tb14-fhdwin10-64-bitxanh2-yrs.html
+Pico0068|Black|14'|Laptop|Laptop Dell Inspiron 3580 70184569 Core i5-8265U Black|Dell|14199000|https://pico.vn/39767/mtxt-dell-inspiron-3580--i58265u4gb1tb156-fhddvdrwvga2gbwin10black1yr70184569.html
+Pico0069|no color|15'|Laptop|Laptop HP Pavilion 15-cs2056TX 6YZ11PA Core i5-8265U|HP|16999000|https://pico.vn/39711/mtxt--hp-pavilion-15cs2056tx-i58265u4gb1tb156fhdalupvangw10sl2gmx1306yz11pa.html
+Pico0070|no color|15'|Laptop|Laptop HP Pavilion 15-cs2033TU 6YZ14PA Core i5-8265U|HP|15499000|https://pico.vn/39710/mtxt--hp-pavilion-15cs2033tu--i58265u4gd41t5156fhdaluxamw10sl6yz14pa.html
+Pico0071|Yellow|15'|Laptop|Laptop HP Pavilion 15-cs2034TU (6YZ06PA) Core i5-8265U Vàng|HP|15499000|https://pico.vn/39709/mtxt--hp-pavilion-15cs2034tu-i58265u4gb1tb156fhdaluvangw10sl6yz06pa.html
+Pico0072|Yellow|15'|Laptop|Laptop HP Pavilion 15-cs2001TU (6KX30PA) Core i3-8145U Vàng|HP|12899000|https://pico.vn/39708/mtxt--hp-pavilion-15cs2001tu--i38145u4gd41t5156fhdaluvangw10sl6kx30pa.html
+Pico0073|no color|14'|Laptop|Laptop Game MSI GF639SC-070VN Core i7-9750H|No brand|26899000|https://pico.vn/39645/msi-game-gf63-9sc070vn---i79750h-8gb-256gbssd-gtx-16504gb--156-fhd-win102yrs.html
+Pico0074|no color|14'|Laptop|Laptop Dell Inspiron N3480-N4I5107W-S Core i5-8265U|Dell|13999000|https://pico.vn/39598/mtxt-dell-inspiron-n3480---i58265u4gb1tb141yrwin10partn4i5107ws.html
+Pico0075|Yellow|14'|Laptop|Laptop Asus S530FN-BQ128T Core i5-8265U Vàng|Asus|17899000|https://pico.vn/39592/laptop--asus-s530fnbq128t--i58265u4gb1tb156fhdips2gd5mx150vangw10slledkb2ys.html
+Pico0076|Yellow|14'|Laptop|Laptop Asus S530FA-BQ066T Core i5-8265U Vàng|Asus|16599000|https://pico.vn/39591/laptop--asus-s530fabq066t--i58265u4gb1tb156fhdipsfp3c42whraluvangw10slledkb2ys.html
+Pico0077|Silver|14'|Laptop|Laptop Asus A412FA-EK155T Core i3-8145U|Asus|11399000|https://pico.vn/39464/laptop-asus-a412faek155t-i38145u4gb1tb14-fhdwin10-64-bitsilver2-yrs.html
+Pico0078|Grey|14'|Laptop|Laptop Asus X407MA-BV169T Pentium N5000|Asus|6599000|https://pico.vn/39390/mtxt-asus-x407mabv169tpentium-n50004gb1tb140-hdwin10-64bitgrey-plastic2ys.html
+Pico0079|Blue|14'|Laptop|Laptop Asus UX431FA-AN016T Core i5-8265U|Asus|20699000|https://pico.vn/39389/laptop-asus-ux431faan016t--i58265u8gb512gbssd140fhdipsfpbt42aluxanhw10sltui2ys.html
+Pico0080|no color|14'|Laptop|Laptop Asus S430FA-EB069T Core i3-8145U|Asus|13799000|https://pico.vn/39388/mtxt-asus-s430faeb069t-i38145u4gb1tb140fhdipsfpaluvangw10sl.html
+Pico0081|no color|14'|Laptop|Laptop Asus UX333FA-A4046T Core i5-8265U|Asus|22799000|https://pico.vn/39363/nb-asus-ux333faa4046t--i58265u8gb256gbssd133fhdalubacw10slledkbnumpadtui2yrs.html
+Pico0082|Silver|14'|Laptop|Laptop HP15-da0358TU ( 6KD02PA) Pentium 4417U Silver|HP|7999000|https://pico.vn/39359/mtxt-hp-15da0358tu-pen-4417u4gb500gb156-hd3cellwin10hsilver1y6kd02pa.html
+Pico0083|Grey|14'|Laptop|Laptop Dell Vostro V5481-V4I5229W-U Core I5 8265U|Dell|17599000|https://pico.vn/39350/mtxt-dell-vostro-v5481--i5--8265u4gb1tb14-fhd3-cellwin10urban-gray1yv4i5229w.html
+Pico0084|no color|14'|Laptop|Laptop Dell Vostro V5581-P77F001 Core i7-8565U|Dell|23799000|https://pico.vn/39291/mtxt-dell-vostro-5581-i78565u8gb256gb156fhdvga-2gwin10-xampartp77f001.html
+Pico0085|no color|15'|Laptop|Laptop HP 15-da1031TX 5NK55PA Core i5-8265U|HP|13499000|https://pico.vn/39268/mtxt-hp-15da1031tx-i58265u-4gb-1tb-2gb-156-hd-win-10-part-5nk55pa.html
+Pico0086|Grey|14'|Laptop|Laptop Asus X507MA-BR059T N5000 Xám|Asus|7799000|https://pico.vn/39222/mtxt-asus-x507ma-n50004g1tb156-hdwin-10xamfp2y.html
+Pico0087|no color|14'|Laptop|Laptop HP 14-CK0092TU ( 4TA092PA )|HP|7799000|https://pico.vn/39221/mtxt-hp-14ck0092tu-pqc-n50004g500g140hdbacw10hpart-4ta092pa.html
+Pico0088|Grey|14'|Laptop|Laptop Dell Vostro V5581-70175952 Core i5-8265U|Dell|17099000|https://pico.vn/39209/mtxt-dell-vostro-5581-i58265u4gb1tb156-fhdof365win-10hice-gray1yr70175952.html
+Pico0089|Grey|14'|Laptop|Laptop Dell Vostro V5581-70175950 Core i5-8265U|Dell|17099000|https://pico.vn/39208/mtxt-dell-vostro-5581-i58265u4gb1tb156-fhdof365win-10hurban-gray1yr70175950.html
+Pico0090|Silver|14'|Laptop|Laptop Dell Inspiron N5570-M5I5238-S Core i5-8250U|Dell|16099000|https://pico.vn/39206/mtxt-dell-inspiron-n5570m5i5238s--i58250u4gb1tb156fhddosvga-2gb1yrsilver.html
+Pico0091|no color|14'|Laptop|Laptop Dell Inspiron N5480 (X6C891) Core i5-8265U|Dell|20499000|https://pico.vn/39205/mtxt-dell-inspiron-5480-i58265u4gb1tb128gb14fhd2gbmx150w10ho3651yx6c891.html
+Pico0092|no color|14'|Laptop|Laptop Asus X507UA-EJ314T Core i3-7020U|Asus|9899000|https://pico.vn/39201/mtxt-asus-x507u-i37020u4g1t156fhdfpxamwin10sl.html
+Pico0093|Pink|14'|Laptop|Laptop HP Pavilion 14-ce1009TU ( 5JN09PA ) Pink|HP|12899000|https://pico.vn/39134/mtxt-hp-pavilion-14ce1009tu-i38145u4gb1tbwin1014-fhdpart-5jn09pa-pink.html
+Pico0094|Gold|14'|Laptop|Laptop HP Pavilion 14-ce1014TU (5JN05PA) Core i3-8145U Gold|HP|12499000|https://pico.vn/39129/mtxt-hp-pavilion-14ce1014tu-i38145u4gb500gbwin1014-fhdpart-5jn05pa--gold.html
+Pico0095|no color|14'|Laptop|Laptop DELL Vostro V5370-7M6D51 Core  i5-8250U|Dell|18999000|https://pico.vn/39096/mtxt-dell-vostro-5370---i58250u4gb256ssd133fhdfpxamw10sloff365ledkbprosup7m6d51.html
+Pico0096|no color|14'|Laptop|Laptop HP Pavilion P15-cs1045TX (5JL29PA) Core i5-8265U |HP|15499000|https://pico.vn/39083/mtxt-hp-pavilion-15cs1045tx-i58265u4g1t156fhdalupvangw10sl2gpart-5jl29pa.html
+Pico0097|no color|14'|Laptop|Laptop Dell Vostro V5471-70153001 Core i7-8550U|Dell|23799000|https://pico.vn/39026/nb-dell-vostro-5471-i78550u8gb1tb4gb-vga14-fhdfingerwin10h-o3651yr70153001.html
+Pico0098|Gold|14'|Laptop|Laptop HP Pavilion 14-ce1008TU (5JN06PA ) Core i5-8265U  |HP|14799000|https://pico.vn/39015/mtxt-hp-pavilion-14ce1008tu-i58265u4gb1tb14-fhdwin-10goldpart-5jn06pa.html
+Pico0099|Grey|15'|Laptop|Laptop HP Pavilion 15-cs1044TX (5JL26PA) Core I5-8265U Xám|HP|15499000|https://pico.vn/38910/mtxt-hp-pavilion-15cs1044tx-i58265u4g1t156fhdalupxamw10sl2gpart5jl26pa.html
+Pico00100|Grey|15'|Laptop|Laptop HP Pavilion 15-cs1008TU (5JL24PA) Core I5-8265U Xám|HP|14499000|https://pico.vn/38909/mtxt-hp-pavilion-15cs1008tu-i58265u4g1t156fhdalupxamw10slpart-5jl24pa.html
+Pico00101|Silver|14'|Laptop|Laptop HP Pavilion 14-ce1012TU (5JN66PA) Core I5-8265U Silver|HP|14299000|https://pico.vn/38908/mtxt-hp-pavilion-14ce1012tu--i58265u4gb1tb14-fhdwin-10silver1ypart-5jn66pa.html
+Pico00102|no color|14'|Laptop|Laptop Asus X407UA-BV345T i3-7020U|Asus|9899000|https://pico.vn/38905/mtxt-asus-x407ua-i37020u4g1tb14-hdwin-10xamfp2yw.html
+Pico00103|no color|14'|Laptop|Laptop Asus S530UN-BQ026T Core i5-8250U|Asus|14999000|https://pico.vn/38904/mtxt-asus-s530u-i58250u4g1t156fhd2gbfpaluvangw10sl.html
+Pico00104|no color|14'|Laptop|Laptop Dell Inspiron N3467 M20NR3 Core i3-7020U|Dell|9699000|https://pico.vn/38890/nb-dell-ins14-3467---i37020u4gb1tbdvdrw140hdbt44c40whrdenlnx1yrpresupm20nr3.html
+Pico00105|Black|14'|Laptop|Laptop Dell Vostro V3578-NGMPF11 Core I7-8550U Đen|Dell|18999000|https://pico.vn/38887/laptop--dell-vostro-15-3578--i78550u8gb1tbdvdrw156fhdfpdenw10sl2gd5520r5prosup.html
+Pico00106|no color|14'|Laptop|Laptop Asus X407MA-BV039T Pentium N5000|Asus|7299000|https://pico.vn/38876/mtxt-asus-x407mabv039t-pentium-n5000140-hd4gb1tbwin10.html
+Pico00107|Black|14'|Laptop|Laptop Dell Inspiron N3576-70157552 Core i5-8250U|Dell|14499000|https://pico.vn/38839/mtxt-dell-inspiron-15-3576--i58250u4gb1tb156-fhddvdrwvga-2gbwin10black1yr70157552.html
+Pico00108|no color|15'|Laptop|Laptop HP Pavilion 15-cs0014TU (4MF01PA) Core I3-8130U|HP|12399000|https://pico.vn/38768/mtxt-hp-pavilion-15cs0014tu-i38130u4g1t156fhdalupxamw10slpart4mf01pa.html
+Pico00109|no color|14'|Laptop|Laptop Asus S510UN-BQ276T Core i5-8250U|Asus|15499000|https://pico.vn/38693/mtxt-asus-s510u-i58250u4g1t156fhdfpaluvangw10sl2g.html
+Pico00110|no color|14'|Laptop|Laptop Dell Vostro V3578-NGMPF21 Core i5-8250U|Dell|13999000|https://pico.vn/38670/nb-dell-vos15-3578--i58250u4gd41tbdvdrw156hdfpbt44c40whrdenw10slprosup1yngmpf21.html
+Pico00111|Silver|14'|Laptop|Laptop HP 14-ck0068TU (4ME90PA) Core I3 Bạc|HP|9799000|https://pico.vn/38669/mtxt-hp-14ck0068tu-i37020u4g500g14hdbacw10slpart-4me90pa.html
+Pico00112|no color|14'|Laptop|Laptop Asus X507MA-BR069T Celeron N4000|Asus|6249000|https://pico.vn/38619/mtxt-asus-x507m-cdc-n40004gb1t156hdvangw10sl.html
+Pico00113|no color|14'|Laptop|Laptop Asus X407UA-BV308T i5-8250U|Asus|12499000|https://pico.vn/38611/mtxt-asus-x407u-i58250u4gd41t14-hdfpvangw10sl.html
+Pico00114|no color|14'|Laptop|Laptop Asus X507UA-EJ313T Core i3-7020U|Asus|9899000|https://pico.vn/38583/mtxt-asus-x507u-i37020u4gb1t156fhdfpvangwin10sl.html
+Pico00115|Silver|15'|Laptop|Laptop HP 15-da0108TU (4TB50PA) Pentium N5000 Silver|HP|7799000|https://pico.vn/38564/mtxt-hp-15da0108tu-pentium-n5000-4gb500gb156win10silverpart-4tb50pa.html
+Pico00116|Silver|15'|Laptop|Laptop HP 15-DA0051TU (4ME64PA ) Core i3-7020U|HP|9999000|https://pico.vn/38400/mtxt-hp-hp15da0051tu-i37020u4gb500gbdvdwr156win10silverpart4me64pa.html
+Pico00117|Grey|14'|Laptop|Laptop Dell Inspiron N5379-C3TI7501W-GREY|Dell|23299000|https://pico.vn/37611/mtxt-dell-inspiron-5379--i78550u8gb1tb133fhdtouchwin10partc3ti7501wgrey.html
+Pico00118|Gold|14'|Laptop|Laptop Asus S510UA-BQ414T |Asus|14999000|https://pico.vn/37523/nb-asus-s510uabq414ti58250u4gb-ddr41tb156-fhdwin10-64bitledgolden-metal.html
+Pico00119|Silver|14'|Laptop|Laptop Dell Vostro V5471- VTI5207W-Silver|Dell|17599000|https://pico.vn/37002/mtxt-dell-vostro-v5471-i5--8250u4gb1tb14-fhd3-cellwin10silver1y.html
+Pico00120|Black|14'|Laptop|Laptop Dell Inspiron N5570-M5I5238W - Black|Dell|17099000|https://pico.vn/36741/mtxt-dell-inspiron-n5570m5i5238wblack-i58250u4gb1tb156fhdwin-10vga-2gb1yr.html
+Pico00121|Black|MobilePhone|Điện Thoại Samsung Galaxy M21 Đen 64GB|Samsung|5490000|https://pico.vn/41136/dtdd-samsung-smm215fds-64gb-dengalaxy-m21.html
+Pico00122|Blue|MobilePhone|Điện Thoại Samsung Galaxy M21 Xanh 64GB|Samsung|5490000|https://pico.vn/41135/dtdd-samsung-smm215fds-64gb-xanh.html
+Pico00123|Blue|MobilePhone|Điện Thoại OPPO A12 3/32GB Xanh|Oppo|3490000|https://pico.vn/41131/dien-thoai-di-dong-oppo-cph2083--a12-332gb-xanh.html
+Pico00124|Black|MobilePhone|Điện Thoại OPPO A12 3/32GB Đen|Oppo|3490000|https://pico.vn/41130/dien-thoai-di-dong-oppo-cph2083--a12-332gb-den.html
+Pico00125|White|MobilePhone|Điện Thoại Samsung Galaxy A11 32GB Trắng|Samsung|3690000|https://pico.vn/41127/dtdd-samsung-sma115fds-32gb-tranggalaxy-a11.html
+Pico00126|Black|MobilePhone|Điện Thoại Samsung Galaxy A11 32GB Đen|Samsung|3690000|https://pico.vn/41126/dtdd-samsung-sma115fds-32gb-dengalaxy-a11.html
+Pico00127|Blue|MobilePhone|Điện Thoại Samsung Galaxy A11 32GB Xanh|Samsung|3690000|https://pico.vn/41125/dtdd-samsung-sma115fds-32gb-xanhgalaxy-a11.html
+Pico00128|Blue|MobilePhone|Samsung Galaxy A31 Xanh 128Gb|Samsung|6490000|https://pico.vn/41124/dtdd-samsung-sma315fds-128gb-xanhgalaxy-a31.html
+Pico00129|White|MobilePhone| Samsung Galaxy A31 Trắng 128Gb|Samsung|6490000|https://pico.vn/41123/dtdd-samsung-sma315fds-128gb-tranggalaxy-a31.html
+Pico00130|Black|MobilePhone|Samsung Galaxy A31 Đen 128Gb|Samsung|6490000|https://pico.vn/41122/dtdd-samsung-sma315fds-128gb-dengalaxy-a31.html
+Pico00131|Red|MobilePhone|Điện Thoại Samsung Galaxy A01 Đỏ|Samsung|2790000|https://pico.vn/40996/td-samsung-sma015fds-16gb-do.html
+Pico00132|Black|MobilePhone|Điện Thoại Oppo A31 4GB Đen|Oppo|3990000|https://pico.vn/40980/dien-thoai-di-dong-oppo-cph2073--a31-4gb-den.html
+Pico00133|White|MobilePhone|Điện Thoại Oppo A31 4GB Trắng|Oppo|3990000|https://pico.vn/40977/dien-thoai-di-dong-oppo-cph2073--a31-4gb-trang.html
+Pico00134|Blue|MobilePhone|Điện Thoại Samsung Galaxy A01 Xanh|Samsung|2790000|https://pico.vn/40974/td-samsung-sma015fds-16gb-xanh.html
+Pico00135|Black|MobilePhone|Điện Thoại Samsung Galaxy A01 16GB Đen|Samsung|2790000|https://pico.vn/40973/td-samsung-sma015fds-16gb-en.html
+Pico00136|Gold|MobilePhone|IPhone 8 Plus 64GB Gold A1897-MQ8N2VN/A|iPhone|13490000|https://pico.vn/40972/dien-thoai-di-dong-iphone-8-plus-64gb-gold-a1897mq8n2vna.html
+Pico00137|Red|MobilePhone|Iphone 11 Red 64GB-VIE-MWLV2VN/A + Kit Viettel|iPhone|19690000|https://pico.vn/40971/dien-thoai-di-dong-iphone-11-red-64gbviemwlv2vna--kit-viettel.html
+Pico00138|Silver|MobilePhone|Samsung Note 10 Lite128GB Bạc|Samsung|13990000|https://pico.vn/40928/dtdd-samsung-smn770fds-128gb-bacnote-10-lite.html
+Pico00139|Black|MobilePhone|Samsung Note 10 Lite128GB Đen|Samsung|13990000|https://pico.vn/40927/dtdd-samsung-smn770fds-128gb-dennote-10-lite.html
+Pico00140|Pink|MobilePhone|Điện Thoại Samsung S20 128Gb Hồng|Samsung|19490000|https://pico.vn/40926/dtdd-samsung-smg980fds-128gb-hongs20.html
+Pico00141|Black|MobilePhone|Samsung Galaxy Note 8 Đen|Samsung|14990000|https://pico.vn/36140/dien-thoai-di-dong-samsung-n950-den--galaxy-note-8.html
+Pico00142|Gold|MobilePhone|Samsung Galaxy Note 8 Gold|Samsung|14990000|https://pico.vn/36142/dien-thoai-di-dong-samsung-n950-vang--galaxy-note-8.html
+Pico00143|no color|MobilePhone|Điện thoại di động Samsung Galaxy S8 Plus|Samsung|14990000|https://pico.vn/35111/dien-thoai-di-dong-samsung-g955-den--galaxy-s8-plus.html
+Pico00144|Yellow|MobilePhone|Galaxy S8 Plus Vàng|No brand|14990000|https://pico.vn/35351/dien-thoai-di-dong-samsung-g955-vang--galaxy-s8-plus.html
+Pico00145|Black|MobilePhone|Điện thoại di động Samsung Galaxy S8 - Màu Đen|Samsung|13990000|https://pico.vn/35110/dien-thoai-di-dong-samsung-g950-den--galaxy-s8.html
+Pico00146|Gold|MobilePhone|iPhone 6 32GB Gold MQ3E2VNA|iPhone|6990000|https://pico.vn/35249/dien-thoai-apple-iphone-6-gold-32gb-mq3e2vna.html
+Pico00147|Black|MobilePhone|Galaxy J7 Prime Đen|No brand|4599000|https://pico.vn/33373/dien-thoai-di-dong-samsung-g610-mau-den--galaxy-j7-prime.html
+Pico00148|Black|MobilePhone|Điện Thoại Nokia 5 Đen |Nokia|2290000|https://pico.vn/35887/dien-thoai-di-dong-nokia-5-black--ta1053.html
+Pico00149|Blue|MobilePhone|Điện Thoại Nokia 5 - Màu Xanh NK1053BL|Nokia|2290000|https://pico.vn/35977/dien-thoai-di-dong-nokia-5-blue--ta1053.html
+Pico00150|no color|MobilePhone|Điện Thoại Nokia 5 NK1053C - Màu Đồng|Nokia|2290000|https://pico.vn/36022/dien-thoai-di-dong-nokia-5-copper--dong---ta1053.html
+Pico00151|Silver|MobilePhone|Điện Thoại Nokia 5 Bạc|Nokia|2290000|https://pico.vn/35882/dien-thoai-di-dong-nokia-5-silver--ta1053.html
+Pico00152|Yellow|MobilePhone|Điện Thoại Samsung Galaxy J2 Prime - Màu Vàng|Samsung|1890000|https://pico.vn/34591/dien-thoai-di-dong-samsung-g532-mau-vang--galaxy-j2-prime.html
+Pico00153|Blue|MobilePhone|Điện Thoại Nokia 3310 Blue|Nokia|999000|https://pico.vn/35525/dien-thoai-di-dong-nokia-3310-mau-blue.html
+Pico00154|Grey|MobilePhone|Điện Thoại Nokia 3310 Grey|Nokia|999000|https://pico.vn/35526/dien-thoai-di-dong-nokia-3310-mau-grey.html
+Pico00155|Green|MobilePhone|Điện thoại di động Nokia 225 Bright Green|Nokia|999000|https://pico.vn/25405/dien-thoai-di-dong-nokia-225-bright-green.html
+Pico00156|Black|MobilePhone|Điện Thoại Di Động Nokia N108 Đen|Nokia|748000</|https://pico.vn/22679/dien-thoai-di-dong-nokia-n108-den.html
+Pico00157|no color|MobilePhone|Điện Thoại Di Động Samsung Galaxy A7 2017|Samsung|6990000|https://pico.vn/34778/dien-thoai-di-dong-samsung-a720-mau-vang--galaxy-a7-2017.html
+Pico00158|no color|MobilePhone|Điện thoại Samsung Galaxy A5 2017|Samsung|5590000|https://pico.vn/34685/dien-thoai-di-dong-samsung-a520--galaxy-a5-2017.html
+Pico00159|Black|MobilePhone|Điện Thoại Nokia NK150B ( RM-1190 )|Nokia|719000</|https://pico.vn/35277/dien-thoai-di-dong-nokia-rm1190-150-ds-black.html
+Pico00160|Black|MobilePhone|Điện Thoại Samsung Galaxy J2 Core Đen|Samsung|1990000|https://pico.vn/39043/dien-thoai-di-dong-samsung-j260g-mau-den--galaxy-j2-core.html
+Pico00161|Yellow|MobilePhone|Điện Thoại Oppo A7 64GB Vàng|Oppo|3690000|https://pico.vn/38842/dien-thoai-di-dong-oppo-a7-64gb--cph1905-vang.html
+Pico00162|White|MobilePhone|Iphone XR 64GB White|iPhone|19990000|https://pico.vn/38745/dien-thoai-di-dong-iphone-xr-64gb-white-mry52vna.html
+Pico00163|Gold|MobilePhone|Iphone XS Max 256GB Gold|iPhone|29990000|https://pico.vn/38737/dien-thoai-di-dong-iphone-xs-max-256gb-gold--mt552vna.html
+Pico00164|Grey|MobilePhone|Iphone XS Max 64GB Space Grey |iPhone|29990000|https://pico.vn/38732/dien-thoai-di-dong-iphone-xs-max-64gb-space-grey--mt502vna.html
+Pico00165|Gold|MobilePhone|Iphone XS 256GB Gold|iPhone|29990000|https://pico.vn/38728/dien-thoai-di-dong-iphone-xs-256gb-gold--mt9k2vna.html
+Pico00166|Blue|MobilePhone|Điện Thoại Di Động Oppo F9 Xanh|Oppo|4990000|https://pico.vn/38544/dien-thoai-di-dong-oppo-f9---cph1825-xanh.html
+Pico00167|Blue|MobilePhone|Điện Thoại Di Động Nokia 2.1 Blue|Nokia|1690000|https://pico.vn/38490/dien-thoai-di-dong-nokia-21-ta1080-ds-vn-bluecopper11e2mx21b06.html
+Pico00168|Blue|MobilePhone|Điện Thoại Di Động Nokia 6.1 Plus Blue|Nokia|3590000|https://pico.vn/38473/dien-thoai-di-dong-nokia-61-plus-ta1116-ds-vn-blue11drgl21a08.html
+Pico00169|Black|MobilePhone|Điện Thoại Di Động Nokia 6.1 Plus Black|Nokia|3590000|https://pico.vn/38472/dien-thoai-di-dong-nokia-61-plus-ta1116-ds-vn-black11drgb21a09.html
+Pico00170|Blue|MobilePhone|Điện Thoại Di Động Nokia 3.1 2018 Blue|Nokia|2390000|https://pico.vn/38135/dien-thoai-di-dong-nokia-31-2018--ta1063-ds-216-vn-blue.html
+Pico00171|Black|MobilePhone|Điện Thoại Di Động Nokia 3.1 2018 Black|Nokia|2390000|https://pico.vn/38134/dien-thoai-di-dong-nokia-31-2018-ta1063-ds-216-vn-black.html
+Pico00172|Black|MobilePhone|Oppo F7 64G Đen|Oppo|3690000|https://pico.vn/38127/dien-thoai-di-dong-oppo-f7-den--cph1819-black.html
+Pico00173|Black|MobilePhone|Điện Thoại Huawei Y7 Pro 2018 Đen|Huawei|1790000|https://pico.vn/38093/dien-thoai-di-dong-huawei-y7-pro-2018-denldnlx2b.html
+Pico00174|Yellow|MobilePhone|Điện Thoại Di Động Huawei Y7 Pro 2018 Vàng|Huawei|1790000|https://pico.vn/37992/dien-thoai-di-dong-huawei-y7-pro-2018-vangldnlx2g.html
+Pico00175|Blue|MobilePhone|Điện Thoại Huawei Y7 Pro 2018 Xanh|Huawei|1790000|https://pico.vn/37883/dien-thoai-di-dong-huawei-y7-pro-2018-xanhldnlx2blue.html
+Pico00176|Yellow|MobilePhone|Điện Thoại Huawei Y6 Prime 2018 Vàng|Huawei|1790000|https://pico.vn/37873/dien-thoai-di-dong-huawei-y6-prime-2018-vangatul42g.html
+Pico00177|Blue|MobilePhone|Điện Thoại Huawei Y6 Prime 2018 Xanh|Huawei|1790000|https://pico.vn/37872/dien-thoai-di-dong-huawei-y6-prime-2018-xanhatul42blue.html
+Pico00178|Pink|MobilePhone|Điện Thoại Huawei Nova 3e Hồng|Huawei|2490000|https://pico.vn/37871/dien-thoai-di-dong-huawei-nova-3e-honganelx2p.html
+Pico00179|Black|MobilePhone|Điện Thoại Huawei Nova 3e Đen|Huawei|2490000|https://pico.vn/37869/dien-thoai-di-dong-huawei-nova-3e-denanelx2b.html
+Pico00180|Black|MobilePhone|Oppo F7 128G Đen |Oppo|4490000|https://pico.vn/37705/dien-thoai-di-dong-oppo-f7-128g-den--cph1821-black.html
+Pico00181|Black|MobilePhone|Điện Thoại Nokia 8110 4G Đen|Nokia|1290000|https://pico.vn/37694/dien-thoai-di-dong-nokia-8110-4g--black.html
+Pico00182|White|MobilePhone|Nokia 7 Plus NK1046 Trắng|Nokia|4490000|https://pico.vn/37693/dien-thoai-di-dong-nokia-7-plus-ta1046-ds-464-vn-white-mau-trang.html
+Pico00183|Silver|MobilePhone|Oppo F7 - CPH1819 Silver|Oppo|3690000|https://pico.vn/37545/dien-thoai-di-dong-oppo-f7-bac--cph1819-silver.html
+Pico00184|Red|MobilePhone|Oppo F7 - CPH1819 Red|Oppo|3690000|https://pico.vn/37544/dien-thoai-di-dong-oppo-f7-do--cph1819-red.html
+Pico00185|Black|MobilePhone|Nokia 6 2018 Đen|Nokia|2990000|https://pico.vn/37525/dien-thoai-di-dong-nokia-61-ta1043-ds-332-vn-black11pl2b21a06.html
+Pico00186|Black|MobilePhone|Nokia 7 Plus NK1046 Đen|Nokia|4490000|https://pico.vn/37489/dien-thoai-di-dong-nokia-7-plus-ta1046-ds-464-vn-black-copper-mau-den.html
+Pico00187|Purple|MobilePhone| Samsung Galaxy S9 Tím |Samsung|17990000|https://pico.vn/37178/dien-thoai-di-dong-samsung-g965-tim--purple---galaxy-s9.html
+Pico00188|Purple|MobilePhone|Samsung Galaxy S9+ Purple|Samsung|19900000|https://pico.vn/37172/dien-thoai-di-dong-samsung-g965-tim--purple---galaxy-s9.html
+Pico00189|Black|MobilePhone|Samsung Galaxy S9 Plus Đen|Samsung|19900000|https://pico.vn/37060/dien-thoai-di-dong-samsung-g965-den--galaxy-s9.html
+Pico00190|Purple|MobilePhone|Samsung Galaxy A8 Plus 2018 Tím Khói|Samsung|5490000|https://pico.vn/37015/dien-thoai-di-dong-samsung-a730-mau-tim-khoi--galaxy-a8-plus-2018.html
+Pico00191|Purple|MobilePhone|Samsung Galaxy Note 8 Tím Khói|Samsung|14990000|https://pico.vn/37012/dien-thoai-di-dong-samsung-n950-orchid-gray-tim-khoi--galaxy-note-8.html
+Pico00192|Purple|MobilePhone|Samsung Galaxy A8 2018 Tím Khói|Samsung|6990000|https://pico.vn/37011/dien-thoai-di-dong-samsung-a530-mau-tim-khoi--galaxy-a8-2018.html
+Pico00193|Black|MobilePhone|OPPO CPH1729 A83 Đen|Oppo|2490000|https://pico.vn/36959/dien-thoai-di-dong-oppo-cph1729--a83-den.html
+Pico00194|Black|MobilePhone|Samsung Galaxy A8 Plus Đen|Samsung|5490000|https://pico.vn/36890/dien-thoai-di-dong-samsung-a730-mau-den--galaxy-a8-plus-2018.html
+Pico00195|Yellow|MobilePhone|Samsung Galaxy A8 Plus Vàng|Samsung|5490000|https://pico.vn/36889/dien-thoai-di-dong-samsung-a730-mau-vang--galaxy-a8-plus-2018.html
+Pico00196|Yellow|MobilePhone|Samsung Galaxy A8 2018 Vàng|Samsung|6990000|https://pico.vn/36888/dien-thoai-di-dong-samsung-a530-mau-vang--galaxy-a8-2018.html
+Pico00197|Silver|MobilePhone|Iphone X 64GB Silver|iPhone|20990000|https://pico.vn/36837/dien-thoai-di-dong-iphone-x-64gb-silver-a1865mqa62zpa.html
+Pico00198|Black|MobilePhone|Điện Thoại Di Động Nokia 130 Màu Đen|Nokia|519000</|https://pico.vn/36449/dien-thoai-di-dong-nokia-130-mau-den--new-model-2017.html
+Pico00199|Black|MobilePhone|Oppo A71 Đen Ram 3Gb/16Gb|Oppo|2190000|https://pico.vn/36351/dien-thoai-di-dong-oppo-a71--cph1717-mau-den.html
+Pico00200|Yellow|MobilePhone|OPPO A71 Vàng Ram 3Gb/16Gb|Oppo|2190000|https://pico.vn/36350/dien-thoai-di-dong-oppo-a71--cph1717-mau-vang.html
+Pico00201|upper door|WashingMachine|Máy Giặt Toshiba AW-K905DV(SG) 8 kg Ghi|Toshiba|6290000|https://pico.vn/41046/may-giat-toshiba-8-kg-awk905dvsg--mau-ghi.html
+Pico00202|upper door|WashingMachine|Máy Giặt Toshiba AW-K900DV(WW) 8 kg Trắng|Toshiba|5890000|https://pico.vn/41045/may-giat-toshiba-8-kg-awk900dvww--mau-trang.html
+Pico00203|front door|WashingMachine|Máy Giặt Toshiba AW-K1005FV(SG) 9 Kg Ghi|Toshiba|7290000|https://pico.vn/41038/may-giat-toshiba-9-kg-awk1005fvsg--mau-ghi.html
+Pico00204|upper door|WashingMachine|Máy Giặt Toshiba AW-K1000FV(WW) 9 kg Trắng|Toshiba|6890000|https://pico.vn/41037/may-giat-toshiba-9-kg-awk1000fvww-mau-trang.html
+Pico00205|upper door|WashingMachine|Máy Giặt Aqua 10 Kg AQW-FR100ET.W Trắng|Aqua|5190000|https://pico.vn/40846/may-giat-aqua-10-kg-aqwfr100etw-mau-trang.html
+Pico00206|upper door|WashingMachine|Máy Giặt Lồng Đứng LG T2185VS2W Inverter 8.5 Kg|LG|5990000|https://pico.vn/40762/may-giat-long-dung-lg-t2185vs2w--inverter--mau-trang--85-kg.html
+Pico00207|front door|WashingMachine|Máy Giặt Sấy Electrolux EWW8025DGWA Inverter Giặt 8.0 kg Sấy 5.0kg |Electrolux|12990000|https://pico.vn/40720/may-giat-say-inverter-eww8025dgwa--giat-80-kg--say-50kg-made-in-thailand.html
+Pico00208|front door|WashingMachine|Máy Giặt Sấy LG FV1450H2B- DD inverter - Giặt 10.5 Sấy 7Kg |LG|21900000|https://pico.vn/40675/may-giat-say-ln-lg-fv1450h2b-dd-inverter--giat-105-say-7kg--mau-den.html
+Pico00209|front door|WashingMachine|Máy Giặt Sấy Inverter Electrolux EWW8023AEWA - Giặt 8.0 kg - Sấy 5.0kg |Electrolux|15390000|https://pico.vn/40662/may-giat-say-inverter-eww8023aewa--giat-80-kg--say-50kg-made-in-thailand.html
+Pico00210|Gold|14'|Laptop|Laptop HP Pavilion 14-ce3014TU 8QP03PA|HP|13299000|https://pico.vn/41087/may-tinh-xach-tay-hp-pavilion--14ce3014tui31005g14gb256gb-ssd14-fhdumawin10gold1y8qp03pa.html
+Pico00212|Silver|14'|Laptop|Laptop Asus X509JA-EJ021T Core i5-1035G1 Bạc|Asus|14499000|https://pico.vn/41082/mtxt--asus-x509jaej021t---i51035g14gb512gbssduma156fhdwin-10bacfp2yw.html
+Pico00213|Silver|14'|Laptop|Laptop Asus X509JA-EJ020T Core i5-1035G1 Bạc|Asus|13499000|https://pico.vn/41081/mtxt--asus-x509jaej020t---i51035g14gb1tbuma156fhdwin-10bacfp2yw.html
+Pico00214|no color|14'|Laptop|Laptop ASUS X409JA-EK014T Core i5-1035G1|Asus|14499000|https://pico.vn/41079/laptop--asus-x409jaek014t-i51035g14gb512gbssd140fhdfpbacw10sl2ys.html
+Pico00215|Grey|14'|Laptop|Laptop Lenovo IdeaPad S145-14API Ryzen 5 3500U Grey|Lenovo|11499000|https://pico.vn/41076/mtxt--lenovo-ideapad-s14514api--ryzen-5-3500u4gb256gbssd14-fhdwin10hgrey1y-wty81uv005avn.html
+Pico00216|Silver|14'|Laptop|Laptop HP 15S-DU0126TU Core i3-8130U|HP|10499000|https://pico.vn/41061/mtxt-hp-15sdu0126tu--i38130u4gb256gbssd156hdwin10hsilver1yr1v888pa.html
+Pico00217|Black|14'|Laptop|Laptop Dell Inspiron N3593A-P75F013 Core i3-1005G1 Black|Dell|12499000|https://pico.vn/41044/mtxt-dell--inspiron-n3593ap75f013--i31005g1-4gb1tb156-fhd-w10black1y.html
+Pico00211|upper door|WashingMachine|Máy Giặt Aqua AQW-U91CTN 9 Kg Vàng|Aqua|5560000|https://pico.vn/40611/may-giat-aqua-aqwu91ctn---9-kg-mau-vang--nap-kinh-tran-vien.html
+Pico00219|upper door|WashingMachine|Máy Giặt Toshiba 8.2 Kg AW-J920LV SB|Toshiba|5890000|https://pico.vn/40570/may-giat-toshiba-82-kg-awj920lv-sb.html
+Pico00220|upper door|WashingMachine|Máy Giặt Lồng Đứng LG TH2113SSAK 13 kg Inverter |LG|12490000|https://pico.vn/40546/may-giat-long-dung-13-kg-inverter-dan-dong-truc-tiepsmart-diagnosis.html
+Pico00221|upper door|WashingMachine|Máy Giặt Lồng Đứng LG TH2112SSAV 12 kg inverter|LG|11990000|https://pico.vn/40545/may-giat-long-dung-12-kg-inverter-dan-dong-truc-tiepsmart-diagnosis.html
+Pico00222|front door|WashingMachine|Máy Giặt Lồng Ngang LG FV1450S3W- DD inverter - Giặt 10.5kg |LG|14490000|https://pico.vn/40544/may-giat-long-ngang-lg-fv1450s3w-dd-inverter--giat-105kg--mau-trang.html
+Pico00223|front door|WashingMachine|Máy Giặt Lồng Ngang LG FV1450S2B- DD Inverter - Giặt 10.5kg|LG|16490000|https://pico.vn/40543/may-giat-long-ngang-lg-fv1450s2b-dd-inverter--giat-105kg--mau-den.html
+Pico00224|front door|WashingMachine|Máy Giặt Panasonic NA-FD11AR1GV Inverter 11.5 Kg|Panasonic|10790000|https://pico.vn/40541/may-giat-panasonic-nafd11ar1gv--115-kg-inverter--10-chuong-trinh-giat.html
+Pico00225|front door|WashingMachine|Máy Giặt Panasonic NA-FD10XR1LV Inverter 10.5 Kg|Panasonic|10290000|https://pico.vn/40540/may-giat-panasonic-nafd10xr1lv--105-kg-inverter--10-chuong-trinh-giat.html
+Pico00226|front door|WashingMachine|Máy Giặt Lồng Ngang LG FM1209N6W 9.0 Kg DD Inverter|LG|10490000|https://pico.vn/40539/may-giat--long-ngang-lg-fm1209n6w--giat-90-kg-dd--inverter.html
+Pico00227|front door|WashingMachine|Máy Giặt Lồng Ngang LG FM1208N6W 8 Kg DD Inverter|LG|8990000|https://pico.vn/40538/may-giat--long-ngang-lg-fm1208n6w-giat-8-kg--dd-inverter.html
+Pico00218|Black|14'|Laptop|Laptop Dell Inspiron N3593B P75F013 Core i5-1035G1 Black|Dell|14199000|https://pico.vn/41035/mtxt--dell-inspiron-n3593b--i51035g14gb1tb156-fhdwin-10hblack1yrp75f013.html
+Pico00228|no color|15'|Laptop|Laptop HP Pavilion 15-cs3063TX Core i7-1065G7|HP|22499000|https://pico.vn/40993/laptop-hp-pavilion-15cs3063tx-i71065g78gb512gbssd156fhdvangw101yr2gbmx2508rk42pa.html
+Pico00229|Black|14'|Laptop|Laptop Dell Inspiron 3593 70197457 Core i5-1035G1 Black|Dell|14999000|https://pico.vn/40989/mtxt--dell-inspiron-3593--i51035g14gb1tbdvdrw2gbmx230156-fhd-w10hblack701974571yr.html
+Pico00230|Silver|14'|Laptop|Laptop Dell Inspiron 14 N3493-WTW3M1 Core i3-1005G1 Bạc|Dell|11499000|https://pico.vn/40962/laptop-dell-inspiron-14-n3493wtw3m1--i31005g14gb1tb140hdbacw10slpresup1y.html
+Pico00231|Gold|14'|Laptop|Laptop HP Pavilion 14-CE3026TU Core i5-1035G1|HP|17399000|https://pico.vn/40959/mtxt--hp-pavilion-14ce3026tu-i51035g18gb512gbssd14fhd3celwin10hgold1y-wty8wh93pa.html
+Pico00232|Silver|14'|Laptop|Laptop Asus A512FA-EJ1281T Core i5-10210U|Asus|17099000|https://pico.vn/40950/laptop-asus-a512faej1281t-i510210u8gb512gbssd156-fhdwin10silver2-yrs.html
+Pico00233|Silver|14'|Laptop|Laptop Asus A412FA-EK734T Core i5-10210U|Asus|16799000|https://pico.vn/40949/laptop-asus-a412faek734t-i510210u8gb512gbssd14-fhdwin10silver2-yrs.html
+Pico00234|Silver|14'|Laptop|Laptop HP 15s-du0116TU 8TW28PA Core i3-7020U Silver|HP|10899000|https://pico.vn/40939/mtxt-hp-15sdu0116tu--i37020u4gb256gbssd156-fhdw10hsilver1yr8tw28pa.html
+Pico00235|Gold|13'|Laptop|Laptop HP Envy 13-AQ1022TU Core i5-10210U|HP|21999000|https://pico.vn/40938/mtxt--hp-envy-13aq1022tu--i510210u8gb512gb-ssd133fhd4cellwin10hgold1y8qn69pa.html
+Pico00236|Black|14'|Laptop|Laptop Dell Vostro 15 V3590 Core i3 - 10110U Black|Dell|12399000|https://pico.vn/40937/laptop-dell-vostro-15-v3590-i3--10110u4gb-1tb156-fhdw10dvdrwfp1yv5i3505wblack.html
+Pico00237|no color|14'|Laptop|Laptop Asus TP412FA-EC269T Core i3-8145U|Asus|12499000|https://pico.vn/40936/mtxt-asus-tp412faec269t-i38145u4gb512gssd14fhd-touch-w10mau-xambut-cam-ung-fpled-kb2ys.html
+Pico00238|no color|14'|Laptop|Laptop Asus D509DA-EJ285T Ryzen 3-3200U|Asus|10299000|https://pico.vn/40935/laptop-asus-d509daej285t--ryzen-33200u4gb256gbvgavega-3156fhdwin10xam2ys.html
+Pico00239|Silver|14'|Laptop|Laptop Dell INS15 7591 N5I5591W Core i5 - 9300H Silver|Dell|24999000|https://pico.vn/40934/mtxt-dell-ins15-7591--i5--9300h8gb256gbssd156fhd-3gbvgaw10n5i5591wsilver1y.html
+Pico00240|Grey|14'|Laptop|Laptop Lenovo IdeaPad S340-81VV003TVN Core i3-1005G1|Lenovo|13299000|https://pico.vn/40932/mtxt--lenovo-ideapad-s34081vv003tvn--i31005g14gb512gb14-fhdwin-10-hplatinum-grey-1yr.html
+Pico00241|no color|15'|Laptop|Laptop HP Pavilion 15-cs3015TU Core i5-1035G1|HP|15499000|https://pico.vn/40931/laptop-hp-pavilion-15cs3015tu--i51035g14gb256gbssd156fhdalupxamw10sl1yr8qp15pa.html
+Pico00242|Silver|14'|Laptop|Laptop HP 15s-du0059TU Pentium N5000 (6ZF65PA)|HP|7999000|https://pico.vn/40863/mtxt-hp-15sdu0059tu-pentium-n5000--4gb1tbdvd156hdwin10silver1y6zf65pa.html
+Pico00243|Grey|14'|Laptop|Laptop HP HP250G7-9FN02PA Core i3-7020U Xám|HP|9499000|https://pico.vn/40842/laptop--hp-250-g7---i37020u4gb256gbssd156hdxamwin10h9fn02pa.html
+Pico00244|Silver|14'|Laptop|Laptop HP 15s-fq1022TU 8VY75PA Core i7-1065G7 Silver|HP|17499000|https://pico.vn/40838/mtxt-hp-15sfq1022tu--i71065g7-8gb512gbssd156fhdwin10hsilver1yr8vy75pa.html
+Pico00245|no color|15'|Laptop|Laptop HP Pavilion 15-cs3061TX Core i5-1035G1 (8RE83PA)|HP|18299000|https://pico.vn/40836/laptop-hp-pavilion-15cs3061tx-i51035g18gb512gbssd156fhdxamw10sl1yr2gbmx2508re83pa.html
+Pico00246|no color|15'|Laptop|Laptop HP Pavilion 15-cs3014TU Core i5-1035G1 (8QP20PA)|HP|15499000|https://pico.vn/40835/laptop-hp-pavilion-15cs3014tu--i51035g14gb256gbssd156fhdalupvangw10sl1yr8qp20pa.html
+Pico00247|no color|15'|Laptop|Laptop HP Pavilion 15-cs3008TU Core i3-1005G1 (8QP02PA )|HP|13499000|https://pico.vn/40833/laptop-hp-pavilion-15cs3008tu--i31005g14gb256gbssd156fhdalupvangw10sl1yr8qp02pa.html
+Pico00248|Grey|15'|Laptop|Laptop HP Pavilion 15-cs3010TU 8QN78PA Core i3-1005G1 Xám|HP|13499000|https://pico.vn/40831/laptop-hp-pavilion-15cs3010tu--i31005g14gb256gbssd156fhd3c41whralupxamw10sl1yr8qn78pa.html
+Pico00249|Grey|15'|Laptop|Laptop HP Pavilion 15-cs3011TU 8QN96PA Core i5-1035G1 Xám|HP|17399000|https://pico.vn/40830/laptop-hp-pavilion-15cs3011tu--i51035g18gb512gbssd156fhdalupxamw10sl1yr8qn96pa.html
+Pico00250|Silver|14'|Laptop|Laptop HP 15s-du0114TU(8WE69PA) Core i3-7020U Silver|HP|10499000|https://pico.vn/40780/mtxt-hp-15sdu0114tu--i37020u4gb256gbssd156hdwin10hsilver1yr8we69pa.html
+Pico00251|Grey|14'|Laptop|Laptop Lenovo Ideapad S145-81W8001YVN Core i5-1035G1|Lenovo|13999000|https://pico.vn/40734/mtxt-lenovo-ideapad-s14515iwl--i51035g14gb256gbssd156-fhdwin10hgrey1y81w8001yvn.html
+Pico00252|Grey|14'|Laptop|Laptop Lenovo IdeaPad S145-14IIL 81W6001GVN Core i3-1005G1|Lenovo|10999000|https://pico.vn/40721/mtxt-lenovo-ideapad-s14514iil-i31005g14gb256gbssd14-fhdwin10hgrey1y81w6001gvn.html
+Pico00253|no color|14'|Laptop|Laptop Lenovo Legion Y540-81SY0037VN Core i5-9300H|Lenovo|20999000|https://pico.vn/40715/mtxt-lenovo-legion-y54015irh-i59300h8gb-1tb128gbgtx16504gb156fhddos1y81sy0037vn.html
+Pico00254|Black|14'|Laptop|Laptop Dell Vostro V3590- GRMGK1 Core i5-10210U Đen|Dell|14899000|https://pico.vn/40710/laptop--dell-vostro-15-v3590grmgk1-i510210u4gb1tbdvdrw156fhdfpbtdenw10slprosup1y.html
+Pico00255|Silver|14'|Laptop|Laptop Dell Inspiron N5593A-P90F002 Core i7-1065UG7 Silver|Dell|23999000|https://pico.vn/40709/mtxt--inspiron-n5593ap90f002silver-i71065ug7-8gb-512gbssd4gbvga-156-fhd-w101yr.html
+Pico00256|Grey|14'|Laptop|Laptop Dell Vostro 5490 V4I3101W Core i3 - 10110U Urban Gray|Dell|14499000|https://pico.vn/40630/mtxt--dell-vostro-5490-v4i3101wugray---i3--10110u4gb128gbssd14-fhdw10urban-gray1y.html
+Pico00257|Grey|14'|Laptop|Laptop Lenovo V130-81HQ00U2VN  |Lenovo|6999000|https://pico.vn/40627/mtxt-lenovo-v13014ikb--cel-3867u4gb256gbssd14-fhdw10hgrey1yr81hq00u2vn.html
+Pico00258|no color|14'|Laptop|Laptop Asus X509FA-EJ201T Core i5-8265U|Asus|13499000|https://pico.vn/40578/may-tinh-xach-tay-asus-x509faej201t--i58265u4gb1tbuma156-fhdwin-10bacfp2yw.html
+Pico00259|Silver|14'|Laptop|Laptop Dell Inspiron 3493 N4I5136W Core i5 -1035G1 Sliver|Dell|14199000|https://pico.vn/40572/mtxt-dell--inspiron-n3493--i5--1035g1-4gb-1tb-14-fhd-win10n4i5136wsilver-1yr.html
+Pico00260|no color|14'|Laptop|Laptop MSI Game GF75 9RCX-432VN Core i5-9300H|No brand|21299000|https://pico.vn/40571/msi-game-gf75-9rcx432vn--i59300h-8gb-256gbssd-gtx-1050ti4gb--173-fhd-win102yrs.html
+Pico00261|Black|14'|Laptop|Laptop Asus D570D- E4028T R5-3500U Đen|Asus|15999000|https://pico.vn/40566/mtxt-asus-d570d-e4028t--r53500u8gb256gbssd-gtx-1050-4gb-156fhdwin-10den-2ys.html
+Pico00262|Grey|14'|Laptop|Laptop Lenovo Ideapad S145-15IWL 81MV00F0VN Core i3-8145U|Lenovo|10499000|https://pico.vn/40562/mtxt-lenovo-ideapad-s14515iwl---i38145u4gb256gbssd156-fhdwin10hgrey1y81mv00f0vn.html
+Pico00263|Silver|14'|Laptop|Laptop Dell Inspiron N5593-N5I5402W-S Core i5 - 1035G1|Dell|16999000|https://pico.vn/40561/mtxt--inspiron-5593-n5i5402w-i5--1035g1-4gb1tb--128ssd2gbvga156-fhdw10silver1yr.html
+Pico00264|front door|WashingMachine|Máy Giặt Samsung WW10K44G0YW/SV 10Kg Trắng Inverter|Samsung|13490000|https://pico.vn/40477/may-giat-samsung-ww10k44g0ywsv-10kg--mau-trang--inverter.html
+Pico00265|front door|WashingMachine|Máy Giặt Samsung WW90K44G0YW/SV 9Kg Trắng Inverter|Samsung|12490000|https://pico.vn/40476/may-giat-samsung-ww90k44g0ywsv--9kg--mau-trang--inverter.html
+Pico00266|front door|WashingMachine|Máy Giặt Sấy Inverter Samsung WD95K5410OX/SV Giặt 9.5 kg, Sấy 7.0 kg|Samsung|15990000|https://pico.vn/40415/may-giat-say-inverter-samsung-wd95k5410oxsv--giat-95-kg-say-70-kg.html
+Pico00267|front door|WashingMachine|Máy Giặt Inverter Electrolux EWF1042BDWA 10kg |Electrolux|15990000|https://pico.vn/40414/may-giat-inverter-electrolux-ewf1042bdwa-10kg-made-in-thailand.html
+Pico00268|upper door|WashingMachine|Máy Giặt Lồng Đứng LG T2185VS2M Inverter 8.5 Kg Bạc|LG|6290000|https://pico.vn/40350/may-giat-long-dung-lg-t2185vs2m--inverter--mau-bac--85-kg.html
+Pico00269|upper door|WashingMachine|Máy Giặt Lồng Đứng LG TH2111SSAL 11Kg Inverter|LG|10990000|https://pico.vn/40349/may-giat-long-dung-11kg-inverter-dan-dong-truc-tiep.html
+Pico00270|front door|WashingMachine|Máy Giặt Aqua AQD-DD950E.S DD Inverter 9.5 Kg|Aqua|12200000|https://pico.vn/40327/may-giat-aqua-dd-inverter-95-kg-aqddd950e-s--mau-xam.html
+Pico00271|front door|WashingMachine|Máy Giặt Aqua DD Inverter 9.5 kg AQD-D950E W Màu Trắng|Aqua|9690000|https://pico.vn/40326/may-giat-aqua-dd-inverter-95-kg-aqdd950e-w--mau-trang.html
+Pico00272|front door|WashingMachine|Máy Giặt Aqua DD Inverter 8.5 kg AQD-D850E W Màu Trắng|Aqua|7990000|https://pico.vn/40325/may-giat-aqua-dd-inverter-85-kg-aqdd850e-w--mau-trang.html
+Pico00273|front door|WashingMachine|Máy Giặt Samsung WW10K54E0UW/SV 10kg Inverter|Samsung|15090000|https://pico.vn/40163/may-giat-samsung-ww10k54e0uwsv-10kg--inox-den--inverter.html
+Pico00274|front door|WashingMachine|Máy Giặt Sấy Samsung WD19N8750KV/SV 19kg Giật/11kg Sấy|Samsung|30900000|https://pico.vn/40080/may-giat-samsung--wd19n8750kvsv--19kg11kg-say.html
+Pico00275|front door|WashingMachine|Máy Giặt Sấy Electrolux inverter EWW1141AEWA - Giặt 11 kg - Sấy 7.0kg|Electrolux|22490000|https://pico.vn/40022/may-giat-say-inverter-eww1042aewa--giat-11-kg--say-70kg-made-in-thailand.html
+Pico00276|front door|WashingMachine|Máy Giặt Aqua 12 Kg AQW-FR120CT.W |Aqua|8990000|https://pico.vn/40021/may-giat-aqua-12-kg-aqwfr120ctw-mau-trang.html
+Pico00277|upper door|WashingMachine|Máy Giặt Aqua 10 Kg AQW-FR100ET.H |Aqua|5860000|https://pico.vn/40020/may-giat-aqua-10-kg-aqwfr100eth-mau-xam-nhat.html
+Pico00278|front door|WashingMachine|Máy Giặt Aqua AQW-DR120CT.S 12 Kg Inverter Bạc|Aqua|10200000|https://pico.vn/40016/may-giat-aqua-inverter-12-kg-aqwdr120cts-mau-bac.html
+Pico00279|front door|WashingMachine|Máy Giặt Aqua AQW-DR100ET.S 10 Kg Inverter Bạc|Aqua|7860000|https://pico.vn/40015/may-giat-aqua-inverter-10-kg-aqwdr100ets-mau-bac.html
+Pico00280|front door|WashingMachine|Máy Giặt Sấy LG FG1405H3W1 10.5 Kg Giặt / 7Kg Sấy Inverter|LG|26900000|https://pico.vn/39974/may-giat-lg-fg1405h3w1--105-kg-giat--7kg-say--inverter.html
+Pico00281|front door|WashingMachine|Máy Giặt Inverter Electrolux EWF9523BDWA - 9.5kg |Electrolux|13990000|https://pico.vn/39921/may-giat-inverter-electrolux-ewf9523bdwa--95kg-made-in-thailand.html
+Pico00282|upper door|WashingMachine|Máy Giặt Aqua Inverter 8.5 kg AQD-A852ZT (W) - Màu Trắng|Aqua|6990000|https://pico.vn/39877/may-giat-aqua-inverter-85-kg-aqda852zt-w--mau-trang.html
+Pico00283|front door|WashingMachine|Máy Giặt Lồng Ngang LG FC1409S4W 9.0 Kg Inverter|LG|11490000|https://pico.vn/39856/may-giat--long-ngang-lg-fc1409s4w-giat-90-kg-dd--inverter.html
+Pico00284|front door|WashingMachine|Máy Giặt Inverter Electrolux EWF1024BDWA 10kg |Electrolux|11990000|https://pico.vn/39836/may-giat-inverter-electrolux-ewf1024bdwa-10kg-long--ngang.html
+Pico00285|front door|WashingMachine|Máy Giặt Inverter Electrolux EWF9523ADSA 9.5kg |Electrolux|15490000|https://pico.vn/39832/may-giat-inverter-electrolux-ewf9523adsa-95kg-long--ngang.html
+Pico00286|front door|WashingMachine|Máy Giặt Electrolux EWF9024ADSA 9.0 Kg Inverter|Electrolux|12790000|https://pico.vn/39827/may-giat-inverter-electrolux-ewf9024adsa-90kg-long--ngang.html
+Pico00287|front door|WashingMachine|Máy Giặt Electrolux EWF8024ADSA 8kg Inverter |Electrolux|10990000|https://pico.vn/39826/may-giat-inverter-electrolux-ewf8024adsa--8kg-long--ngang.html
+Pico00288|front door|WashingMachine|Máy Giặt Electrolux EWF1142BEWA 11 Kg Inverter|Electrolux|19990000|https://pico.vn/39749/may-giat-inverter-electrolux-ewf1142bewa--11-kg--made-in-thailan.html
+Pico00289|front door|WashingMachine|Máy Giặt Electrolux EWF1023BEWA 10 Kg Inverter|Electrolux|16490000|https://pico.vn/39748/may-giat-inverter-electrolux-ewf1023bewa10kg-long--ngang.html
+Pico00290|front door|WashingMachine|Máy Giặt Electrolux EWF1023BESA 10 Kg Inverter|Electrolux|17990000|https://pico.vn/39747/may-giat-inverter-electrolux-ewf1023besa--10-kg--made-in-thailan.html
+Pico00291|front door|WashingMachine|Máy Giặt Electrolux EWF9023BDWA 9.0 Kg Inverter |Electrolux|13990000|https://pico.vn/39646/may-giat-inverter-electrolux-ewf9023bdwa--90kg.html
+Pico00292|front door|WashingMachine|Máy Giặt Sấy Inverter Electrolux EWW1042AEWA - Giặt 10 kg - Sấy 7.0kg|Electrolux|19990000|https://pico.vn/39642/may-giat-say-inverter-eww1042aewa--giat-10-kg--say-70kg.html
+Pico00293|front door|WashingMachine|Máy Giặt Inverter Electrolux EWF8024BDWA - 8kg |Electrolux|10690000|https://pico.vn/39551/may-giat-inverter-electrolux-ewf8024bdwa--8kg-long--ngang-inverter.html
+Pico00294|upper door|WashingMachine|Máy Giặt Aqua AQW-S80CT - 8kg|Aqua|4640000|https://pico.vn/39522/may-giat-aqua-aqws80ct--8kg--kinh-chiu-luc.html
+Pico00295|upper door|WashingMachine|Máy Giặt Aqua AQW-FW105ATN -  10.5 kg |Aqua|6470000|https://pico.vn/39521/may-giat-aqua-aqwfw105atn---105-kg-mau-vang.html
+Pico00296|front door|WashingMachine|Máy Giặt Aqua AQD-D1000C(N) 10 Kg DD Inverter |Aqua|11990000|https://pico.vn/39450/may-giat-long-ngang-aqua-aqdd1000c-n--10-kg--dd-inverter--mau-vang-kim.html
+Pico00297|front door|WashingMachine|Máy giặt Aqua AQD-A982ZT(W) 9.8 Kg Inverter Trắng|Aqua|7290000|https://pico.vn/39449/may-giat-aqua-inverter-aqda982zt--w---98-kg-mau-trang.html
+Pico00298|upper door|WashingMachine|Máy Giặt Aqua AQW-S90CT 9kg |Aqua|5290000|https://pico.vn/39392/may-giat-aqua-aqws90ct--9kg--kinh-chiu-luc.html
+Pico00299|front door|WashingMachine|Máy Giặt Samsung WW10K54E0UXSV 10kg Inox Đen Inverter|Samsung|16990000|https://pico.vn/39385/may-giat-samsung-ww10k54e0uxsv-10kg--inox-den--inverter.html
+Pico00300|front door|WashingMachine|Máy Giặt Samsung WW80J52G0KW/SV Inverter|Samsung|8790000|https://pico.vn/39383/may-giat-samsung-ww80j52g0kwsv--8kg--mau-trang--inverter.html
+Pico00301|front door|WashingMachine|Máy Giặt  Electrolux EWF9025BQWA  9 Kg Inverter|Electrolux|8990000|https://pico.vn/39138/may-giat--electrolux-ewf9025bqwa--9kg-inverter.html
+Pico00302|front door|WashingMachine|Máy Giặt Toshiba TW-BH95S2V - 8.5kg Inverter|Toshiba|8990000|https://pico.vn/39125/may-giat-toshiba-twbh95s2v--85kg--mau-trang--inverter.html
+Pico00303|front door|WashingMachine|Máy Giặt Toshiba TW-BH85S2V - 7.5kg Inverter|Toshiba|8490000|https://pico.vn/39124/may-giat-toshiba-twbh85s2v--75kg--mau-trang--inverter.html
+Pico00304|upper door|WashingMachine|Máy Giặt Lồng Đứng LG T2555VS2M 15.5 Kg Smart Inverter|LG|10990000|https://pico.vn/39112/may-giat-long-dung-lg-t2555vs2m--155-kg-smart-inverter.html
+Pico00305|upper door|WashingMachine|Máy Giặt Lồng Đứng LG T2553VS2M 13.5 Kg Smart Inverter|LG|9990000|https://pico.vn/39111/may-giat-long-dung-lg-t2553vs2m--135-kg-smart-inverter.html
+Pico00306|front door|WashingMachine|Máy Giặt Electrolux EWF9025BQSA 9kg Inverter|Electrolux|10990000|https://pico.vn/38962/may-giat--electrolux-ewf9025bqsa--9kg-inverter.html
+Pico00307|front door|WashingMachine|Máy Giặt Bosch WAP28480SG 9.0kg|No brand|21990000|https://pico.vn/38953/may-giat-bosch-wap28480sg--90kg.html
+Pico00308|front door|WashingMachine|Máy Giặt Sấy Bosch WVG30462SG 8kg Giặt /5kg Sấy|No brand|26990000|https://pico.vn/38880/may-giat--say-bosch-wvg30462sg-8kg-giat-5kg-say.html
+Pico00309|front door|WashingMachine|Máy Giặt Electrolux EWF8025CQSA 8 Kg Inverter|Electrolux|8890000|https://pico.vn/38701/may-giat--electrolux-ewf8025cqsa--8kg-long--ngang-inverter.html
+Pico00310|front door|WashingMachine|Máy Giặt Electrolux  EWF7525DQWA 7.5kg Inverter|Electrolux|7990000|https://pico.vn/38700/may-giat-electrolux-ewf7525dqwa--75kg-long-ngang.html
+Pico00311|front door|WashingMachine|Máy Giặt Panasonic NA-FS10V7LRV 10 kg  Inverter|Panasonic|10590000|https://pico.vn/38629/may-giat-panasonic-nafs10v7lrv-10-kg--inverter--giat-nuoc-nong.html
+Pico00312|front door|WashingMachine|Máy Giặt Panasonic NA-FS10X7LRV 10 kg Inverter |Panasonic|9590000|https://pico.vn/38628/may-giat-panasonic-nafs10x7lrv--10-kg-inverter--3chuong-trinh-giat.html
+Pico00313|front door|WashingMachine|Máy Giặt Panasonic NA-FS85X7LRV 8.5 kg|Panasonic|8290000|https://pico.vn/38627/may-giat-panasonic-85-kg--inverter.html
+Pico00314|front door|WashingMachine|Máy Giặt Panasonic NA-FS95V7LRV 9.5 kg Màu bạc Inverter|Panasonic|9990000|https://pico.vn/38626/may-giat-panasonic-nafs95v7lrv--95-kg-mau-bac--inverter.html
+Pico00315|front door|WashingMachine|Máy Giặt Panasonic NA-FS95X7LRV 9.5 kg Màu Bạc Inverter|Panasonic|8990000|https://pico.vn/38625/may-giat-panasonic-nafs95x7lrv--95-kg-mau-bac--inverter.html
+Pico00316|front door|WashingMachine|Máy Giặt Toshiba TW-BH105M4V 9.5 Kg Trắng Inverter|Toshiba|11790000|https://pico.vn/38609/may-giat-toshiba-twbh105m4v--95kg--mau-trang--inverter.html
+Pico00317|front door|WashingMachine|Máy Giặt Toshiba TW-BH95M4V 8.5 Kg Trắng Inverter|Toshiba|10690000|https://pico.vn/38608/may-giat-toshiba-twbh95m4v--85kg--mau-trang--inverter.html
+Pico00318|front door|WashingMachine|Máy Giặt Toshiba H1100GVSM 10kg Màu Kim Loại|Toshiba|7090000|https://pico.vn/38560/may-giat-toshiba-h1100gvsm-10kg-mau-kim-loai.html
+Pico00319|upper door|WashingMachine|Máy Giặt Toshiba H1000GVSB 9kg Màu Xanh|Toshiba|6650000|https://pico.vn/38559/may-giat-toshiba-h1000gvsb-9kg-mau-xanh.html
+Pico00320|front door|WashingMachine|Máy Giặt Samsung WA10J5750SG/SV 10 Kg Xám|Samsung|8490000|https://pico.vn/38511/may-giat-samsung-wa10j5750sgsv--10-kg-mau-xam.html
+Pico00321|front door|WashingMachine|Máy giặt Samsung WA14N6780CV/SV 14 Kg Đen|Samsung|13490000|https://pico.vn/38510/may-giat-samsung-wa14n6780cvsv--14-kg-mau-den.html
+Pico00322|front door|WashingMachine|Máy Giặt Samsung WA16N6780CV/SV 16 Kg Đen|Samsung|15490000|https://pico.vn/38509/may-giat-samsung-wa16n6780cvsv--16-kg-mau-den.html
+Pico00323|upper door|WashingMachine|Máy Giặt Aqua AQW-S72CT 7.2 Kg|Aqua|3790000|https://pico.vn/38133/may-giat-aqua-aqws72ct--72kg--kinh-chiu-luc.html
+Pico00324|Silver|14'|Laptop|Laptop Dell Inspiron N5391-N3I3001W-S Core i3 - 10110U|Dell|15299000|https://pico.vn/40560/mtxt-dell--inspiron-5391-n3i3001wsilver-i3--10110u-4gb128gbssd133-fhd-w10silver.html
+Pico00325|Yellow|15'|Laptop|Laptop HP Pavilion 15-cs2058TX 6YZ12PA Core i7-8565U Vàng|HP|18999000|https://pico.vn/40486/mtxt--hp-pavilion-15cs2058tx--i78565u8gb1tb156fhdaluvangw10sl2gmx2506yz12pa.html
+Pico00326|Grey|14'|Laptop|Laptop Dell Inspiron N3480L-P89G003 Core i5-8265U Gray|Dell|14999000|https://pico.vn/40474/mtxt-dell-inspiron-3480l--i58265u4gb1tb14-hdvga2gbwin10gray1yrp89g003.html
+Pico00327|Silver|14'|Laptop|Laptop Asus X509UA-EJ116T Core i3-7020U Bạc|Asus|10199000|https://pico.vn/40469/mtxt-asus-x509uaej116t--i37020u4gb1tbuma156-fhdwin-10bacfp2ys.html
+Pico00328|Silver|14'|Laptop|Laptop Asus X409UA-EK092T Core i3-7020U Bạc|Asus|9799000|https://pico.vn/40468/mtxt-asus-x409uaek092t--i37020u4gb1tbuma14-fhdwin-10bacfp2ys.html
+Pico00329|Black|14'|Laptop|Laptop Dell N3580A-P75F006 Core i3-8145U|Dell|12499000|https://pico.vn/40467/mtxt-dell-n3580ap75f006-i38145u4gb1tb156fhdwlbtwin10hblack1yr.html
+Pico00330|no color|14'|Laptop|Laptop HP HP348-7XJ62PA  G5 Core i3-7020U|HP|10599000|https://pico.vn/40460/mtxt-hp-hp3487xj62pa--g5--i37020u4gb256gbssd140fhdbt423c41whrbacwin10sl.html
+Pico00331|Black|14'|Laptop|Laptop Dell Vostro 3490 (70196714) Core i5-10210U Black|Dell|14799000|https://pico.vn/40446/mtxt--dell-vostro-3490--i510210u-4gb1tb140-hdw10black1yr70196714.html
+Pico00332|Black|14'|Laptop|Laptop Dell Vostro 3490 (70196712) Core i3-10110U Black|Dell|11999000|https://pico.vn/40445/mtxt--dell-vostro-3490--i310110u4gb1tb140-hdw10hblack1yr70196712.html
+Pico00333|Silver|14'|Laptop|Laptop Dell Inspiron N3593-70197460 Core I7|Dell|21799000|https://pico.vn/40442/mtxt--dell-inspiron-3593-i71065g78gb512gbssddvdrw2gbmx230156-fhdw10hsilver1yr70197460.html
+Pico00334|Silver|14'|Laptop|Laptop Dell Inspiron N3593-70197458 Core i5|Dell|15499000|https://pico.vn/40441/mtxt--dell-inspiron-3593-i51035g14gb1tb156-fhddvdrwmx2302gbwin-10hsilver1yr70197458.html
+Pico00335|Black|14'|Laptop|Laptop Dell Vostro V3580I-P75F010 Core i5-8265U Black|Dell|14699000|https://pico.vn/40406/mtxt-dell-vostro-v3580ip75f010---i58265u-4gb1tb156-fhdvga-2gb-dvdrw-win10h1yr-black.html
+Pico00336|no color|14'|Laptop|Laptop Asus S531FA-BQ104T Core i5-8265U|Asus|18899000|https://pico.vn/40314/laptop-asus-s531fabq104t--i58265u8gb512gbssd156fhdbacw10sl2yrs.html
+Pico00337|Yellow|15'|Laptop|Laptop HP Pavilion 15-cs2035TU 6YZ08PA Core i5-8265U Vàng|HP|16299000|https://pico.vn/40309/mtxt--hp-pavilion-15cs2035tu--i58265u4gb256gbssd156fhdaluvangw10sl6yz08pa.html
+Pico00338|Black|14'|Laptop|Laptop Dell Vostro V3480-70187706  Core i3-8145U Black|Dell|11999000|https://pico.vn/40308/mtxt-dell-vostro-v348070187706-i38145u4gb1tb140hdwlbtwin10hblack1yr.html
+Pico00339|Grey|15'|Laptop|Laptop HP Pavilion 15-cs2032TU 6YZ04PA Core i3-8145U Xám|HP|12899000|https://pico.vn/40302/laptop-hp-pavilion-15cs2032tu--i38145u4gb1tb156fhdalupxamw10sl1y6yz04pa.html
+Pico00340|no color|14'|Laptop|Laptop Asus A512FA-EJ1170T Corer i3-8145U|Asus|12999000|https://pico.vn/40295/mtxt-asus-a512faej1170t--i38145u4gb512gbssd-uma156fhdwin10bacfp2yrs.html
+Pico00341|Silver|14'|Laptop|Laptop Asus A412FA-EK223T Core i3-8145U|Asus|12799000|https://pico.vn/40294/laptop-asus-a412faek223t--i38145u4gb512gbssd14-fhdwin10-64-bitsilver2-yrs.html
+Pico00342|Silver|14'|Laptop|Laptop Asus X509FJ-EJ155T Core i5-8265U Bạc|Asus|14999000|https://pico.vn/40154/laptop-asus-x509fjej155t-i58265u4gb512gbssd156fhdfpbacw10sl2gbmx2302ys.html
+Pico00343|Silver|14'|Laptop|Laptop Dell Inprison 3480 NT4X01 Core i3-8145U Bạc|Dell|11799000|https://pico.vn/40152/laptop-dell-inprison-14-3480--i38145u4gb1tb140hdbacw10slpresup1ypart-nt4x01.html
+Pico00344|no color|14'|Laptop|Laptop ASUS X409FA-EK201T Core i5-8265U|Asus|13999000|https://pico.vn/40147/laptop--asus-x409faek201t-i58265u4gb512gbssd140fhdfpbacw10sl2ys.html
+Pico00345|Silver|13.3'|Laptop|MacBook Air 2019 MVFL2LL/A Core i5-8210Y Silver|Apple Macbook|29990000|https://pico.vn/40129/macbook-air-2019-mvfl2lla-core-i58gb-256gb-ssd133-inch-with-true-tonesilvertouch-id-mojave.html
+Pico00346|no color|14'|Laptop|Laptop Dell Inspiron N3581A-P75F005 Core i3-7020U|Dell|11999000|https://pico.vn/40125/mtxt-dell-inspiron-n3581a--i37020u4gb1tb156-fhdwin10hpartp75f0051y.html
+Pico00347|Black|14'|Laptop|Laptop Dell Votro V3581-V5I3027W-B Core i3-7020U Black|Dell|12499000|https://pico.vn/40109/mtxt-dell-votro-v3581v5i3027wb--i37020u4gb1tb156-fhdwin10hblack1y.html
+Pico00348|Black|14'|Laptop|Laptop Dell Inspiron 3580 (70194513) Core i7-8565U Black|Dell|22199000|https://pico.vn/40100/mtxt-dell-inspiron-3580--i78565u8gb2tb156-fhddvdrwvga2gbwin10black1yr70194513.html
+Pico00349|Black|14'|Laptop|Laptop Dell Inspiron N3580I P75F006 Core i5-8265U Black|Dell|14499000|https://pico.vn/40099/laptop-dell-inspiron-n3580i--i58265u-4gb-1tbdvdrw-156-hd-1yrwin10blackp75f006.html
+Pico00350|no color|14'|Laptop|Laptop Asus X409FA-EK100T Core i5-8265U|Asus|13299000|https://pico.vn/40097/laptop--asus-x409faek100t-i58265u4gb1tb140fhdfpbacw10sl2ys.html
+Pico00351|Black|14'|Laptop|Laptop Dell Vostro V3480-70187647 Core i5-8265U|Dell|14499000|https://pico.vn/40096/laptop-dell-vostro-v348070187647--i58265u4gb1tb14hdfingerwlbtblackwin-10h1yr.html
+Pico00352|no color|14'|Laptop|Laptop Lenovo S540-81NE0052VN Core i3-8145U|Lenovo|14799000|https://pico.vn/40082/mtxt--lenovo-s54081ne0052vn-i38145u8gb128gbssd-1tb15-fhdwin-10-homevang-dong1yr.html
+Pico00353|Yellow|15'|Laptop|Laptop HP Pavilion 15-cs2031TU ( 6YZ03PA) Core i3-8145U Vàng|HP|13499000|https://pico.vn/40081/laptop--hp-pavilion-15cs2031tu--i38145u4gb1tb156fhdalupvangw10sl6yz03pa1y.html
+Pico00354|no color|14'|Laptop|Laptop Asus X409UA-EK093T Core i3-7020U|Asus|9799000|https://pico.vn/40071/mtxt-asus-x409uaek093t--i37020u4gb1tbuma14-fhdwin-10xamfp2ys.html
+Pico00355|no color|14'|Laptop|Laptop Asus X509FA-EJ203T Core i5-8265U|Asus|14499000|https://pico.vn/40070/mtxt-asus-x509f--i58265u4gb512gbssduma156-fhdwin-10bacfp2ywx509faej203t.html
+Pico00356|Grey|15'|Laptop|Laptop HP Pavilion 15-cs2057TX (6YZ20PA) Core i5-8265U Xám|HP|16999000|https://pico.vn/40064/mtxt--hp-pavilion-15cs2057tx---i58265u4gb1tb156fhdaluxamw10sl2gmx1306yz20pa.html
+Pico00357|Silver|13.3'|Laptop|MacBook Air 2019 MVFK2LL/A Core i5 Silver|Apple Macbook|25990000|https://pico.vn/40030/macbook-air-2019-mvfk2lla-core-i58gb-128gb-ssd133-inch-with-true-tonesilvertouch-id--mojave.html
+Pico00358|Grey|13.3'|Laptop|MacBook Air 2019 MVFH2LL/A Core i5 Gray|Apple Macbook|25990000|https://pico.vn/40029/macbook-air-2019-mvfh2lla-core-i58gb-128gb-ssd133-inch-with-true-tonegraytouch-idmojave.html
+Pico00359|no color|14'|Laptop|Laptop Lenovo L340-81LK007HVN Core i5-9300H|Lenovo|16799000|https://pico.vn/40023/mtxt--lenovo-l34081lk007hvn-i59300h8gb1tb156-fhdgtx10503gbdosden1yr.html
+Pico00360|no color|14'|Laptop|Laptop Dell Inspiron N5584-N5I5384W-S Core i5-8265U|Dell|17999000|https://pico.vn/39993/mtxt-dell-inspiron-n5584n5i5384ws-i58265u4gb1tb156fhdwin10vga2gb1yr.html
+Pico00361|no color|14'|Laptop|Laptop Dell Vostro V3480-2K47M1 Core i5-8265U|Dell|14299000|https://pico.vn/39981/laptop-dell-vostro-v34802k47m1-i58265u4gb1tb140hdfpdenw10sl2gbvgaprosu1y.html
+Pico00362|no color|14'|Laptop|Laptop Game MSI GF63 9RCX-646VN Corer i5-9300H |No brand|20899000|https://pico.vn/39980/msi-game-gf63-9rcx646vn---i59300h--8gb-512gbssd-gtx-10504gb--156-fhd-win102yrs.html
+Pico00363|no color|14'|Laptop|Laptop Game MSI GF63 9RCX-645VN Core i7-9750H|No brand|22999000|https://pico.vn/39979/msi-game-gf63-9rcx645vn--i79750h-8gb-512gbssd-gtx-10504gb--156-fhd-win102yrs.html
+Pico00364|Gold|14'|Laptop|Laptop HP Pavilion P14-ce2036TU (6YZ19PA ) Core i3-8145U Gold|HP|12399000|https://pico.vn/39977/mtxt-hp-pavilion-p14ce2036tu--i38145u4gb500gbwin1014-fhdpart-6yz19pa--gold1y.html
+Pico00365|Silver|14'|Laptop|Laptop HP Pavilion P14-ce2034TU ( 6YZ17PA) Core i3-8145U Silver|HP|12899000|https://pico.vn/39976/mtxt-hp-pavilion-p14ce2034tu--i38145u4gb1tb14-fhdwin10silver1yrpart-6yz17pa.html
+Pico00366|Yellow|14'|Laptop|Laptop HP Pavilion x360 14-cd1018TU (5HV88PA) Core i3-8145U Vàng|HP|13299000|https://pico.vn/39968/laptop-hp-pavilion-x360-14cd1018tu-i38145u4gb1tb140hd-touch-penvangw10sl5hv88pa.html
+Pico00367|no color|14'|Laptop|Laptop Dell Inspiron 3481-030CX1 Core i3-7020U|Dell|11399000|https://pico.vn/39960/laptop-dell-inspiron-3481030cx1--i37020u4gb1tb140hdbacw10slpresup1y.html
+Pico00368|Silver|14'|Laptop|Laptop Dell Inspiron N5584Y-P85F001 Core i7-8565U|Dell|24599000|https://pico.vn/39959/mtxt-dell-inspiron-n5584yp85f001-i78565u8gb128gbssd-1tb156-fhdwin-10vga-4gb1yrsilver.html
+Pico00369|no color|14'|Laptop|Laptop Dell Vostro V3580-T3RMD1 Core i5-8265U|Dell|14499000|https://pico.vn/39952/laptop-dell-vostro-v3580t3rmd1-i58265u4gb1tbdvdrw156fhdfpdenw10slprosup1y.html
+Pico00370|no color|14'|Laptop|Laptop Dell Inspiron N3581-N5I3150W-B Core I3-7020U|Dell|12499000|https://pico.vn/39951/mtxt-dell-inspiron-n3581--i37020u4gb1tbvga-2gb156-fhdpartn5i3150wb1y.html
+Pico00371|Silver|14'|Laptop|Laptop HP Pavilion 14-ce2039TU (6YZ15PA) Core i5-8265U Silver|HP|14499000|https://pico.vn/39948/mtxt-hp-pavilion-14ce2039tu--i58265u4gb1tb14-fhdwin10silver1yrpart-6yz15pa.html
+Pico00372|Grey|14'|Laptop|Laptop Lenovo IdeaPad S340-81N800EVVN Core i3-8145U Grey|Lenovo|12999000|https://pico.vn/39926/mtxt--lenovo-ideapad-s34081n800evvn--i38145u4gb256gb156-fhdwin-10-hplatinum-grey-1yr.html
+Pico00373|Grey|14'|Laptop|Laptop Asus X507UF-EJ078T Core i5-8250U Xám|Asus|13499000|https://pico.vn/39919/mtxt-asus-x507ufej078t--i58250u4gb1tb156fhdfpxamwin10sl2gbvga2yrs.html
+Pico00374|Yellow|14'|Laptop|Laptop Asus X407UA-BV438T Core i3-7020U Vàng|Asus|10699000|https://pico.vn/39918/mtxt--asus-x407uabv438t--i37020u4gb256gbssduma14hdwin-10vangfp2yrs.html
+Pico00375|Black|14'|Laptop|Laptop Asus ROG Strix G G531GD-AL034T Core i7-9750H Đen|Asus|24799000|https://pico.vn/39903/mtxt--asus-gg531gdal034t--i79750h8g512gb-ssdgf-gtx-1050-4gb156--fhdwin-10den2yw.html
+Pico00376|no color|14'|Laptop|Laptop Lenovo L340-15IRH (81LK007JVN) Core i7-9750H|Lenovo|19499000|https://pico.vn/39868/mtxt--lenovo-15irh-l34081lk007jvni79750h8gb1tb156-fhdgtx10503gbdosden1yr.html
+Pico00377|Yellow|14'|Laptop|Laptop Lenovo S540-81ND0053VN Core i3-8145U Vàng Đồng|Lenovo|14799000|https://pico.vn/39860/mtxt--lenovo-s54081nd0053vn-i38145u8gb512gbssd14-fhdwin-10-homevang-dong1yr.html
+Pico00378|Silver|14'|Laptop|Laptop Asus A412FA-EK224T Core i5-8265U|Asus|16099000|https://pico.vn/39853/laptop-asus-a412faek224t-i58265u8gb512gbssd14-fhdwin10silver2-yrs.html
+Pico00379|Black|14'|Laptop|Laptop Dell Inspiron 3580 70188451 Core i7-8565U Black|Dell|21699000|https://pico.vn/39845/mtxt-dell-inspiron-3580--i78565u8gb1tb156-fhddvdrwvga2gbwin10black1yr70188451.html
+Pico00380|Gold|13'|Laptop|Laptop HP Envy 13-AQ0026TU (6ZF38PA) Core i5-8265U Gold|HP|21299000|https://pico.vn/39813/mtxt-hp-envy-13aq0026tu---i58265u-8gb-256gbssd-133-fhd-win-10-gold-1y6zf38pa.html
+Pico00381|Silver|14'|Laptop|Laptop Dell Inspiron N3580-70186847 Core i5-8265U|Dell|14699000|https://pico.vn/39791/mtxt-dell-inspiron-3580--i58265u4gb1tb156-fhddvdrwvga2gbwin10silver1yr70186847.html
+Pico00382|no color|15'|Laptop|Laptop HP Pavilion 15-cs2000TU 6KX21PA Core i3-8145U|HP|12899000|https://pico.vn/39786/mtxt--hp-pavilion-15cs2000tu--i38145u4gb1tb156fhdalupxamw10sl6kx21pa.html
+Pico00383|Yellow|14'|Laptop|Laptop Asus X507UA-EJ1016T Intel Pentium 4417 Vàng|Asus|7799000|https://pico.vn/39785/mtxt-asus-x507uaej1016t--intel-44174gb1tb156fhdwin-10vangfp2yrs.html
+Pico00384|Grey|MobilePhone|Điện Thoại Samsung S20 128Gb Xám|Samsung|19490000|https://pico.vn/40925/dtdd-samsung-smg980fds-128gb-xams20.html
+Pico00385|Grey|MobilePhone|Điện Thoại Samsung S20+ 128GB (SM-G985F/DS) Xám|Samsung|21990000|https://pico.vn/40922/dtdd-samsung-smg985fds-128gb-xams20.html
+Pico00386|Blue|MobilePhone|Điện Thoại Samsung S20+ 128GB (SM-G985F/DS) Xanh|Samsung|21990000|https://pico.vn/40921/dtdd-samsung-smg985fds-128gb-xanhs20.html
+Pico00387|Black|MobilePhone|Điện Thoại Samsung S20+ 128GB (SM-G985F/DS) Đen|Samsung|21990000|https://pico.vn/40920/dtdd-samsung-smg985fds-128gb-dens20.html
+Pico00388|Grey|MobilePhone|IPhone 8 Plus 64Gb Space Grey |iPhone|13490000|https://pico.vn/40918/dien-thoai-di-dong-iphone-8-plus-64gb-space-grey-a1897mq8l2vna.html
+Pico00389|Silver|MobilePhone|Điện Thoại Samsung Galaxy A71 128GB Bạc|Samsung|9490000|https://pico.vn/40858/dien-thoai-di-dong-samsung-a715-128gb-bac--galaxy-a71.html
+Pico00390|Blue|MobilePhone|Điện Thoại Samsung Galaxy A71 128GB Xanh |Samsung|9490000|https://pico.vn/40782/dien-thoai-di-dong-samsung-a715-128gb-xanh--galaxy-a71.html
+Pico00391|Black|MobilePhone|Điện Thoại Samsung Galaxy A71 128GB Đen |Samsung|9490000|https://pico.vn/40781/dien-thoai-di-dong-samsung-a715-128gb-den--galaxy-a71.html
+Pico00392|Blue|MobilePhone|Điện Thoại Di Động Vivo U10 (4+64GB) Xanh Huỳnh Quang |Vivo|3690000|https://pico.vn/40779/dien-thoai-di-dong-vivo-1916u10-464gb-xanh-huynh-quang-mineral-blue.html
+Pico00393|Black|MobilePhone|Điện Thoại Di Động Vivo U10 (4+64GB) Đen Tia Chớp|Vivo|3690000|https://pico.vn/40778/dien-thoai-di-dong-vivo-1916u10-464gb-den-tia-chop-thunder-black.html
+Pico00394|Gold|MobilePhone|Điện Thoại Iphone 11 Pro Gold 256GB-VIE-MWC92VN/A + Kit Viettel|iPhone|31990000|https://pico.vn/40777/dien-thoai-di-dong-iphone-11-pro-gold-256gbviemwc92vna--kit-viettel.html
+Pico00395|Blue|MobilePhone|Điện Thoại Di Động Nokia 105 TA- 1174 DS VN Blue 2 Sim|Nokia|369000</|https://pico.vn/40752/dien-thoai-di-dong-nokia-105-ta1174-ds-vn-blue--2-sim.html
+Pico00396|Black|MobilePhone|Điện Thoại Di Động Nokia 105 TA-1174 DS VN Black 2 Sim|Nokia|369000</|https://pico.vn/40751/dien-thoai-di-dong-nokia-105-ta1174-ds-vn-black--2-sim.html
+Pico00397|Blue|MobilePhone|Điện Thoại Realme 5i (4GB/64GB) Xanh Lá Cây|Realme|3290000|https://pico.vn/40747/dien-thoai-di-dong-realme-rmx2032--realme-5i-464xanh-la-cay.html
+Pico00398|Blue|MobilePhone|Điện Thoại Realme 5i (4GB/64GB) Xanh Nước Biển|Realme|3290000|https://pico.vn/40746/dien-thoai-di-dong-realme-rmx2032--realme-5i-464xanh-nuoc-bien.html
+Pico00399|Grey|MobilePhone|Điện Thoại Iphone 11 Pro Space Gray 256GB-VIE-MWC72VN/A + Kit Viettel|iPhone|31990000|https://pico.vn/40708/dien-thoai-di-dong-iphone-11-pro-space-gray-256gbviemwc72vna--kit-viettel.html
+Pico00400|White|MobilePhone|Điện Thoại Vivo S1 Pro( 8+128GB) Trắng|Vivo|6590000|https://pico.vn/40660/dien-thoai-di-dong-vivo-1920s1-pro-8128gb-trang-thoi-thuong-fancy-sky.html
+Pico00401|Black|MobilePhone|Điện Thoại Vivo S1 Pro( 8+128GB) Đen|Vivo|6590000|https://pico.vn/40659/dien-thoai-di-dong-vivo-1920s1-pro-8128gb-den-phong-cach-knight-black.html
+Pico00402|Green|MobilePhone|Điện Thoại Iphone 11 Green 64GB-VIE-MWLY2VN/A + Kit Viettel|iPhone|19690000|https://pico.vn/40658/dien-thoai-di-dong-iphone-11-green-64gbviemwly2vna--kit-viettel.html
+Pico00403|Silver|MobilePhone|Iphone 11 Pro Silver 64 Gb|iPhone|27990000|https://pico.vn/40653/dien-thoai-di-dong-iphone-11-pro-silver-64gbviemwc32vna--kit-viettel.html
+Pico00404|White|MobilePhone|Samsung Galaxy A51 128GB Trắng|Samsung|7690000|https://pico.vn/40652/dien-thoai-di-dong-samsung-a515fdsn-128gbtrang--galaxy-a51.html
+Pico00405|Black|MobilePhone|Samsung Galaxy A51 128GB Đen|Samsung|7690000|https://pico.vn/40651/dien-thoai-di-dong-samsung-a515fdsn-128gb-den--galaxy-a51.html
+Pico00406|Blue|MobilePhone|Samsung Galaxy A51 128GB Xanh |Samsung|7690000|https://pico.vn/40629/dien-thoai-di-dong-samsung-a515fdsn-128gb-xanh--galaxy-a51.html
+Pico00407|Blue|MobilePhone|Điện Thoại Nokia 2.3 Xanh|Nokia|2390000|https://pico.vn/40623/dien-thoai-di-dong-nokia-23-ta1206-ds-232-vn-cyan-greenxanh719901093601.html
+Pico00408|Grey|MobilePhone|Điện Thoại Nokia 2.3 Xám|Nokia|2390000|https://pico.vn/40622/dien-thoai-di-dong-nokia-23-ta1206-ds-232-vn-charcoalden-xam719901093591.html
+Pico00409|Grey|MobilePhone|Iphone 11 Pro Max Space Gray 256Gb|iPhone|34990000|https://pico.vn/40575/dien-thoai-di-dong-iphone-11-pro-max-space-gray-256gbviemwhj2vna--kit-viettel.html
+Pico00410|Purple|MobilePhone|Điện Thoại Iphone 11 Purple 64GB-VIE-MWLX2VN/A + Kit Viettel|iPhone|19690000|https://pico.vn/40569/dien-thoai-di-dong-iphone-11-purple-64gbviemwlx2vna--kit-viettel.html
+Pico00411|Blue|MobilePhone|Điện Thoại Nokia 7.2 Màu Xanh|Nokia|4590000|https://pico.vn/40568/dien-thoai-di-dong-nokia-72-ta1196-ds-464-vn-greenmau-xanh.html
+Pico00412|White|MobilePhone|Điện Thoại Iphone 11 White 64GB-VIE-MWLU2VN/A + Kit Viettel|iPhone|19690000|https://pico.vn/40558/dien-thoai-di-dong-iphone-11-white-64gbviemwlu2vna--kit-viettel.html
+Pico00413|Red|MobilePhone|Điện Thoại Xiaomi Redmi Note 6 Pro 3GB/32GB Black|No brand|3190000|https://pico.vn/40535/dien-thoai-di-dong-xiaomi-redmi-note-6-pro-3gb32gb-black-eu.html
+Pico00414|Green|MobilePhone|Iphone 11 Pro Max Midnight Green 64GB|iPhone|30490000|https://pico.vn/40534/dien-thoai-di-dong-iphone-11-pro-max-midnight-green-64gbviemwhh2vna--kit-viettel.html
+Pico00415|Silver|MobilePhone|Iphone 11 Pro Max Silver 64GB|iPhone|30490000|https://pico.vn/40533/dien-thoai-di-dong-iphone-11-pro-max-silver-64gbviemwhf2vna--kit-viettel.html
+Pico00416|Green|MobilePhone|Điện Thoại Iphone 11 Pro Midnight Green 64GB-VIE-MWC62VN/A + Kit Viettel|iPhone|27990000|https://pico.vn/40530/dien-thoai-di-dong-iphone-11-pro-midnight-green-64gbviemwc62vna--kit-viettel.html
+Pico00417|Gold|MobilePhone|Điện Thoại Iphone 11 Pro Gold 64GB-VIE-MWC52VN/A + Kit Viettel|iPhone|27990000|https://pico.vn/40529/dien-thoai-di-dong-iphone-11-pro-gold-64gbviemwc52vna--kit-viettel.html
+Pico00418|Grey|MobilePhone|Điện Thoại Iphone 11 Pro Space Gray 64GB-VIE-MWC22VN/A + Kit Viettel|iPhone|27990000|https://pico.vn/40528/dien-thoai-di-dong-iphone-11-pro-space-gray-64gbviemwc22vna--kit-viettel.html
+Pico00419|Black|MobilePhone|Điện Thoại Vivo Y19 (6+128GB) Đen Phong Vân|Vivo|4690000|https://pico.vn/40493/dien-thoai-di-dong-vivo-1915y19-6128gb-den-phong-van-magnetic-black.html
+Pico00420|White|MobilePhone|Điện Thoại Vivo Y19 (6+128GB) Trắng Sương Mai |Vivo|4690000|https://pico.vn/40492/dien-thoai-di-dong-vivo-1915y19-6128gb-trang-suong-mai-spring-white.html
+Pico00421|Black|MobilePhone|Điện Thoại Di Động Nokia 110 TA-1192 DS VN Black|Nokia|469000</|https://pico.vn/40488/dien-thoai-di-dong-nokia-110-ta1192-ds-vn-black.html
+Pico00422|Black|MobilePhone|Điện Thoại Realme C2 2/32GB Đen|Realme|2099000|https://pico.vn/40471/dien-thoai-di-dong-realme-rmx1941-232gb--realme-c2-den.html
+Pico00423|Blue|MobilePhone|Điện Thoại Realme C2 2/32GB Xanh|Realme|2099000|https://pico.vn/40470/dien-thoai-di-dong-realme-rmx1941-232gb--realme-c2-xanh.html
+Pico00424|Black|MobilePhone|Điện Thoại Oppo A5 2020 128G Đen|Oppo|4490000|https://pico.vn/40463/dien-thoai-di-dong-oppo-cph1933---a5-2020-128g-den.html
+Pico00425|Black|MobilePhone|Điện Thoại Vivo Y93 (3+32GB) Đen Ánh Sao + Kit Viettel|Vivo|2790000|https://pico.vn/40458/dien-thoai-di-dong-vivo-1811y93-332gb-den-anh-sao-starry-black--kit-viettel.html
+Pico00426|Blue|MobilePhone|Điện Thoại Vivo Y93 (3+32GB) Xanh Đại Dương + Kit Viettel|Vivo|2790000|https://pico.vn/40457/dien-thoai-di-dong-vivo-1811y93-332gb-xanh-dai-duong-ocean-blue--kit-viettel.html
+Pico00427|Blue|MobilePhone|Điện Thoại Oppo Reno 2F Xanh|Oppo|6990000|https://pico.vn/40454/dien-thoai-di-dong-oppo-cph1989--reno-2f-xanh.html
+Pico00428|White|MobilePhone|Điện Thoại Oppo Reno 2F Trắng|Oppo|6990000|https://pico.vn/40453/dien-thoai-di-dong-oppo-cph1989--reno-2f-trang.html
+Pico00429|Green|MobilePhone|Điện Thoại Iphone 11 Pro Midnight Green 256GB-VIE-MWCC2VN/A + Kit Viettel|iPhone|31990000|https://pico.vn/40440/dien-thoai-di-dong-iphone-11-pro-midnight-green-256gbviemwcc2vna--kit-viettel.html
+Pico00430|Blue|MobilePhone|Điện Thoại Vivo Y11 (3+32GB) Xanh Ngọc Bích|Vivo|2990000|https://pico.vn/40439/dien-thoai-di-dong-vivo-1906-y11-332gb-xanh-ngoc-bich.html
+Pico00431|Red|MobilePhone|Điện Thoại Vivo Y11 (3+32GB) Đỏ San Hô|Vivo|2990000|https://pico.vn/40438/dien-thoai-di-dong-vivo-1906-y11-332gb-do-san-ho.html
+Pico00432|White|MobilePhone|Điện Thoại Iphone 11 White 128GB-VIE-MWM22VN/A + Kit Viettel|iPhone|21990000|https://pico.vn/40437/dien-thoai-di-dong-iphone-11-white-128gbviemwm22vna--kit-viettel.html
+Pico00433|Black|MobilePhone|Điện Thoại Iphone 11 Black 128GB-VIE-MWM02VN/A + Kit Viettel|iPhone|21990000|https://pico.vn/40436/dien-thoai-di-dong-iphone-11-black-128gbviemwm02vna--kit-viettel.html
+Pico00434|Black|MobilePhone|Điện Thoại Iphone 11 Black 64GB-VIE-MWLT2VN/A + Kit Viettel|iPhone|19690000|https://pico.vn/40435/dien-thoai-di-dong-iphone-11-black-64gbviemwlt2vna--kit-viettel.html
+Pico00435|Green|MobilePhone|Iphone 11 Pro Max Midnight Green 256GB|iPhone|34990000|https://pico.vn/40434/dien-thoai-di-dong-iphone-11-pro-max-midnight-green-256gbviemwhm2vna--kit-viettel.html
+Pico00436|Gold|MobilePhone|Iphone 11 Pro Max Gold 256GB|iPhone|34990000|https://pico.vn/40433/dien-thoai-di-dong-iphone-11-pro-max-gold-256gbviemwhl2vna--kit-viettel.html
+Pico00437|Silver|MobilePhone|Iphone 11 Pro Max Silver 256GB|iPhone|34990000|https://pico.vn/40432/dien-thoai-di-dong-iphone-11-pro-max-silver-256gbviemwhk2vna--kit-viettel.html
+Pico00438|Gold|MobilePhone|Iphone 11 Pro Max Gold 64GB|iPhone|30490000|https://pico.vn/40431/dien-thoai-di-dong-iphone-11-pro-max-gold-64gbviemwhg2vna--kit-viettel.html
+Pico00439|Grey|MobilePhone|Iphone 11 Pro Max Space Gray 64Gb|iPhone|30490000|https://pico.vn/40430/dien-thoai-di-dong-iphone-11-pro-max-space-gray-64gbviemwhd2vna--kit-viettel.html
+Pico00440|Blue|MobilePhone|Điện Thoại Samsung Galaxy A20S 32GB Xanh |Samsung|3790000|https://pico.vn/40426/dien-thoai-di-dong-samsung-a207-32gb-xanh--galaxy-a20s.html
+Pico00441|Red|MobilePhone|Điện Thoại Samsung Galaxy A20S 32GB Đỏ|Samsung|3790000|https://pico.vn/40398/dien-thoai-di-dong-samsung-a207-32gb-do--galaxy-a20s.html
+Pico00442|Black|MobilePhone|Điện Thoại Samsung Galaxy A20S 32GB Đen|Samsung|3790000|https://pico.vn/40397/dien-thoai-di-dong-samsung-a207-32gb-den--galaxy-a20s.html
+Pico00443|Blue|MobilePhone|Điện Thoại Di Động Nokia 110 TA-1192 DS VN Blue|Nokia|469000</|https://pico.vn/40396/dien-thoai-di-dong-nokia-110-ta1192-ds-vn-blue.html
+Pico00444|Black|MobilePhone|Điện Thoại Nokia 800 TA-1189 |Nokia|2490000|https://pico.vn/40390/dien-thoai-di-dong-nokia-800-ta1189-ds-vn-black.html
+Pico00445|Purple|MobilePhone|Điện Thoại Realme 5 (3/64GB) Pha lê Tím|Realme|3130000|https://pico.vn/40386/dien-thoai-di-dong-realme-rmx1919-364gb--realme-5-pha-le-tim.html
+Pico00446|White|MobilePhone|Điện Thoại Oppo A5 2020 128G Trắng|Oppo|4490000|https://pico.vn/40385/dien-thoai-di-dong-oppo-cph1933---a5-2020-128g-trang.html
+Pico00447|Blue|MobilePhone|Điện Thoại Realme 5 Pro (4/128GB ) Xanh đại dương|Realme|4990000|https://pico.vn/40372/dien-thoai-di-dong-realme-rmx1971-4128gb--realme-5-pro-xanh-dai-duong.html
+Pico00448|Blue|MobilePhone|Điện Thoại Realme 5 (3/64GB) Pha lê Xanh|Realme|3130000|https://pico.vn/40371/dien-thoai-di-dong-realme-rmx1919-364gb--realme-5-pha-le-xanh.html
+Pico00449|Pink|MobilePhone|Điện Thoại Di Động Nokia 105 TA-1203 SS VN Pink 1 Sim|Nokia|349000</|https://pico.vn/40366/dien-thoai-di-dong-nokia-105-ta1203-ss-vn-pink1-sim.html
+Pico00450|Black|MobilePhone|Điện Thoại Nokia 7.2 Màu Đen|Nokia|4590000|https://pico.vn/40323/dien-thoai-di-dong-nokia-72-ta1196-ds-464-vn-charcoalmau-den.html
+Pico00451|Purple|MobilePhone|Điện Thoại Oppo A9 2020 Tím|Oppo|5690000|https://pico.vn/40322/dien-thoai-di-dong-oppo-cph1937---a9-2020-tim.html
+Pico00452|Blue|MobilePhone|Điện Thoại Oppo A9 2020 Xanh|Oppo|5690000|https://pico.vn/40321/dien-thoai-di-dong-oppo-cph1937---a9-2020-xanh.html
+Pico00453|White|MobilePhone|Điện Thoại Samsung Galaxy A30S 64GB Trắng |Samsung|4990000|https://pico.vn/40275/dien-thoai-di-dong-samsung-a307-64gb-trang--galaxy-a30s.html
+Pico00454|Black|MobilePhone|Điện Thoại Nokia 2720 4G Đen|Nokia|1990000|https://pico.vn/40233/dien-thoai-di-dong-nokia-2720-4g-ta1170-ds-mau-den.html
+Pico00455|Blue|MobilePhone|Điện Thoại Samsung Galaxy A30S 64GB Xanh|Samsung|4990000|https://pico.vn/40232/dien-thoai-di-dong-samsung-a307-64gb-xanh--galaxy-a30s.html
+Pico00456|Black|MobilePhone|Điện Thoại Samsung Galaxy A30S 64GB Đen|Samsung|4990000|https://pico.vn/40231/dien-thoai-di-dong-samsung-a307-64gb-den--galaxy-a30s.html
+Pico00457|Blue|MobilePhone|Điện Thoại Vivo Y12 (3+32GB) Xanh Biển|Vivo|2999000|https://pico.vn/40229/dien-thoai-di-dong-vivo-1904y12-332gb-xanh-bien-aqua-blue-kit-viettel.html
+Pico00458|Red|MobilePhone|Điện Thoại Samsung Galaxy A10S Đỏ|Samsung|3290000|https://pico.vn/40004/dien-thoai-di-dong-samsung-a107-do--galaxy-a10s.html
+Pico00459|Blue|MobilePhone|Điện Thoại Samsung Galaxy A10S Xanh|Samsung|3290000|https://pico.vn/40003/dien-thoai-di-dong-samsung-a107-xanh--galaxy-a10s.html
+Pico00460|Black|MobilePhone|Điện Thoại Samsung Galaxy A10S Đen|Samsung|3290000|https://pico.vn/40002/dien-thoai-di-dong-samsung-a107-den--galaxy-a10s.html
+Pico00461|White|MobilePhone|Samsung Galaxy Note 10 + Trắng 256GB|Samsung|22990000|https://pico.vn/39971/dien-thoai-di-dong-samsung-n975-trang--galaxy-note-10---256gb.html
+Pico00462|Silver|MobilePhone|Samsung Galaxy Note 10 + Bạc 256GB|Samsung|22990000|https://pico.vn/39970/dien-thoai-di-dong-samsung-n975-bac--galaxy-note-10---256gb.html
+Pico00463|Black|MobilePhone|Samsung Galaxy Note 10 + Đen 256GB|Samsung|22990000|https://pico.vn/39969/dien-thoai-di-dong-samsung-n975-den--galaxy-note-10---256gb.html
+Pico00464|Silver|MobilePhone|Samsung Galaxy Note 10 256GB Bạc|Samsung|19990000|https://pico.vn/39958/dien-thoai-di-dong-samsung-n970-bac--galaxy-note-10--256gb.html
+Pico00465|Black|MobilePhone|Samsung Galaxy Note 10 256GB Đen|Samsung|19990000|https://pico.vn/39957/dien-thoai-di-dong-samsung-n970-den--galaxy-note-10--256gb.html
+Pico00466|Pink|MobilePhone|Samsung Galaxy Note 10 256GB Hồng|Samsung|19990000|https://pico.vn/39956/dien-thoai-di-dong-samsung-n970--hong--galaxy-note-10--256gb.html
+Pico00467|Blue|MobilePhone|Điện Thoại Di Động Vivo S1 Xanh Ngọc Trai |Vivo|5390000|https://pico.vn/39946/dien-thoai-di-dong-vivo-1907s1-6128gb-xanh-ngoc-trai-skyline-blue.html
+Pico00468|Gold|MobilePhone| iPhone 7 Plus 32GB Gold |iPhone|12990000|https://pico.vn/39911/dien-thoai-di-dong-apple-iphone-7-plus-32gb-gold-a1784mnqp2.html
+Pico00469|Blue|MobilePhone|Điện Thoại Vivo V15 128GB Xanh Ngọc Lam |Vivo|5490000|https://pico.vn/39863/dien-thoai-di-dong-vivo-1819v15--128gb-xanh-ngoc-lam-topaz-blue.html
+Pico00470|Red|MobilePhone|Điện Thoại Vivo Y91C Đỏ Hoàng Hôn|Vivo|2250000|https://pico.vn/39862/dien-thoai-di-dong-vivo-1820y91c-do-hoang-hon-sunset-red.html
+Pico00471|Black|MobilePhone|Điện Thoại Vivo Y91C Đen Huyền Bí|Vivo|2250000|https://pico.vn/39861/dien-thoai-di-dong-vivo-1820y91c-den-huyen-bi-fusion-black.html
+Pico00472|no color|MobilePhone|Điện Thoại Nokia 2.2|Nokia|1890000|https://pico.vn/39852/dien-thoai-di-dong-nokia-22-ta1188-ds-216-vn-steelhq5020df57000.html
+Pico00473|Black|MobilePhone|Điện Thoại Nokia 2.2 Đen|Nokia|1890000|https://pico.vn/39851/dien-thoai-di-dong-nokia-22-ta1188-ds-216-vn-blackhq5020df56000.html
+Pico00474|Black|MobilePhone|Điện Thoại Vivo Y93 (3+32GB) Đen Ánh Sao|Vivo|2790000|https://pico.vn/39847/dien-thoai-di-dong-vivo-1811y93-332gb-den-anh-sao-starry-black.html
+Pico00475|Blue|MobilePhone|Điện Thoại Vivo Y93 (3+32GB) Xanh Đại Dương|Vivo|2790000|https://pico.vn/39846/dien-thoai-di-dong-vivo-1811y93-332gb-xanh-dai-duong-ocean-blue.html
+Pico00476|Black|MobilePhone|Điện Thoại Samsung Galaxy A80 128GB Đen |Samsung|10990000|https://pico.vn/39822/dien-thoai-di-dong-samsung-a805-128gb-den--galaxy-a80.html
+Pico00477|Red|MobilePhone|Điện Thoại Xiaomi Redmi Note 6 Pro 4GB/64GB Blue |No brand|4500000|https://pico.vn/39706/dien-thoai-di-dong-xiaomi-redmi-note-6-pro-4gb64gb-blue-eu.html
+Pico00478|Red|MobilePhone|Điện Thoại Di Động Oppo A1K Đỏ|Oppo|2490000|https://pico.vn/39636/dien-thoai-di-dong-oppo-cph1923--a1k-mau-do.html
+Pico00479|Black|MobilePhone|Điện Thoại Di Động Oppo A1K Đen|Oppo|2490000|https://pico.vn/39635/dien-thoai-di-dong-oppo-cph1923--a1k-mau-den.html
+Pico00480|Black|MobilePhone|Điện Thoại Nokia 3.2 TA 3/32GB Black|Nokia|2890000|https://pico.vn/39550/dien-thoai-di-dong-nokia-32-ta1164-ds-332gb-vn-black.html
+Pico00481|Black|MobilePhone|Điện Thoại Nokia 3.2 TA 2/16GB Black|Nokia|2190000|https://pico.vn/39549/dien-thoai-di-dong-nokia-32-ta1156-ds-216gb-vn-black.html
+Pico00482|Red|MobilePhone|Điện Thoại Xiaomi Redmi Note 7 3GB/32GB Xanh|No brand|3690000|https://pico.vn/39538/dien-thoai-di-dong-redmi-note-7-3gb32gb-xanh.html
+Pico00483|Red|MobilePhone|Điện Thoại Xiaomi Redmi Note 7 4GB/64GB Xanh|No brand|4590000|https://pico.vn/39537/dien-thoai-di-dong-redmi-note-7-4gb64gb-xanh.html
+Pico00484|Red|MobilePhone|Điện Thoại Xiaomi Redmi Note 7 3GB/32GB Đen|No brand|3690000|https://pico.vn/39531/dien-thoai-di-dong-redmi-note-7-3gb32gb-den.html
+Pico00485|Red|MobilePhone|Điện Thoại Xiaomi Redmi Note 7 4GB/64GB Đen|No brand|4590000|https://pico.vn/39530/dien-thoai-di-dong-redmi-note-7-4gb64gb-den.html
+Pico00486|Red|MobilePhone|Điện Thoại Oppo A5s Đỏ (3G/32Gb )|Oppo|3290000|https://pico.vn/39526/dien-thoai-di-dong-oppo-cph1912-3g32gb--a5s-do.html
+Pico00487|White|MobilePhone|Điện Thoại Samsung Galaxy A70 128GB Trắng|Samsung|7990000|https://pico.vn/39458/dien-thoai-di-dong-samsung-a705-128gb-trang--galaxy-a70.html
+Pico00488|Blue|MobilePhone|Điện Thoại Samsung Galaxy A70 128GB Xanh|Samsung|7990000|https://pico.vn/39457/dien-thoai-di-dong-samsung-a705-128gb-xanh--galaxy-a70.html
+Pico00489|Black|MobilePhone|Điện Thoại Samsung Galaxy A70 128GB Đen|Samsung|7990000|https://pico.vn/39456/dien-thoai-di-dong-samsung-a705-128gb-den--galaxy-a70.html
+Pico00490|Purple|MobilePhone|Điện Thoại Oppo F11 Tím|Oppo|4990000|https://pico.vn/39354/dien-thoai-di-dong-oppo-cph1911--f11-tim.html
+Pico00491|Silver|MobilePhone|Điện Thoại Di Động Nokia 2.1 Blue Silver|Nokia|1690000|https://pico.vn/39347/dien-thoai-di-dong-nokia-21-ta1080-ds-vn-bluesilver11e2mx21a06.html
+Pico00492|Red|MobilePhone|Điện Thoại Nokia 210 TA-1139 Đỏ|Nokia|780000</|https://pico.vn/39344/dien-thoai-di-dong-nokia-210-ta1139-ds-vn-mau-do.html
+Pico00493|Grey|MobilePhone|Điện Thoại Nokia 210 TA-1139 Xám|Nokia|780000</|https://pico.vn/39340/dien-thoai-di-dong-nokia-210-ta1139-ds-vn-mau-xam.html
+Pico00494|Black|MobilePhone|Điện Thoại Nokia 210 TA-1139 Đen|Nokia|780000</|https://pico.vn/39339/dien-thoai-di-dong-nokia-210-ta1139-ds-vn-mau-den.html
+Pico00495|White|MobilePhone|Samsung Galaxy S10 Trắng 128 Gb|Samsung|17990000|https://pico.vn/39279/dien-thoai-di-dong-samsung-g973-128gb-trang--galaxy-s10.html
+Pico00496|Black|MobilePhone|Samsung Galaxy S10 Đen 128 Gb|Samsung|17990000|https://pico.vn/39278/dien-thoai-di-dong-samsung-g973-128gb-den--galaxy-s10.html
+Pico00497|Blue|MobilePhone|Samsung Galaxy S10 Xanh 128 Gb|Samsung|17990000|https://pico.vn/39256/dien-thoai-di-dong-samsung-g973-128gb-xanh--galaxy-s10.html
+Pico00498|Black|MobilePhone|Samsung Galaxy S10 Plus Đen|Samsung|17990000|https://pico.vn/39255/dien-thoai-di-dong-samsung-g975-128gb-den--galaxy-s10-plus.html
+Pico00499|Blue|MobilePhone|Samsung Galaxy S10 Plus Xanh|Samsung|17990000|https://pico.vn/39251/dien-thoai-di-dong-samsung-g975-128gb-xanh--galaxy-s10-plus.html
+Pico00500|White|MobilePhone|Samsung Galaxy S10 Plus Trắng|Samsung|17990000|https://pico.vn/39250/dien-thoai-di-dong-samsung-g975-128gb-trang--galaxy-s10-plus.html
+Pico00501|Black|MobilePhone|Samsung Galaxy M20 Charcoal Black|Samsung|3590000|https://pico.vn/39184/dien-thoai-di-dong-samsung-m205g-xam--galaxy-m20-charcoal-black.html
+Pico00502|Grey|MobilePhone| IPhone X 64GB Space Gray |iPhone|20990000|https://pico.vn/39058/dien-thoai-di-dong-iphone-x-64gb-space-gray-a1901mqac2vna.html
+Pico00503|Silver|MobilePhone|IPhone X 64GB Silver MQAD2VN/A|iPhone|20990000|https://pico.vn/39055/dien-thoai-di-dong-iphone-x-64gb-silver-a1901mqad2vna.html

@@ -266,7 +266,7 @@ public class ProductManagerment implements I_ProductManager, I_FindProduct, I_Ed
     }
 
     @Override
-    public boolean editSize(String id, double newSize, ProductType productType) {
+    public boolean editSize(String id, String newSize, ProductType productType) {
         int index = findProductIndexByID(id);
         if(index < 0)
             return false;
@@ -279,7 +279,9 @@ public class ProductManagerment implements I_ProductManager, I_FindProduct, I_Ed
         }
         return true;
     }
-
+    public int getSize(){
+        return myProduct.size();
+    }
     public ProductManagerment() {
     }
 }

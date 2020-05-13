@@ -2,7 +2,6 @@ package Product;
 
 public class MobilePhone extends Product {
     private String color;
-    private String type;
 
     public MobilePhone(){
 

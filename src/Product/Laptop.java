@@ -2,12 +2,12 @@ package Product;
 
 public class Laptop extends Product {
     private String color;
-    private double size;
+    private String size;
 
     public Laptop(){
 
     }
-    Laptop(String id, String name,String brand, int price,String link, String color, double size){
+    Laptop(String id, String name,String brand, int price,String link, String color, String size){
         super(id, name, brand, price, link);
         this.color = color;
         this.size = size;
@@ -21,11 +21,11 @@ public class Laptop extends Product {
         this.color = color;
     }
 
-    public double getSize() {
+    public String getSize() {
         return size;
     }
 
-    public void setSize(double size) {
+    public void setSize(String size) {
         this.size = size;
     }
     @Override
