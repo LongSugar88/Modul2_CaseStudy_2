@@ -10,7 +10,14 @@ import java.util.Scanner;
 
 public class ProductManagerment implements I_ProductManager, I_FindProduct, I_EditProduct, I_EditType, I_EditColor, I_EditSize {
     private ArrayList<Product> myProduct = new ArrayList<>();;
-    final int MYLIST_SIZE = myProduct.size();
+
+    public void setMyProduct(ArrayList<Product> myProduct) {
+        this.myProduct = myProduct;
+    }
+
+    public ArrayList<Product> getMyProduct() {
+        return myProduct;
+    }
 
     @Override
     public void add(Product element) {
@@ -137,11 +144,13 @@ public class ProductManagerment implements I_ProductManager, I_FindProduct, I_Ed
 
     @Override
     public boolean findByName(String name) {
+        name = name.toUpperCase();
         boolean isContains = false;
-        if(MYLIST_SIZE == 0) throw new ArrayIndexOutOfBoundsException("The list is empty");
-        for(int i=0; i<MYLIST_SIZE; i++ ){
-            if(myProduct.get(i).getName().contains(name)){
-                System.out.println("Index's product: "+ i+ " "+ myProduct.get(i).toString());
+        if(getSize() == 0) throw new ArrayIndexOutOfBoundsException("The list is empty");
+        for(int i=0; i<myProduct.size(); i++ ){
+            String productName = myProduct.get(i).getName().toUpperCase();
+            if(productName.contains(name)){
+                System.out.println("Index's product: "+ i+ " "+ myProduct.get(i).getName());
                 isContains = true;
             }
         }
@@ -150,10 +159,12 @@ public class ProductManagerment implements I_ProductManager, I_FindProduct, I_Ed
 
     @Override
     public boolean findByID(String id) {
+        id = id.toUpperCase();
         boolean isContains = false;
-        if(MYLIST_SIZE == 0) throw new ArrayIndexOutOfBoundsException("The list is empty");
-        for(int i=0; i<MYLIST_SIZE; i++ ){
-            if(myProduct.get(i).getId().contains(id)){
+        if(myProduct.size() == 0) throw new ArrayIndexOutOfBoundsException("The list is empty");
+        for(int i=0; i<myProduct.size(); i++ ){
+            String productID = myProduct.get(i).getId().toUpperCase();
+            if(productID.contains(id)){
                 System.out.println("Index's product: "+ i+ " "+ myProduct.get(i).toString());
                 isContains = true;
             }
@@ -161,10 +172,12 @@ public class ProductManagerment implements I_ProductManager, I_FindProduct, I_Ed
         return isContains;
     }
     public boolean findByBrand(String brand){
+        brand = brand.toUpperCase();
         boolean isContains = false;
-        if(MYLIST_SIZE == 0) throw new ArrayIndexOutOfBoundsException("The list is empty");
-        for(int i=0; i<MYLIST_SIZE; i++ ){
-            if(myProduct.get(i).getBrand().contains(brand)){
+        if(myProduct.size() == 0) throw new ArrayIndexOutOfBoundsException("The list is empty");
+        for(int i=0; i<myProduct.size(); i++ ){
+            String productBrand = myProduct.get(i).getBrand().toUpperCase();
+            if(productBrand.contains(brand)){
                 System.out.println("Index's product: "+ i+ " "+ myProduct.get(i).toString());
                 isContains  = true;
             }
@@ -173,8 +186,8 @@ public class ProductManagerment implements I_ProductManager, I_FindProduct, I_Ed
     }
     @Override
     public void findByExactlyPrice(int price) {
-        if(MYLIST_SIZE == 0) throw new ArrayIndexOutOfBoundsException("The list is empty");
-        for(int i=0; i<MYLIST_SIZE; i++ ){
+        if(myProduct.size() == 0) throw new ArrayIndexOutOfBoundsException("The list is empty");
+        for(int i=0; i<myProduct.size(); i++ ){
             if(myProduct.get(i).getPrice() == price){
                 System.out.println("Index's product: "+ i+ " "+ myProduct.get(i).toString());
             }
@@ -184,8 +197,8 @@ public class ProductManagerment implements I_ProductManager, I_FindProduct, I_Ed
     @Override
     public boolean findByPrice(int lowestPrice, int highestPrice) {
         boolean isContains = false;
-        if(MYLIST_SIZE == 0) throw new ArrayIndexOutOfBoundsException("The list is empty");
-        for(int i=0; i<MYLIST_SIZE; i++ ){
+        if(myProduct.size() == 0) throw new ArrayIndexOutOfBoundsException("The list is empty");
+        for(int i=0; i<myProduct.size(); i++ ){
             if(myProduct.get(i).getPrice() >= lowestPrice && myProduct.get(i).getPrice() <= highestPrice){
                 System.out.println("Index's product: "+ i+ " "+ myProduct.get(i).toString());
                 isContains = true;
@@ -194,7 +207,7 @@ public class ProductManagerment implements I_ProductManager, I_FindProduct, I_Ed
         return isContains;
     }
     private int findProductIndexByID(String id){
-        for(int i=0; i<MYLIST_SIZE; i++ ){
+        for(int i=0; i<myProduct.size(); i++ ){
             if(myProduct.get(i).getId().equalsIgnoreCase(id)){
                 return i;
             }

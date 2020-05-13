@@ -39,6 +39,8 @@ public class TakeProductInformation extends Thread {
         }
         price = price.replaceAll("\\.", "");
         price = price.replaceAll("₫", "");
+        price = price.replaceAll("<", "");
+        price = price.replaceAll("/", "");
         return price;
     }
     public static String filterColor(String name, String link){
@@ -155,32 +157,32 @@ public class TakeProductInformation extends Thread {
         brand = brand.toUpperCase();
         name = name.toUpperCase();
         if( brand.contains("APPLE")){
-            result = "|" + "13.3'";
+            result = "," + "13.3'";
         }
         else if(name.contains("ENVY")){
-            result = "|" + "13'";
+            result = "," + "13'";
         }
         else if(name.contains(" 15-")){
-            result = "|" + "15'";
+            result = "," + "15'";
         }
         else
-            result = "|" + "14'";
+            result = "," + "14'";
         return result;
     }
     public static String filterType(String price, String name){
         String result = null;
         name = name.toUpperCase();
         if( name.contains("ĐỨNG")){
-            result = "|" + "upper door";
+            result = "," + "upper door";
         }
         else if(name.contains("NGANG")){
-            result = "|" + "front door";
+            result = "," + "front door";
         }
         else if( Integer.parseInt(price) >= 7000000){
-            result = "|" + "front door";
+            result = "," + "front door";
         }
         else {
-            result = "|" + "upper door";
+            result = "," + "upper door";
         }
         return result;
     }
@@ -199,7 +201,7 @@ public class TakeProductInformation extends Thread {
     public static String toStringProductInformation(String beginCode, String productType, String name, String brand, String price, String link, boolean color,boolean type, boolean size){
         String result = beginCode + count ;
         if(color){
-            result += "|" + filterColor(name, link);
+            result += "," + filterColor(name, link);
         }
         if(type){
             result +=  filterType(price, name);
@@ -207,7 +209,7 @@ public class TakeProductInformation extends Thread {
         if(size){
             result +=  filterSize(brand, name);
         }
-        result += "|" + productType + "|"+ name +"|"+ brand + "|" + price + "|" + link;
+        result += "," + productType + ","+ name +","+ brand + "," + price + "," + link;
         return result;
     }
     //Mediamart
@@ -259,7 +261,7 @@ public class TakeProductInformation extends Thread {
             String productInformation;
             while (linkProduct.find() && nameProduct.find() && priceProduct.find()){
                 count++;
-                String name = nameProduct.group(1);
+                String name = (nameProduct.group(1)).replaceAll(",", "");
                 String price = splitPrice(priceProduct.group(4));
                 String link = linkProduct.group(1);
                 String brand = filterBrand(name);
