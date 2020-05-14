@@ -37,9 +37,10 @@ public class FindByBrand extends Manager implements I_Command {
         brand = brand.toUpperCase();
         if(this.manager.getSize() == 0) throw new ArrayIndexOutOfBoundsException("The list is empty");
         for(int i=0; i< this.manager.getSize(); i++ ){
-            String productName = this.manager.get(i).getBrand().toUpperCase();
+            product = this.manager.get(i);
+            String productName = product.getName().toUpperCase();
             if(productName.contains(brand)){
-                System.out.println("Index's product: "+ i+ " "+ this.manager.get(i).getBrand());
+                System.out.println(product.toString());
             }
         }
     }

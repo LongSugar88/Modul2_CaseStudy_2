@@ -1,7 +1,7 @@
 package PoductManagerment;
 
 public interface I_EditProduct {
-    boolean editName(String id, String newName);
-    boolean editID(String id, String newID);
-    boolean editPrice(String id,  int newPrice);
+    void editName(String newName, String id);
+    void editID(String newID, String id);
+    void editPrice(int newPrice, String id);
 }

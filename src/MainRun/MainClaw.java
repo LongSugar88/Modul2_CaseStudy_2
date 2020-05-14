@@ -1,6 +1,9 @@
-package SourceProductInformation;
+package MainRun;
 
-public class ClawRun {
+import SourceProductInformation.ClawMediamartProduct;
+import SourceProductInformation.ClawPicoProduct;
+
+public class MainClaw {
     public static void main(String[] args) throws InterruptedException {
 
         String [] washingMachinePico = {
@@ -10,7 +13,7 @@ public class ClawRun {
         String [] mobilePhonePico = {
                 "https://pico.vn/dien-thoai-di-dong-nhom-75.html", "https://pico.vn/dien-thoai-di-dong-nhom-75.html?&pageIndex=2",
                 "https://pico.vn/dien-thoai-di-dong-nhom-75.html?&pageIndex=3", "https://pico.vn/dien-thoai-di-dong-nhom-75.html?&pageIndex=4"
-        };
+    };
         String [] laptopPico = {
                 "https://pico.vn/may-tinh-xach-tay-nhom-58.html", "https://pico.vn/may-tinh-xach-tay-nhom-58.html?&pageIndex=2",
                 "https://pico.vn/may-tinh-xach-tay-nhom-58.html?&pageIndex=3"
@@ -24,7 +27,7 @@ public class ClawRun {
                 "https://mediamart.vn/smartphones/", "https://mediamart.vn/smartphones/?trang=2",
                 "https://mediamart.vn/smartphones/?trang=3", "https://mediamart.vn/smartphones/?trang=4",
                 "https://mediamart.vn/smartphones/?trang=5", "https://mediamart.vn/smartphones/?trang=6",
-                "https://mediamart.vn/smartphones/?trang=7", "https://mediamart.vn/smartphones/?trang=8",
+                "https://mediamart.vn/smartphones/?trang=8",
                 "https://mediamart.vn/smartphones/?trang=9", "https://mediamart.vn/smartphones/?trang=10",
                 "https://mediamart.vn/smartphones/?trang=11", "https://mediamart.vn/smartphones/?trang=12"
         };

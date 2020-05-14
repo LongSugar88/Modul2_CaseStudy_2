@@ -25,7 +25,9 @@ public class WashingMachine extends Product {
 
     @Override
     public String toString() {
-        return null;
+        String productInformation = "ID: " + getId() + " Name: " +getName() +" Brand: " + getBrand() + " Price: " +
+                getPrice() +" Link: "+ getLink() +" Type: " +getType();
+        return productInformation;
     }
 
 }

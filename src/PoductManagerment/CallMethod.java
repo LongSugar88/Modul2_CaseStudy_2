@@ -2,9 +2,9 @@ package PoductManagerment;
 
 import java.io.FileNotFoundException;
 
-public class CalledByMethod {
+public class CallMethod {
     private I_Command command;
-    public CalledByMethod(I_Command command){
+    public CallMethod(I_Command command){
         this.command = command;
     }
     public void runMethod() throws FileNotFoundException {

@@ -28,9 +28,11 @@ public class AddProductManager extends Manager implements I_Command {
         boolean isAddAvailable = true;
         if (this.manager.getSize() > 0) {
             for (int i = 0; i < this.manager.getSize(); i++) {
-                String nameAdd = product.getName();
-                String name = this.manager.get(i).getName();
-                if (name.equalsIgnoreCase(nameAdd)) {
+                String nameAdd = product.getName().toUpperCase();
+                String name = this.manager.get(i).getName().toUpperCase();
+                String idAdd = product.getId().substring(0,4).toUpperCase();
+                String id = this.manager.get(i).getId().substring(0,4).toUpperCase();
+                if (id.equals(idAdd) && name.equals(nameAdd)) {
                     isAddAvailable = false;
                 }
             }

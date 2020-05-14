@@ -1,10 +1,9 @@
 package PoductManagerment;
-
+import MainRun.MainMenu;
 import Product.Product;
 import Product.MobilePhone;
 import Product.WashingMachine;
 import Product.Laptop;
-
 import java.io.FileNotFoundException;
 import java.text.NumberFormat;
 import java.util.ArrayList;
@@ -53,7 +52,8 @@ public class FindByPrice extends Manager implements I_Command {
     private void buildList(Class classes){
         for(int i=0; i< this.manager.getSize(); i++ ){
             product = this.manager.get(i);
-            if(product.getClass() == classes && product.getPrice() >= lowestPrice && product.getPrice() <= highestPrice){
+            boolean listCondition = product.getClass() == classes && product.getPrice() >= lowestPrice && product.getPrice() <= highestPrice;
+            if(listCondition){
                 myList.add(this.product);
             }
         }
@@ -93,7 +93,8 @@ public class FindByPrice extends Manager implements I_Command {
             for (int i = 0; i < myList.size(); i++) {
                 product = this.myList.get(i);
                 String price = numberFormat.format(product.getPrice());
-                System.out.println("No: " + (i + 1) + " price: " + price + "VNĐ, product: " + product.getName() + ", link: " + product.getLink());
+//                System.out.println("No: " + (i + 1) + " price: " + price + "VNĐ, product: " + product.getName() + ", link: " + product.getLink());
+                System.out.println(product.toString());
             }
         }
     }

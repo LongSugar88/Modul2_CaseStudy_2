@@ -3,26 +3,17 @@ package PoductManagerment;
 import Product.Product;
 import SourceProductInformation.SaveProductInformation;
 
-public class EditID extends Manager implements I_Command {
+public class Remove extends Manager implements I_Command {
     String id;
-    String newID;
     Product product;
     FindProductIndexByID findProductIndexByID = new FindProductIndexByID(this.manager, this.id);
-    public EditID(ProductManagerment manager) {
+
+    public Remove(ProductManagerment manager) {
         super(manager);
     }
-    public EditID(ProductManagerment manager, String newID, String id){
+    public Remove(ProductManagerment manager, String id){
         super(manager);
-        this.newID = newID;
         this.id = id;
-    }
-
-    public String getNewID() {
-        return newID;
-    }
-
-    public void setNewID(String newID) {
-        this.newID = newID;
     }
 
     public String getId() {
@@ -37,7 +28,6 @@ public class EditID extends Manager implements I_Command {
         return product;
     }
 
-
     public void setProduct(Product product) {
         this.product = product;
     }
@@ -45,7 +35,7 @@ public class EditID extends Manager implements I_Command {
     @Override
     public void excute() {
         int index = findProductIndexByID.getIndex();
-        this.manager.get(index).setId(newID);
+        this.manager.remove(index);
         SaveProductInformation saveProduct = new SaveProductInformation(this.manager);
         saveProduct.excute();
     }

@@ -39,9 +39,10 @@ public class FindByName extends Manager implements I_Command {
         name = name.toUpperCase();
         if(this.manager.getSize() == 0) throw new ArrayIndexOutOfBoundsException("The list is empty");
         for(int i=0; i< this.manager.getSize(); i++ ){
-            String productName = this.manager.get(i).getName().toUpperCase();
+            product = this.manager.get(i);
+            String productName = product.getName().toUpperCase();
             if(productName.contains(name)){
-                System.out.println("Index's product: "+ i+ " "+ this.manager.get(i).getName());
+                System.out.println(product.toString());
                 isFound = true;
             }
         }

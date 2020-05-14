@@ -1,8 +1,10 @@
 package PoductManagerment;
 
+import java.io.FileNotFoundException;
+
 public interface I_FindProduct {
-    boolean findByName(String name);
-    boolean findByID(String id);
+    void findByName(String name);
+    void findByID(String id);
     void findByExactlyPrice(int price);
-    boolean findByPrice(int lowestPrice, int highestPrice);
+    void findByPrice(int lowPrice, int hightPrice) throws FileNotFoundException;
 }

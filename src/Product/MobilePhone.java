@@ -21,6 +21,8 @@ public class MobilePhone extends Product {
 
     @Override
     public String toString() {
-        return null;
+        String productInformation = "ID: " + getId() + " Name: " +getName() +" Brand: " + getBrand() + " Price: " +
+                getPrice() +" Link: "+ getLink() +" Color: " +getColor() ;
+        return productInformation;
     }
 }
