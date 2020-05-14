@@ -5,6 +5,7 @@ import Product.MobilePhone;
 import Product.Product;
 import Product.WashingMachine;
 
+import java.io.FileNotFoundException;
 import java.util.Scanner;
 
 public class EditProduct extends Manager implements I_Command {
@@ -36,35 +37,13 @@ public class EditProduct extends Manager implements I_Command {
     }
 
     @Override
-    public void excute(){
-//        System.out.println("Enter something to find: ");
-//        Scanner scan = new Scanner(System.in);
-//        String findKey = scan.nextLine();
-//        scan.nextLine();
-//        FindByID findByID = new FindByID(this.manager, findKey);
-//        FindByName findByName = new FindByName(this.manager, findKey);
-//        FindByBrand findByBrand = new FindByBrand(this.manager, findKey);
-
-//        if(findByID.isFound()){
-//            findByID.excute();
-//        }
-//        else if(findByName.isFound()){
-//            findByName.excute();
-//        }
-//        else if(findByBrand.isFound()){
-//            findByBrand.excute();
-//        }
-//        else {
-//            int price = Integer.parseInt(findKey);
-//            FindByPrice findByPrice = new FindByPrice(this.manager,price - 1000000, price + 1000000 );
-//            findByPrice.excute();
-//        }
+    public void excute() throws FileNotFoundException {
         Scanner scan = new Scanner(System.in);
         int key = -1;
         while (key != 0){
             ProductType productType = null;
             System.out.println("Choose a number to use these function below: ");
-            System.out.println("0. Exit");
+            System.out.println("0. Back");
             System.out.println("1. Edit ID's product");
             System.out.println("2. Edit name's product");
             System.out.println("3. Edit price's product");
@@ -86,7 +65,7 @@ public class EditProduct extends Manager implements I_Command {
             scan.nextLine();
             switch (num){
                 case 0:
-                    System.exit(0);
+                    MainMenu.menu();
                 case 1:
                     System.out.println("Enter product's ID to change: ");
                     String id1 = scan.nextLine();

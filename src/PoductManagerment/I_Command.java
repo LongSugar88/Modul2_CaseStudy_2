@@ -5,5 +5,5 @@ import Product.Product;
 import java.io.FileNotFoundException;
 
 public interface I_Command {
-    void excute() ;
+    void excute() throws FileNotFoundException;
 }

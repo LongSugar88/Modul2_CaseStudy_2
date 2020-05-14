@@ -37,18 +37,6 @@ public class ReadFileText extends Manager implements I_Command{
     @Override
     public void excute() {
         try {
-//            InputStream inputStream = new FileInputStream(linkFileText);
-//            byte[] bytes = new byte[2048];
-//            int length;
-//            while ((length = inputStream.read(bytes)) > 0){
-//                String line = new String (bytes, StandardCharsets.UTF_8);
-//                String[] content = line.split(",");
-//                setterProduct.setProductInformation(content);
-//                setterProduct.excute();
-//                Product product = setterProduct.getProduct();
-//                this.manager.add(product);
-//            }
-//            inputStream.close();
         File file = new File(linkFileText);
         if(!file.exists()){
             throw new FileNotFoundException("File not found");
@@ -56,12 +44,14 @@ public class ReadFileText extends Manager implements I_Command{
         FileReader fileReader = new FileReader(file);
         BufferedReader bufferedReader = new BufferedReader(fileReader);
         String line;
+
         while ((line = bufferedReader.readLine()) != null){
             String[] content = line.split(",");
                 setterProduct.setProductInformation(content);
                 setterProduct.excute();
-                Product product = setterProduct.getProduct();
-                this.manager.add(product);
+                product = setterProduct.getProduct();
+            AddProductManager addProduct = new AddProductManager(this.manager, product);
+            addProduct.excute();
         }
         bufferedReader.close();
         }

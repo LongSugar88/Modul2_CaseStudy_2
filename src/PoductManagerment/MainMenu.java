@@ -1,10 +1,13 @@
+package PoductManagerment;
+
 import PoductManagerment.*;
 import Product.Product;
 
+import java.io.FileNotFoundException;
 import java.util.Scanner;
 
-public class Run {
-    public static void main(String[] args) throws Exception {
+public class MainMenu {
+    public static void menu() throws FileNotFoundException {
         Scanner scan = new Scanner(System.in);
         int key = -1;
         while (key != 0){
@@ -12,6 +15,7 @@ public class Run {
             ReadFileText readFileText = new ReadFileText(productManagerment, "D:\\CodeGYM Course\\Modul_2\\Week4\\CaseStudy_2\\src\\SourceProductInformation\\Product.txt");
             CalledByMethod callReadFileText = new CalledByMethod(readFileText);
             callReadFileText.runMethod();
+            System.out.println(productManagerment.getSize());
             System.out.println("Choose a number to use these function below: ");
             System.out.println("0. Exit");
             System.out.println("1. Edit product's information");
@@ -50,10 +54,12 @@ public class Run {
                     callFindByID.runMethod();
                     break;
                 case 5:
-                    System.out.println("Enter price to find: ");
-                    int price = scan.nextInt();
+                    System.out.println("Enter lowest price to find: ");
+                    int lowest = scan.nextInt();
+                    System.out.println("Enter hightest price to find: ");
+                    int highest = scan.nextInt();
                     scan.nextLine();
-                    CalledByMethod callFindByPrice = new CalledByMethod(new FindByPrice(productManagerment, price));
+                    CalledByMethod callFindByPrice = new CalledByMethod(new FindByPrice(productManagerment, lowest, highest));
                     callFindByPrice.runMethod();
                     break;
                 case 6:
@@ -73,6 +79,8 @@ public class Run {
                 default: System.out.println("not available");
             }
         }
-
+    }
+    public static void main(String[] args) throws Exception {
+        menu();
     }
 }

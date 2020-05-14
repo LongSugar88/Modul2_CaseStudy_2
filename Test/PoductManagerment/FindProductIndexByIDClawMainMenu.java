@@ -6,7 +6,7 @@ import PoductManagerment.ReadFileText;
 
 import static org.junit.Assert.*;
 
-public class FindProductIndexByIDTest {
+public class FindProductIndexByIDClawMainMenu {
 
 
     FindProductIndexByID findProductIndexByID;

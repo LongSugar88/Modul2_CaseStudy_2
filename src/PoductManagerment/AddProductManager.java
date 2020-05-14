@@ -10,6 +10,11 @@ public class AddProductManager extends Manager implements I_Command {
         super(manager);
     }
 
+    public AddProductManager(ProductManagerment manager, Product product) {
+        super(manager);
+        this.product = product;
+    }
+
     public Product getProduct() {
         return product;
     }
@@ -20,8 +25,17 @@ public class AddProductManager extends Manager implements I_Command {
 
     @Override
     public void excute() {
-        this.manager.add(product);
-        SaveProductInformation saveProduct = new SaveProductInformation(this.manager);
-        saveProduct.excute();
+        boolean isAddAvailable = true;
+        if (this.manager.getSize() > 0) {
+            for (int i = 0; i < this.manager.getSize(); i++) {
+                String nameAdd = product.getName();
+                String name = this.manager.get(i).getName();
+                if (name.equalsIgnoreCase(nameAdd)) {
+                    isAddAvailable = false;
+                }
+            }
+        }
+        if(isAddAvailable)
+            this.manager.add(product);
     }
 }
