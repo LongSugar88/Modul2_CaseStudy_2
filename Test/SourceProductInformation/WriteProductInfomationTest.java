@@ -6,10 +6,10 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 class WriteProductInfomationTest {
-    TakeProductInformation writeProductInfomation;
+    ClawPicoProduct writeProductInfomation;
     @BeforeEach
     void setup(){
-        writeProductInfomation = new TakeProductInformation();
+        writeProductInfomation = new ClawPicoProduct();
     }
 
     @Test

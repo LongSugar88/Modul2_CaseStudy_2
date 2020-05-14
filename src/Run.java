@@ -58,16 +58,18 @@ public class Run {
                     break;
                 case 6:
                     System.out.println("Enter a exactly price to find: ");
-                    int aPrice = scan.nextInt();
+                    int priceToFindExactly = scan.nextInt();
                     scan.nextLine();
-                    CalledByMethod callFindByExactlyPrice = new CalledByMethod(new FindByExactlyPrice(productManagerment, aPrice));
+                    CalledByMethod callFindByExactlyPrice = new CalledByMethod(new FindByExactlyPrice(productManagerment, priceToFindExactly));
                     callFindByExactlyPrice.runMethod();
                     break;
                 case 7:
+                    System.out.println("Enter product's name to find: ");
+                    String keyToFindCheaperPrice = scan.nextLine();
+                    SortProductPriceByLowToHight mySortTool = new SortProductPriceByLowToHight(productManagerment, keyToFindCheaperPrice);
+                    mySortTool.excute();
+                    break;
                 case 8:
-                case 9:
-                case 10:
-                case 11:
                 default: System.out.println("not available");
             }
         }

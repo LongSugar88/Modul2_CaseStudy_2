@@ -9,7 +9,7 @@ import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class TakeProductInformation extends Thread {
+public class ClawPicoProduct extends Thread {
     private String linkSource;
     private String linkFileText;
     private String productType;
@@ -19,10 +19,10 @@ public class TakeProductInformation extends Thread {
     private boolean size;
     static int count = 0;
 
-    public TakeProductInformation(){
+    public ClawPicoProduct(){
 
     }
-    public TakeProductInformation(String link, String linkFileText, String productType,String beginCode, boolean color, boolean type, boolean size){
+    public ClawPicoProduct(String link, String linkFileText, String productType, String beginCode, boolean color, boolean type, boolean size){
         this.linkSource = link;
         this.linkFileText = linkFileText;
         this.productType = productType;

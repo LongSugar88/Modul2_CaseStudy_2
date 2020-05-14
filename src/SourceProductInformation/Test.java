@@ -16,16 +16,16 @@ public class Test {
                 "https://pico.vn/may-tinh-xach-tay-nhom-58.html?&pageIndex=3"
         };
         for ( String element: washingMachine) {
-            TakeProductInformation takeProductInformation = new TakeProductInformation(element,"D:\\CodeGYM Course\\Modul_2\\Week4\\CaseStudy_2\\src\\SourceProductInformation\\Product.txt", "WashingMachine", "Pico00", false, true, false  );
-            takeProductInformation.start();
+            ClawPicoProduct clawPicoProduct = new ClawPicoProduct(element,"D:\\CodeGYM Course\\Modul_2\\Week4\\CaseStudy_2\\src\\SourceProductInformation\\Product.txt", "WashingMachine", "Pico00", false, true, false  );
+            clawPicoProduct.start();
         }
         for ( String element: mobilePhone) {
-            TakeProductInformation takeProductInformation = new TakeProductInformation(element,"D:\\CodeGYM Course\\Modul_2\\Week4\\CaseStudy_2\\src\\SourceProductInformation\\Product.txt", "MobilePhone", "Pico00", true, false, false  );
-            takeProductInformation.start();
+            ClawPicoProduct clawPicoProduct = new ClawPicoProduct(element,"D:\\CodeGYM Course\\Modul_2\\Week4\\CaseStudy_2\\src\\SourceProductInformation\\Product.txt", "MobilePhone", "Pico00", true, false, false  );
+            clawPicoProduct.start();
         }
         for ( String element: laptop) {
-            TakeProductInformation takeProductInformation = new TakeProductInformation(element,"D:\\CodeGYM Course\\Modul_2\\Week4\\CaseStudy_2\\src\\SourceProductInformation\\Product.txt", "Laptop", "Pico00", true, false, true  );
-            takeProductInformation.start();
+            ClawPicoProduct clawPicoProduct = new ClawPicoProduct(element,"D:\\CodeGYM Course\\Modul_2\\Week4\\CaseStudy_2\\src\\SourceProductInformation\\Product.txt", "Laptop", "Pico00", true, false, true  );
+            clawPicoProduct.start();
         }
     }
 }

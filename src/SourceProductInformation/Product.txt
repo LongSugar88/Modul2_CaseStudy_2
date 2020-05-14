@@ -1,5 +1,4 @@
-Pico003,Long Sugar,Toshiba,5890000,https://pico.vn/41045/may-giat-toshiba-8-kg-awk900dvww--mau-trang.html,WashingMachine,upper door
-Pico004,Máy Giặt Toshiba AW-K1005FV(SG) 9 Kg Ghi,Toshiba,7290000,https://pico.vn/41038/may-giat-toshiba-9-kg-awk1005fvsg--mau-ghi.html,WashingMachine,front door
+Pico004,4,Toshiba,7290000,https://pico.vn/41038/may-giat-toshiba-9-kg-awk1005fvsg--mau-ghi.html,WashingMachine,front door
 Pico005,Máy Giặt Toshiba AW-K1000FV(WW) 9 kg Trắng,Toshiba,6890000,https://pico.vn/41037/may-giat-toshiba-9-kg-awk1000fvww-mau-trang.html,WashingMachine,upper door
 Pico006,Máy Giặt Aqua 10 Kg AQW-FR100ET.W Trắng,Aqua,5190000,https://pico.vn/40846/may-giat-aqua-10-kg-aqwfr100etw-mau-trang.html,WashingMachine,upper door
 Pico007,Máy Giặt Lồng Đứng LG T2185VS2W Inverter 8.5 Kg,LG,5990000,https://pico.vn/40762/may-giat-long-dung-lg-t2185vs2w--inverter--mau-trang--85-kg.html,WashingMachine,upper door
@@ -502,3 +501,4 @@ Pico00502,Điện Thoại Samsung Galaxy A20S 32GB Đỏ,Samsung,3790000,https:/
 Pico00503,Điện Thoại Samsung Galaxy A20S 32GB Đen,Samsung,3790000,https://pico.vn/40397/dien-thoai-di-dong-samsung-a207-32gb-den--galaxy-a20s.html,MobilePhone,Black
 Pico00504,Điện Thoại Di Động Nokia 110 TA-1192 DS VN Blue,Nokia,469000,https://pico.vn/40396/dien-thoai-di-dong-nokia-110-ta1192-ds-vn-blue.html,MobilePhone,Blue
 Pico002,Máy Giặt Toshiba AW-K905DV(SG) 8 kg Ghi,Toshiba,6290000,https://pico.vn/41046/may-giat-toshiba-8-kg-awk905dvsg--mau-ghi.html,WashingMachine,upper door
+Pico003,Long Sugar,Toshiba,5890000,https://pico.vn/41045/may-giat-toshiba-8-kg-awk900dvww--mau-trang.html,WashingMachine,upper door
