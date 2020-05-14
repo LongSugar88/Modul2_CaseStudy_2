@@ -5,14 +5,37 @@ import java.io.*;
 import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
 
-public class ReadFileText extends AddProductManager{
-    SetterProduct setterProduct = new SetterProduct();
+public class ReadFileText extends Manager implements I_Command{
+    String linkFileText;
+    Product product;
 
+    SetterProduct setterProduct = new SetterProduct();
     public ReadFileText(ProductManagerment manager) {
         super(manager);
     }
+    public ReadFileText(ProductManagerment manager, String linkFileText){
+        super(manager);
+        this.linkFileText = linkFileText;
+    }
 
-    public void ReadFile(String linkFileText) {
+    public String getLinkFileText() {
+        return linkFileText;
+    }
+
+    public void setLinkFileText(String linkFileText) {
+        this.linkFileText = linkFileText;
+    }
+
+    public Product getProduct() {
+        return product;
+    }
+
+    public void setProduct(Product product) {
+        this.product = product;
+    }
+
+    @Override
+    public void excute() {
         try {
 //            InputStream inputStream = new FileInputStream(linkFileText);
 //            byte[] bytes = new byte[2048];
@@ -47,5 +70,6 @@ public class ReadFileText extends AddProductManager{
         } catch (Exception e) {
             e.printStackTrace();
         }
+
     }
 }

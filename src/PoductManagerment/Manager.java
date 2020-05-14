@@ -5,4 +5,6 @@ public class Manager {
     public Manager(ProductManagerment manager){
         this.manager = manager;
     }
+    public Manager() {
+    }
 }

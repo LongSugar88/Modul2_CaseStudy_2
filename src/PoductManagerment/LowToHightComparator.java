@@ -2,7 +2,7 @@ package PoductManagerment;
 import Product.Product;
 import java.util.Comparator;
 
-public class ProductComparator implements Comparator<Product> {
+public class LowToHightComparator implements Comparator<Product> {
 
     @Override
     public int compare(Product product1, Product product2) {

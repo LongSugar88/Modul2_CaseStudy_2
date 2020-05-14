@@ -1,4 +1,4 @@
-package Product;
+package PoductManagerment;
 
 public enum ProductType {
     MOBILEPHONE,

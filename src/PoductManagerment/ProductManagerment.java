@@ -3,7 +3,6 @@ import Product.Product;
 import Product.Laptop;
 import Product.MobilePhone;
 import Product.WashingMachine;
-import Product.ProductType;
 import sun.reflect.generics.reflectiveObjects.NotImplementedException;
 import java.util.ArrayList;
 import java.util.Scanner;

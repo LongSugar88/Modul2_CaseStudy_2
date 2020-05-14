@@ -200,16 +200,16 @@ public class TakeProductInformation extends Thread {
     }
     public static String toStringProductInformation(String beginCode, String productType, String name, String brand, String price, String link, boolean color,boolean type, boolean size){
         String result = beginCode + count ;
+        result += "," + name +","+ brand + "," + price + "," + link + "," + productType;
         if(color){
             result += "," + filterColor(name, link);
         }
         if(type){
-            result +=  filterType(price, name);
+            result += filterType(price, name);
         }
         if(size){
-            result +=  filterSize(brand, name);
+            result += filterSize(brand, name);
         }
-        result += "," + productType + ","+ name +","+ brand + "," + price + "," + link;
         return result;
     }
     //Mediamart

@@ -1,6 +1,7 @@
 package PoductManagerment;
 
 import Product.Product;
+import SourceProductInformation.SaveProductInformation;
 
 public class AddProductManager extends Manager implements I_Command {
     private Product product;
@@ -20,5 +21,7 @@ public class AddProductManager extends Manager implements I_Command {
     @Override
     public void excute() {
         this.manager.add(product);
+        SaveProductInformation saveProduct = new SaveProductInformation(this.manager);
+        saveProduct.excute();
     }
 }
