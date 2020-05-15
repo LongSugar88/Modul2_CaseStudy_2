@@ -35,13 +35,16 @@ public class FindByBrand extends Manager implements I_Command {
     @Override
     public void excute() {
         brand = brand.toUpperCase();
+        System.out.println("List found: ");
+        System.out.println("*****************************************************");
         if(this.manager.getSize() == 0) throw new ArrayIndexOutOfBoundsException("The list is empty");
         for(int i=0; i< this.manager.getSize(); i++ ){
             product = this.manager.get(i);
-            String productName = product.getName().toUpperCase();
-            if(productName.contains(brand)){
+            String productBrand = product.getBrand().toUpperCase();
+            if(productBrand.contains(brand)){
                 System.out.println(product.toString());
             }
         }
+        System.out.println("*****************************************************");
     }
 }

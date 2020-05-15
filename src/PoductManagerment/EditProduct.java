@@ -8,24 +8,12 @@ import java.io.FileNotFoundException;
 import java.util.Scanner;
 
 public class EditProduct extends Manager implements I_Command {
-    int index;
-     Product product;
+    Product product;
 
     public EditProduct(ProductManagerment manager) {
         super(manager);
     }
-    public EditProduct(ProductManagerment manager, int index) {
-        super(manager);
-        this.index = index;
-    }
 
-    public int getIndex() {
-        return index;
-    }
-
-    public void setIndex(int index) {
-        this.index = index;
-    }
 
     public Product getProduct() {
         return product;
@@ -38,8 +26,12 @@ public class EditProduct extends Manager implements I_Command {
     @Override
     public void excute() throws FileNotFoundException {
         Scanner scan = new Scanner(System.in);
+        System.out.println("Enter product's ID to change: ");
+        String id = scan.nextLine();
         int key = -1;
         while (key != 0){
+            FindProductIndexByID findProductIndexByID = new FindProductIndexByID(this.manager, id);
+            int index = findProductIndexByID.getIndex();
             ProductType productType = null;
             System.out.println("Choose a number to use these function below: ");
             System.out.println("0. Back");
@@ -66,59 +58,46 @@ public class EditProduct extends Manager implements I_Command {
                 case 0:
                     MainMenu.menu();
                 case 1:
-                    System.out.println("Enter product's ID to change: ");
-                    String id1 = scan.nextLine();
                     System.out.println("Enter new product's ID: ");
                     String newID = scan.nextLine();
-                    EditID editID = new EditID(this.manager, newID, id1);
+                    EditID editID = new EditID(this.manager, newID, id);
                     editID.excute();
+                    id = newID;
                     break;
                 case 2:
-                    System.out.println("Enter product's ID to change: ");
-                    String id2 = scan.nextLine();
                     System.out.println("Enter new product's name: ");
                     String newName = scan.nextLine();
-                    EditName editName = new EditName(this.manager, newName, id2);
+                    EditName editName = new EditName(this.manager, newName, id);
                     editName.excute();
                     break;
                 case 3:
-                    System.out.println("Enter product's ID to change: ");
-                    String id3 = scan.nextLine();
                     System.out.println("Enter new product's price: ");
                     int newPrice = scan.nextInt();
-                    EditPrice editPrice = new EditPrice(this.manager, newPrice, id3);
+                    EditPrice editPrice = new EditPrice(this.manager, newPrice, id);
                     editPrice.excute();
                     break;
                 case 4:
-                    System.out.println("Enter product's ID to change: ");
-                    String id4 = scan.nextLine();
                     System.out.println("Enter new product's brand: ");
                     String newBrand = scan.nextLine();
-                    EditBrand editBrand = new EditBrand(this.manager, newBrand, id4);
+                    EditBrand editBrand = new EditBrand(this.manager, newBrand, id);
                     editBrand.excute();
                     break;
                 case 5:
-                    System.out.println("Enter product's ID to change: ");
-                    String id5 = scan.nextLine();
                     System.out.println("Enter new product's color: ");
                     String newColor = scan.nextLine();
-                    EditColor editColor = new EditColor(this.manager, newColor, id5, productType);
+                    EditColor editColor = new EditColor(this.manager, newColor, id, productType);
                     editColor.excute();
                     break;
                 case 6:
-                    System.out.println("Enter product's ID to change: ");
-                    String id6 = scan.nextLine();
                     System.out.println("Enter new product's type: ");
                     String newType = scan.nextLine();
-                    EditType editType = new EditType(this.manager, newType, id6, productType);
+                    EditType editType = new EditType(this.manager, newType, id, productType);
                     editType.excute();
                     break;
                 case 7:
-                    System.out.println("Enter product's ID to change: ");
-                    String id7 = scan.nextLine();
                     System.out.println("Enter new product's size: ");
                     String newSize = scan.nextLine();
-                    EditSize editSize = new EditSize(this.manager, newSize, id7, productType);
+                    EditSize editSize = new EditSize(this.manager, newSize, id, productType);
                     editSize.excute();
                     break;
                 default: System.out.println("not available");

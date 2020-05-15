@@ -9,8 +9,7 @@ public class ProductManagerment implements I_ProductManager, I_FindProduct, I_Ed
 
     @Override
     public void add(Product element) {
-        AddProductManager addProduct = new AddProductManager(this, element);
-        addProduct.excute();
+        myProduct.add(element);
     }
     @Override
     public void edit(int index) throws FileNotFoundException {

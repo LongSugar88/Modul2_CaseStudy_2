@@ -1,5 +1,8 @@
 package Product;
 
+import java.text.NumberFormat;
+import java.util.Locale;
+
 public abstract class Product {
     private String id;
     private String name;
@@ -59,5 +62,12 @@ public abstract class Product {
         this.brand = brand;
     }
 
-    public abstract String toString();
+    public String toString(){
+        Locale locale = new Locale("en", "EN");
+        NumberFormat numberFormat = NumberFormat.getInstance(locale);
+        String productPrice = numberFormat.format(getPrice());
+        String productInformation = "ID: " + getId() + " | Name: " +getName() +" | Brand: " + getBrand() + " | Price: " +
+                productPrice +"VNĐ | Link: "+ getLink();
+        return productInformation;
+    };
 }

@@ -30,6 +30,8 @@ public class FindByExactlyPrice extends Manager implements I_Command {
     }
     @Override
     public void excute() {
+        System.out.println("List found: ");
+        System.out.println("*****************************************************");
         if(this.manager.getSize() == 0) throw new ArrayIndexOutOfBoundsException("The list is empty");
         for(int i=0; i<this.manager.getSize(); i++ ){
             product = this.manager.get(i);
@@ -37,5 +39,6 @@ public class FindByExactlyPrice extends Manager implements I_Command {
                 System.out.println(product.toString());
             }
         }
+        System.out.println("*****************************************************");
     }
 }

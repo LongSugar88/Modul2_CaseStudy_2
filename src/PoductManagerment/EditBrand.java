@@ -7,7 +7,6 @@ public class EditBrand extends Manager implements I_Command {
     String id;
     String newBrand;
     Product product;
-    FindProductIndexByID findProductIndexByID = new FindProductIndexByID(this.manager, this.id);
     public EditBrand(ProductManagerment manager) {
         super(manager);
     }
@@ -44,6 +43,7 @@ public class EditBrand extends Manager implements I_Command {
 
     @Override
     public void excute() {
+        FindProductIndexByID findProductIndexByID = new FindProductIndexByID(this.manager, this.id);
         int index = findProductIndexByID.getIndex();
         this.manager.get(index).setBrand(newBrand);
         SaveProductInformation saveProduct = new SaveProductInformation(this.manager);

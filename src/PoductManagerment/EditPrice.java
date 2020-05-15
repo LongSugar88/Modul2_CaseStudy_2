@@ -7,7 +7,7 @@ public class EditPrice extends Manager implements I_Command {
     String id;
     int newPrice;
     Product product;
-    FindProductIndexByID findProductIndexByID = new FindProductIndexByID(this.manager, this.id);
+
     public EditPrice(ProductManagerment manager) {
         super(manager);
     }
@@ -44,6 +44,7 @@ public class EditPrice extends Manager implements I_Command {
 
     @Override
     public void excute() {
+        FindProductIndexByID findProductIndexByID = new FindProductIndexByID(this.manager, this.id);
         int index = findProductIndexByID.getIndex();
         this.manager.get(index).setPrice(newPrice);
         SaveProductInformation saveProduct = new SaveProductInformation(this.manager);

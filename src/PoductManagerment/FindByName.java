@@ -37,6 +37,8 @@ public class FindByName extends Manager implements I_Command {
     @Override
     public void excute() {
         name = name.toUpperCase();
+        System.out.println("List found: ");
+        System.out.println("*****************************************************");
         if(this.manager.getSize() == 0) throw new ArrayIndexOutOfBoundsException("The list is empty");
         for(int i=0; i< this.manager.getSize(); i++ ){
             product = this.manager.get(i);
@@ -46,5 +48,6 @@ public class FindByName extends Manager implements I_Command {
                 isFound = true;
             }
         }
+        System.out.println("*****************************************************");
     }
 }

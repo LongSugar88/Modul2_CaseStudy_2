@@ -9,7 +9,7 @@ public class EditSize extends Manager implements I_Command{    ProductType produ
     String id;
     String newSize;
     Product product;
-    FindProductIndexByID findProductIndexByID = new FindProductIndexByID(this.manager, this.id);
+
     public EditSize(ProductManagerment manager) {
         super(manager);
     }
@@ -55,11 +55,12 @@ public class EditSize extends Manager implements I_Command{    ProductType produ
 
     @Override
     public void excute() {
+        FindProductIndexByID findProductIndexByID = new FindProductIndexByID(this.manager, this.id);
         int index = findProductIndexByID.getIndex();
-        this.manager.get(index).setName(newSize);
+        product = this.manager.get(index);
         switch (productType){
             case LAPTOP:
-                ((Laptop) this.manager.get(index)).setSize(newSize);
+                ((Laptop) product).setSize(newSize);
                 break;
             default:
                 throw new NotImplementedException();

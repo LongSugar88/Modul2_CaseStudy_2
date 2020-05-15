@@ -30,8 +30,7 @@ public class Laptop extends Product {
     }
     @Override
     public String toString() {
-        String productInformation = "ID: " + getId() + " Name: " +getName() +" Brand: " + getBrand() + " Price: " +
-                getPrice() +" Link: "+ getLink() +" Color: " +getColor() +" Size: " + getSize();
+        String productInformation = super.toString() +" | Color: " +getColor() +" | Size: " + getSize();
         return productInformation;
     }
 }

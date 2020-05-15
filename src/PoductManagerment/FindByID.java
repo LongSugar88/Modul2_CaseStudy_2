@@ -39,14 +39,17 @@ public class FindByID extends Manager implements I_Command {
     @Override
     public void excute() {
         id = id.toUpperCase();
+        System.out.println("List found: ");
+        System.out.println("*****************************************************");
         if(this.manager.getSize() == 0) throw new ArrayIndexOutOfBoundsException("The list is empty");
         for(int i=0; i< this.manager.getSize(); i++ ){
             product = this.manager.get(i);
-            String productName = product.getId().toUpperCase();
-            if(productName.contains(id)){
+            String productID = product.getId().toUpperCase();
+            if(productID.contains(id)){
                 System.out.println(product.toString());
                 isFound = true;
             }
         }
+        System.out.println("*****************************************************");
     }
 }

@@ -18,6 +18,10 @@ public class SaveProductInformation extends Manager implements I_Command {
     public SaveProductInformation(ProductManagerment manager) {
         super(manager);
     }
+    public SaveProductInformation(ProductManagerment manager, String linkFileSave) {
+        super(manager);
+        this.linkFileSave = linkFileSave;
+    }
 
     public String getLinkFileSave() {
         return linkFileSave;

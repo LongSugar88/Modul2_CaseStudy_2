@@ -72,7 +72,8 @@ public class FindByPrice extends Manager implements I_Command {
             scan.nextLine();
             switch (num) {
                 case 0:
-                    MainMenu.menu();
+                    CallMethod callFindProduct = new CallMethod(new FindProduct(this.manager));
+                    callFindProduct.runMethod();
                 case 1:
                     buildList(WashingMachine.class);
                     break;
@@ -88,6 +89,7 @@ public class FindByPrice extends Manager implements I_Command {
             LowToHightComparator myCompare = new LowToHightComparator();
             Collections.sort(myList, myCompare);
             System.out.println("List found: ");
+            System.out.println("*****************************************************");
             Locale locale = new Locale("en", "EN");
             NumberFormat numberFormat = NumberFormat.getInstance(locale);
             for (int i = 0; i < myList.size(); i++) {
@@ -96,6 +98,7 @@ public class FindByPrice extends Manager implements I_Command {
 //                System.out.println("No: " + (i + 1) + " price: " + price + "VNĐ, product: " + product.getName() + ", link: " + product.getLink());
                 System.out.println(product.toString());
             }
+            System.out.println("*****************************************************");
         }
     }
 }

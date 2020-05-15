@@ -56,11 +56,13 @@ public class SortProductPriceByLowToHight extends Manager implements I_Command {
         LowToHightComparator myCompare = new LowToHightComparator();
         Collections.sort(myList, myCompare);
         System.out.println("List found: ");
+        System.out.println("*****************************************************");
         Locale locale = new Locale("en", "EN");
         NumberFormat numberFormat = NumberFormat.getInstance(locale);
         for(int i=0; i<myList.size() ; i++){
             product = this.myList.get(i);
             System.out.println(product.toString());
         }
+        System.out.println("*****************************************************");
     }
 }

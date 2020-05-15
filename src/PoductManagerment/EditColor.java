@@ -9,7 +9,6 @@ public class EditColor extends Manager implements I_Command {    ProductType pro
     String id;
     String newColor;
     Product product;
-    FindProductIndexByID findProductIndexByID = new FindProductIndexByID(this.manager, this.id);
     public EditColor(ProductManagerment manager) {
         super(manager);
     }
@@ -20,34 +19,9 @@ public class EditColor extends Manager implements I_Command {    ProductType pro
         this.productType = productType;
     }
 
-    public ProductType getProductType() {
-        return productType;
-    }
-
-    public void setProductType(ProductType productType) {
-        this.productType = productType;
-    }
-
-    public String getNewColor() {
-        return newColor;
-    }
-
-    public void setNewColor(String newColor) {
-        this.newColor = newColor;
-    }
-
-    public String getId() {
-        return id;
-    }
-
-    public void setId(String id) {
-        this.id = id;
-    }
-
     public Product getProduct() {
         return product;
     }
-
 
     public void setProduct(Product product) {
         this.product = product;
@@ -55,14 +29,15 @@ public class EditColor extends Manager implements I_Command {    ProductType pro
 
     @Override
     public void excute() {
+        FindProductIndexByID findProductIndexByID = new FindProductIndexByID(this.manager, this.id);
         int index = findProductIndexByID.getIndex();
-        this.manager.get(index).setName(newColor);
+        product = this.manager.get(index);
         switch (productType){
-            case WASHINGMACHINE:
-                ((Laptop) this.manager.get(index)).setColor(newColor);
+            case MOBILEPHONE:
+                ((MobilePhone) product).setColor(newColor);
                 break;
             case LAPTOP:
-                ((Laptop) this.manager.get(index)).setColor(newColor);
+                ((Laptop) product).setColor(newColor);
                 break;
             default:
                 throw new NotImplementedException();

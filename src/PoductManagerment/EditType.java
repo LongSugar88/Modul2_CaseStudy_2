@@ -9,7 +9,7 @@ public class EditType extends Manager implements I_Command{
     String id;
     String newType;
     Product product;
-    FindProductIndexByID findProductIndexByID = new FindProductIndexByID(this.manager, this.id);
+
     public EditType(ProductManagerment manager) {
         super(manager);
     }
@@ -55,11 +55,12 @@ public class EditType extends Manager implements I_Command{
 
     @Override
     public void excute() {
+        FindProductIndexByID findProductIndexByID = new FindProductIndexByID(this.manager, this.id);
         int index = findProductIndexByID.getIndex();
-        this.manager.get(index).setName(newType);
+        product = this.manager.get(index);
         switch (productType){
             case WASHINGMACHINE:
-                ((WashingMachine) this.manager.get(index)).setType(newType);
+                ((WashingMachine) product).setType(newType);
                 break;
             default:
                 throw new NotImplementedException();

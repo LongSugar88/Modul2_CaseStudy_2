@@ -22,6 +22,7 @@ public class FindProductIndexByID extends Manager implements I_Command {
         this.id = id;
     }
     public int getIndex() {
+        excute();
         return index;
     }
     public void setIndex(int index) {
