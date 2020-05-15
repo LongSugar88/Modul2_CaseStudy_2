@@ -1,7 +1,6 @@
 package PoductManagerment;
-
+import PoductManagerment.InterFace.I_Command;
 import Product.Product;
-import SourceProductInformation.SaveProductInformation;
 
 public class AddProductManager extends Manager implements I_Command {
     private Product product;

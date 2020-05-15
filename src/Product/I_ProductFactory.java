@@ -1,7 +1,6 @@
 package Product;
 
-import PoductManagerment.ProductType;
-import Product.Product;
+import PoductManagerment.Enum.ProductType;
 
 public interface I_ProductFactory {
     public Product creatProduct(ProductType productType);

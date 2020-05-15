@@ -1,39 +1,27 @@
-package PoductManagerment;
-
+package PoductManagerment.EditElement;
+import PoductManagerment.*;
+import PoductManagerment.Enum.ProductType;
+import PoductManagerment.FindElement.FindProductIndexByID;
+import PoductManagerment.InterFace.I_Command;
 import Product.Product;
-import Product.Laptop;
+import Product.WashingMachine;
 import SourceProductInformation.SaveProductInformation;
 import sun.reflect.generics.reflectiveObjects.NotImplementedException;
 
-public class EditSize extends Manager implements I_Command{    ProductType productType;
+public class EditType extends Manager implements I_Command {
+    ProductType productType;
     String id;
-    String newSize;
+    String newType;
     Product product;
 
-    public EditSize(ProductManagerment manager) {
+    public EditType(ProductManagerment manager) {
         super(manager);
     }
-    public EditSize(ProductManagerment manager, String newSize, String id, ProductType productType){
+    public EditType(ProductManagerment manager, String newType, String id, ProductType productType){
         super(manager);
-        this.newSize = newSize;
+        this.newType = newType;
         this.id = id;
         this.productType = productType;
-    }
-
-    public ProductType getProductType() {
-        return productType;
-    }
-
-    public void setProductType(ProductType productType) {
-        this.productType = productType;
-    }
-
-    public String getNewSize() {
-        return newSize;
-    }
-
-    public void setNewSize(String newSize) {
-        this.newSize = newSize;
     }
 
     public String getId() {
@@ -59,8 +47,8 @@ public class EditSize extends Manager implements I_Command{    ProductType produ
         int index = findProductIndexByID.getIndex();
         product = this.manager.get(index);
         switch (productType){
-            case LAPTOP:
-                ((Laptop) product).setSize(newSize);
+            case WASHINGMACHINE:
+                ((WashingMachine) product).setType(newType);
                 break;
             default:
                 throw new NotImplementedException();
@@ -68,5 +56,4 @@ public class EditSize extends Manager implements I_Command{    ProductType produ
         SaveProductInformation saveProduct = new SaveProductInformation(this.manager);
         saveProduct.excute();
     }
-
 }

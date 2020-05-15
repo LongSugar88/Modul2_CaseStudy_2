@@ -1,5 +1,8 @@
-package PoductManagerment;
+package PoductManagerment.FindElement;
 
+import PoductManagerment.InterFace.I_Command;
+import PoductManagerment.Manager;
+import PoductManagerment.ProductManagerment;
 import Product.Product;
 
 public class FindProductIndexByID extends Manager implements I_Command {
@@ -18,22 +21,28 @@ public class FindProductIndexByID extends Manager implements I_Command {
     public String getId() {
         return id;
     }
+
     public void setId(String id) {
         this.id = id;
     }
+
     public int getIndex() {
         excute();
         return index;
     }
+
     public void setIndex(int index) {
         this.index = index;
     }
+
     public Product getProduct() {
         return product;
     }
+
     public void setProduct(Product product) {
         this.product = product;
     }
+
     @Override
     public void excute() {
         for(int i=0; i<this.manager.getSize(); i++ ){

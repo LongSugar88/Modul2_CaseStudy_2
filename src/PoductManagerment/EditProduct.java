@@ -1,5 +1,9 @@
 package PoductManagerment;
 import MainRun.MainMenu;
+import PoductManagerment.EditElement.*;
+import PoductManagerment.Enum.ProductType;
+import PoductManagerment.FindElement.FindProductIndexByID;
+import PoductManagerment.InterFace.I_Command;
 import Product.Laptop;
 import Product.MobilePhone;
 import Product.Product;

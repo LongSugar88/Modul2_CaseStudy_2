@@ -1,24 +1,31 @@
-package PoductManagerment;
+package PoductManagerment.FindElement;
 
+import PoductManagerment.InterFace.I_Command;
+import PoductManagerment.Manager;
+import PoductManagerment.ProductManagerment;
 import Product.Product;
 
-public class FindByBrand extends Manager implements I_Command {
+public class FindByID extends Manager implements I_Command {
     boolean isFound = false;
-    String brand;
+    String id;
     Product product;
-    public FindByBrand(ProductManagerment manager) {
+
+    public FindByID(ProductManagerment manager) {
         super(manager);
     }
-    public FindByBrand(ProductManagerment manager, String brand) {
+    public FindByID(ProductManagerment manager, String id) {
         super(manager);
-        this.brand = brand;
+        this.id = id;
     }
-    public String getBrand() {
-        return brand;
+
+    public String getId() {
+        return id;
     }
-    public void setBrand(String brand) {
-        this.brand = brand;
+
+    public void setId(String id) {
+        this.id = id;
     }
+
     public Product getProduct() {
         return product;
     }
@@ -26,23 +33,29 @@ public class FindByBrand extends Manager implements I_Command {
     public void setProduct(Product product) {
         this.product = product;
     }
+
     public boolean isFound() {
         return isFound;
     }
+
     public void setFound(boolean found) {
         isFound = found;
     }
+
     @Override
     public void excute() {
-        brand = brand.toUpperCase();
+        int count = 1;
+        id = id.toUpperCase();
         System.out.println("List found: ");
         System.out.println("*****************************************************");
         if(this.manager.getSize() == 0) throw new ArrayIndexOutOfBoundsException("The list is empty");
         for(int i=0; i< this.manager.getSize(); i++ ){
             product = this.manager.get(i);
-            String productBrand = product.getBrand().toUpperCase();
-            if(productBrand.contains(brand)){
-                System.out.println(product.toString());
+            String productID = product.getId().toUpperCase();
+            if(productID.contains(id)){
+                System.out.println("No: " + count + " |" +   product.toString());
+                count++;
+                isFound = true;
             }
         }
         System.out.println("*****************************************************");

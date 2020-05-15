@@ -1,10 +1,8 @@
 package PoductManagerment;
 
+import PoductManagerment.FindElement.FindProductIndexByID;
 import org.junit.Test;
 import org.junit.jupiter.api.BeforeEach;
-import PoductManagerment.ReadFileText;
-
-import static org.junit.Assert.*;
 
 public class FindProductIndexByIDClawMainMenu {
 

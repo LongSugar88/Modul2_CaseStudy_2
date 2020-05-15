@@ -1,4 +1,4 @@
-package PoductManagerment;
+package PoductManagerment.InterFace;
 
 public interface I_EditProduct {
     void editName(String newName, String id);

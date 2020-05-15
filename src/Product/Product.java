@@ -66,8 +66,8 @@ public abstract class Product {
         Locale locale = new Locale("en", "EN");
         NumberFormat numberFormat = NumberFormat.getInstance(locale);
         String productPrice = numberFormat.format(getPrice());
-        String productInformation = "ID: " + getId() + " | Name: " +getName() +" | Brand: " + getBrand() + " | Price: " +
-                productPrice +"VNĐ | Link: "+ getLink();
+        String productInformation = " Name: " +getName() + " | Price: " +
+                productPrice +"VNĐ | Link: "+ getLink() +" | Brand: " + getBrand() + " | ID: " + getId();
         return productInformation;
     };
 }

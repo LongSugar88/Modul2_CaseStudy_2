@@ -1,4 +1,6 @@
-package PoductManagerment;
+package PoductManagerment.CreatProductFromTextFile;
+import PoductManagerment.Enum.ProductType;
+import PoductManagerment.InterFace.I_Command;
 import Product.MobilePhone;
 import Product.Laptop;
 import Product.WashingMachine;

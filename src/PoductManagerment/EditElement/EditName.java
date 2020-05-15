@@ -1,28 +1,23 @@
-package PoductManagerment;
-
+package PoductManagerment.EditElement;
+import PoductManagerment.FindElement.FindProductIndexByID;
+import PoductManagerment.InterFace.I_Command;
+import PoductManagerment.Manager;
+import PoductManagerment.ProductManagerment;
 import Product.Product;
 import SourceProductInformation.SaveProductInformation;
 
-public class EditID extends Manager implements I_Command {
+public class EditName extends Manager implements I_Command {
     String id;
-    String newID;
+    String newName;
     Product product;
 
-    public EditID(ProductManagerment manager) {
+    public EditName(ProductManagerment manager) {
         super(manager);
     }
-    public EditID(ProductManagerment manager, String newID, String id){
+    public EditName(ProductManagerment manager, String newName, String id){
         super(manager);
-        this.newID = newID;
+        this.newName = newName;
         this.id = id;
-    }
-
-    public String getNewID() {
-        return newID;
-    }
-
-    public void setNewID(String newID) {
-        this.newID = newID;
     }
 
     public String getId() {
@@ -46,7 +41,7 @@ public class EditID extends Manager implements I_Command {
     public void excute() {
         FindProductIndexByID findProductIndexByID = new FindProductIndexByID(this.manager, this.id);
         int index = findProductIndexByID.getIndex();
-        this.manager.get(index).setId(newID);
+        this.manager.get(index).setName(newName);
         SaveProductInformation saveProduct = new SaveProductInformation(this.manager);
         saveProduct.excute();
     }

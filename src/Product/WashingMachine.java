@@ -4,7 +4,6 @@ import java.io.*;
 import java.util.ArrayList;
 
 public class WashingMachine extends Product {
-    ArrayList<Product> arrayList = new ArrayList();
     private String type;
 
     WashingMachine(){
@@ -25,7 +24,7 @@ public class WashingMachine extends Product {
 
     @Override
     public String toString() {
-        String productInformation =  super.toString() +" | Type: " +getType();
+        String productInformation = super.toString() +" | Type: " +getType();
         return productInformation;
     }
 

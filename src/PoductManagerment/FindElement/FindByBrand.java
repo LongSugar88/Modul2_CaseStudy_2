@@ -1,29 +1,27 @@
-package PoductManagerment;
+package PoductManagerment.FindElement;
 
+import PoductManagerment.InterFace.I_Command;
+import PoductManagerment.Manager;
+import PoductManagerment.ProductManagerment;
 import Product.Product;
 
-public class FindByID extends Manager implements I_Command {
+public class FindByBrand extends Manager implements I_Command {
     boolean isFound = false;
-    String id;
+    String brand;
     Product product;
 
-    public FindByID(ProductManagerment manager) {
+    public FindByBrand(ProductManagerment manager) {
         super(manager);
     }
-    public FindByID(ProductManagerment manager, String id) {
+    public FindByBrand(ProductManagerment manager, String brand) {
         super(manager);
-        this.id = id;
+        this.brand = brand;
     }
 
-    public String getId() {
-        return id;
-    }
-    public void setId(String id) {
-        this.id = id;
-    }
     public Product getProduct() {
         return product;
     }
+
     public void setProduct(Product product) {
         this.product = product;
     }
@@ -38,16 +36,17 @@ public class FindByID extends Manager implements I_Command {
 
     @Override
     public void excute() {
-        id = id.toUpperCase();
+        int count = 1;
+        brand = brand.toUpperCase();
         System.out.println("List found: ");
         System.out.println("*****************************************************");
         if(this.manager.getSize() == 0) throw new ArrayIndexOutOfBoundsException("The list is empty");
         for(int i=0; i< this.manager.getSize(); i++ ){
             product = this.manager.get(i);
-            String productID = product.getId().toUpperCase();
-            if(productID.contains(id)){
-                System.out.println(product.toString());
-                isFound = true;
+            String productBrand = product.getBrand().toUpperCase();
+            if(productBrand.contains(brand)){
+                System.out.println("No: " + count + " |" +   product.toString());
+                count++;
             }
         }
         System.out.println("*****************************************************");

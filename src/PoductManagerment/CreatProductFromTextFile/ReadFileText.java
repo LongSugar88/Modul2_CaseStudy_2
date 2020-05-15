@@ -1,11 +1,12 @@
-package PoductManagerment;
+package PoductManagerment.CreatProductFromTextFile;
+import PoductManagerment.AddProductManager;
+import PoductManagerment.InterFace.I_Command;
+import PoductManagerment.Manager;
+import PoductManagerment.ProductManagerment;
 import Product.Product;
-
 import java.io.*;
-import java.nio.charset.StandardCharsets;
-import java.util.ArrayList;
 
-public class ReadFileText extends Manager implements I_Command{
+public class ReadFileText extends Manager implements I_Command {
     String linkFileText;
     Product product;
 
@@ -15,14 +16,6 @@ public class ReadFileText extends Manager implements I_Command{
     }
     public ReadFileText(ProductManagerment manager, String linkFileText){
         super(manager);
-        this.linkFileText = linkFileText;
-    }
-
-    public String getLinkFileText() {
-        return linkFileText;
-    }
-
-    public void setLinkFileText(String linkFileText) {
         this.linkFileText = linkFileText;
     }
 
@@ -56,8 +49,6 @@ public class ReadFileText extends Manager implements I_Command{
         bufferedReader.close();
         }
         catch (IOException e){
-            e.printStackTrace();
-        } catch (Exception e) {
             e.printStackTrace();
         }
 

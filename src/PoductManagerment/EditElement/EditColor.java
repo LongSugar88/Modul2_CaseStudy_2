@@ -1,53 +1,31 @@
-package PoductManagerment;
+package PoductManagerment.EditElement;
+import PoductManagerment.*;
+import PoductManagerment.Enum.ProductType;
+import PoductManagerment.FindElement.FindProductIndexByID;
+import PoductManagerment.InterFace.I_Command;
 import Product.Product;
-import Product.WashingMachine;
+import Product.Laptop;
+import Product.MobilePhone;
 import SourceProductInformation.SaveProductInformation;
 import sun.reflect.generics.reflectiveObjects.NotImplementedException;
 
-public class EditType extends Manager implements I_Command{
-    ProductType productType;
+public class EditColor extends Manager implements I_Command {    ProductType productType;
     String id;
-    String newType;
+    String newColor;
     Product product;
-
-    public EditType(ProductManagerment manager) {
+    public EditColor(ProductManagerment manager) {
         super(manager);
     }
-    public EditType(ProductManagerment manager, String newType, String id, ProductType productType){
+    public EditColor(ProductManagerment manager, String newColor, String id, ProductType productType){
         super(manager);
-        this.newType = newType;
+        this.newColor = newColor;
         this.id = id;
         this.productType = productType;
-    }
-
-    public ProductType getProductType() {
-        return productType;
-    }
-
-    public void setProductType(ProductType productType) {
-        this.productType = productType;
-    }
-
-    public String getNewType() {
-        return newType;
-    }
-
-    public void setNewType(String newType) {
-        this.newType = newType;
-    }
-
-    public String getId() {
-        return id;
-    }
-
-    public void setId(String id) {
-        this.id = id;
     }
 
     public Product getProduct() {
         return product;
     }
-
 
     public void setProduct(Product product) {
         this.product = product;
@@ -59,8 +37,11 @@ public class EditType extends Manager implements I_Command{
         int index = findProductIndexByID.getIndex();
         product = this.manager.get(index);
         switch (productType){
-            case WASHINGMACHINE:
-                ((WashingMachine) product).setType(newType);
+            case MOBILEPHONE:
+                ((MobilePhone) product).setColor(newColor);
+                break;
+            case LAPTOP:
+                ((Laptop) product).setColor(newColor);
                 break;
             default:
                 throw new NotImplementedException();
@@ -68,4 +49,5 @@ public class EditType extends Manager implements I_Command{
         SaveProductInformation saveProduct = new SaveProductInformation(this.manager);
         saveProduct.excute();
     }
+
 }

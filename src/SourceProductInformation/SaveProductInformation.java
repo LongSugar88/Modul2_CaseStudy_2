@@ -1,5 +1,5 @@
 package SourceProductInformation;
-import PoductManagerment.I_Command;
+import PoductManagerment.InterFace.I_Command;
 import PoductManagerment.Manager;
 import PoductManagerment.ProductManagerment;
 import Product.Product;

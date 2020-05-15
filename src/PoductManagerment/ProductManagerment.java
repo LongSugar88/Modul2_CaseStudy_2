@@ -1,6 +1,12 @@
 package PoductManagerment;
+import PoductManagerment.EditElement.*;
+import PoductManagerment.Enum.ProductType;
+import PoductManagerment.FindElement.FindByExactlyPrice;
+import PoductManagerment.FindElement.FindByID;
+import PoductManagerment.FindElement.FindByName;
+import PoductManagerment.FindElement.FindByPrice;
+import PoductManagerment.InterFace.*;
 import Product.Product;
-
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
 

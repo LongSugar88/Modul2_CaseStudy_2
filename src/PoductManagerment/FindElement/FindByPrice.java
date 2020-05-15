@@ -1,14 +1,14 @@
-package PoductManagerment;
-import MainRun.MainMenu;
+package PoductManagerment.FindElement;
+import PoductManagerment.*;
+import PoductManagerment.InterFace.I_Command;
+import PoductManagerment.Sort.LowToHightComparator;
 import Product.Product;
 import Product.MobilePhone;
 import Product.WashingMachine;
 import Product.Laptop;
 import java.io.FileNotFoundException;
-import java.text.NumberFormat;
 import java.util.ArrayList;
 import java.util.Collections;
-import java.util.Locale;
 import java.util.Scanner;
 
 public class FindByPrice extends Manager implements I_Command {
@@ -26,22 +26,6 @@ public class FindByPrice extends Manager implements I_Command {
         this.highestPrice = highestPrice;
     }
 
-    public int getLowestPrice() {
-        return lowestPrice;
-    }
-
-    public void setLowestPrice(int lowestPrice) {
-        this.lowestPrice = lowestPrice;
-    }
-
-    public int getHighestPrice() {
-        return highestPrice;
-    }
-
-    public void setHighestPrice(int highestPrice) {
-        this.highestPrice = highestPrice;
-    }
-
     public Product getProduct() {
         return product;
     }
@@ -49,6 +33,7 @@ public class FindByPrice extends Manager implements I_Command {
     public void setProduct(Product product) {
         this.product = product;
     }
+
     private void buildList(Class classes){
         for(int i=0; i< this.manager.getSize(); i++ ){
             product = this.manager.get(i);
@@ -58,6 +43,7 @@ public class FindByPrice extends Manager implements I_Command {
             }
         }
     }
+
     @Override
     public void excute() throws FileNotFoundException {
         Scanner scan = new Scanner(System.in);
@@ -90,13 +76,9 @@ public class FindByPrice extends Manager implements I_Command {
             Collections.sort(myList, myCompare);
             System.out.println("List found: ");
             System.out.println("*****************************************************");
-            Locale locale = new Locale("en", "EN");
-            NumberFormat numberFormat = NumberFormat.getInstance(locale);
             for (int i = 0; i < myList.size(); i++) {
                 product = this.myList.get(i);
-                String price = numberFormat.format(product.getPrice());
-//                System.out.println("No: " + (i + 1) + " price: " + price + "VNĐ, product: " + product.getName() + ", link: " + product.getLink());
-                System.out.println(product.toString());
+                System.out.println("No: " + (i+1) + " |" +   product.toString());
             }
             System.out.println("*****************************************************");
         }

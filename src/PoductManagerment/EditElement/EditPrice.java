@@ -1,5 +1,9 @@
-package PoductManagerment;
+package PoductManagerment.EditElement;
 
+import PoductManagerment.FindElement.FindProductIndexByID;
+import PoductManagerment.InterFace.I_Command;
+import PoductManagerment.Manager;
+import PoductManagerment.ProductManagerment;
 import Product.Product;
 import SourceProductInformation.SaveProductInformation;
 
@@ -17,13 +21,6 @@ public class EditPrice extends Manager implements I_Command {
         this.id = id;
     }
 
-    public int getNewPrice() {
-        return newPrice;
-    }
-
-    public void setNewPrice(int newPrice) {
-        this.newPrice = newPrice;
-    }
 
     public String getId() {
         return id;

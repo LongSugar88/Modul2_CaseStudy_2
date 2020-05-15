@@ -1,4 +1,4 @@
-package PoductManagerment;
+package PoductManagerment.InterFace;
 
 import Product.Product;
 

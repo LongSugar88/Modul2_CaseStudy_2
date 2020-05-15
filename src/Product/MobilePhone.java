@@ -21,7 +21,7 @@ public class MobilePhone extends Product {
 
     @Override
     public String toString() {
-        String productInformation =  super.toString() +" | Color: " +getColor() ;
+        String productInformation = super.toString() +" | Color: " +getColor() ;
         return productInformation;
     }
 }

@@ -1,6 +1,6 @@
 package Product;
-import PoductManagerment.I_Command;
-import PoductManagerment.ProductType;
+import PoductManagerment.InterFace.I_Command;
+import PoductManagerment.Enum.ProductType;
 import sun.reflect.generics.reflectiveObjects.NotImplementedException;
 
 public class ProductFactory implements I_Command {

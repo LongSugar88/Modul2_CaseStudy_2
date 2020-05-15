@@ -1,4 +1,4 @@
-package PoductManagerment;
+package PoductManagerment.Sort;
 import Product.Product;
 import java.util.Comparator;
 

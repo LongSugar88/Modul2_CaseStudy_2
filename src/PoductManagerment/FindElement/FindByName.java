@@ -1,11 +1,15 @@
-package PoductManagerment;
+package PoductManagerment.FindElement;
 
+import PoductManagerment.InterFace.I_Command;
+import PoductManagerment.Manager;
+import PoductManagerment.ProductManagerment;
 import Product.Product;
 
 public class FindByName extends Manager implements I_Command {
     boolean isFound = false;
     String name;
     Product product;
+
     public FindByName(ProductManagerment manager) {
         super(manager);
     }
@@ -13,29 +17,26 @@ public class FindByName extends Manager implements I_Command {
         super(manager);
         this.name = name;
     }
-    public String getName() {
-        return name;
-    }
-
-    public void setName(String name) {
-        this.name = name;
-    }
 
     public Product getProduct() {
         return product;
     }
+
     public void setProduct(Product product) {
         this.product = product;
     }
+
     public boolean isFound() {
         return isFound;
     }
+
     public void setFound(boolean found) {
         isFound = found;
     }
 
     @Override
     public void excute() {
+        int count = 1;
         name = name.toUpperCase();
         System.out.println("List found: ");
         System.out.println("*****************************************************");
@@ -44,7 +45,8 @@ public class FindByName extends Manager implements I_Command {
             product = this.manager.get(i);
             String productName = product.getName().toUpperCase();
             if(productName.contains(name)){
-                System.out.println(product.toString());
+                System.out.println("No: " + count + " |" +   product.toString());
+                count++;
                 isFound = true;
             }
         }
